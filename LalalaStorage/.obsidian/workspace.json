@@ -152,11 +152,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0afac04b63d1e408",
+  "active": "9f70c94faec7bcac",
   "lastOpenFiles": [
     "create a link.md",
     "ML/Supervised learning.md",

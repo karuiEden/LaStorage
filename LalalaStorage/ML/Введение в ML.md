@@ -1,0 +1,5 @@
+
+Типы ML:
+1.  Unsupervised Learning(без учителя);
+2. Reinforcement leaning(с подкреплением);
+3. [[Supervised learning|Supervised learning(с учителем)]].

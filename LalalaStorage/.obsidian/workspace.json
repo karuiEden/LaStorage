@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "f18d184c728f124f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb7e982409ae688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0afac04b63d1e408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Supervised learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bce46c90d9a12cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dffc4452730fea58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b778794ae7988df",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff02ed411de236e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58d48a4540919d19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "757981354bc771d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "835bed2920ee2e5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 908.5
+  },
+  "right": {
+    "id": "9e8d2a4cda2b3014",
+    "type": "split",
+    "children": [
+      {
+        "id": "d321dc4ff2418fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16fa56c8ee0b62a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "430f7ea82d0b7030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f5b11d3c6a83c94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7930e409f59a7e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9f70c94faec7bcac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "dffc4452730fea58",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-25 16.25.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-25 16.25.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw",
+    "ML/Supervised learning.md",
+    "Pasted image 20240925151959.png",
+    "Pasted image 20240925152118.png",
+    "Pasted image 20240925152112.png",
+    "ML/Введение в ML.md",
+    "ML/Untitled.canvas",
+    "Welcome.md",
+    "Linear Algebra",
+    "ML",
+    "Calculus",
+    "create a link.md"
+  ]
+}

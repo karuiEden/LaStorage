@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Supervised learning.md",
+                "file": "Python/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Supervised learning.md",
+                "file": "Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Supervised learning.md",
+                "file": "Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Supervised learning.md"
+                "file": "Python/Pandas.md"
               }
             }
           },
@@ -155,10 +155,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f70c94faec7bcac",
+  "active": "0afac04b63d1e408",
   "lastOpenFiles": [
-    "create a link.md",
+    "Pasted image 20240925205443.png",
+    "Python/Plan.md",
+    "Python/Pandas.md",
     "ML/Supervised learning.md",
+    "Python",
+    "create a link.md",
     "Welcome.md",
     "Untitled.md",
     "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md",

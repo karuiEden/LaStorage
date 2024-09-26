@@ -58,6 +58,9 @@ x = np.arange(10)
 y = np.random.randit(1, 10, size=10)
 z = np.random.randit(1, 10, size=10)
 
+# Задаём размер полотна, на котором будет отрисован график 
+plt.figure(figsize=(10, 7))
+
 # Создание линейных графиков
 
 plt.plot(x, y, label="plot_name") # Для понимания присвоим имена нашим графикам
@@ -100,3 +103,31 @@ plt.style.use("style_name")
 
 ```
 
+## Создание диаграмм
+
+При анализе данных, чтобы облегчить себе жизнь можно построить диаграмму. В данном блоке будет использована библиотека [[Pandas]] 
+
+```python
+data =  df.isnan().sum(axis=0)
+
+plt.figure(figsize=(10, 7))
+
+plt.bar(data.indexes, data.values) # Также есть метод barh, который выводит значение на горизонтальную ось
+
+```
+
+
+**Диаграммы:**
+
+```python
+
+plt.hist(df['Column']) # Строит диаграмму
+
+# Добавление вертикальных линий
+plt.axvline(x=n, color='color', linestyle='.', label="name")
+
+...
+
+plt.show()
+
+```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Matplotlib.md",
+                "file": "Python/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 864.5
+    "width": 200
   },
   "right": {
     "id": "9e8d2a4cda2b3014",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Matplotlib.md",
+                "file": "Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Matplotlib.md",
+                "file": "Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Matplotlib.md"
+                "file": "Python/Pandas.md"
               }
             }
           },
@@ -157,9 +157,15 @@
   },
   "active": "e6e6f1b42bfac393",
   "lastOpenFiles": [
-    "Python/Python Plan.md",
-    "Python/Matplotlib.md",
+    "ML/Анализ данных.md",
     "Python/Pandas.md",
+    "Python/Matplotlib.md",
+    "ML/Untitled.canvas",
+    "Python/Seaborn.md",
+    "Pasted image 20240926222152.png",
+    "Pasted image 20240926222146.png",
+    "Pasted image 20240926221726.png",
+    "Python/Python Plan.md",
     "Python/titanic.csv",
     "ML/titanic.csv",
     "Pasted image 20240925205443.png",
@@ -176,7 +182,6 @@
     "Pasted image 20240925152118.png",
     "Pasted image 20240925152112.png",
     "ML/Введение в ML.md",
-    "ML/Untitled.canvas",
     "Linear Algebra",
     "ML",
     "Calculus"

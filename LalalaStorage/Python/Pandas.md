@@ -3,6 +3,7 @@
 
 **Импорт:**
 ```python
+
 import pandas as pd
 ```
 
@@ -15,7 +16,7 @@ series = pd.Series(a) # Стандартный
 
 series = pd.Series(a, index = ["x", "y", "z"]) # Кастомные индексы
 
-
+print(series)
 series
 
 ```
@@ -41,8 +42,15 @@ data = {
 # можно создать таблицу из Python Dict
 # keys словаря будут названиями столбцов
 df = pd.DataFrame(data)
+print(df)
 df
 ```
 
 Обращение к строкам данных такое же, как и к массиву 
 
+**Чтение таблицы из файла:**
+
+```python
+df = pd.read_csv("titanic.csv")
+print(df)
+```

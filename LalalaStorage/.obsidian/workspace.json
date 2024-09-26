@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb7e982409ae688",
+        "id": "dd33db90c672763e",
         "type": "tabs",
         "children": [
           {
-            "id": "0afac04b63d1e408",
+            "id": "6981ab0bae125709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Pandas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +147,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0afac04b63d1e408",
+  "active": "6981ab0bae125709",
   "lastOpenFiles": [
+    "Python/Pandas.md",
+    "Python/titanic.csv",
+    "ML/titanic.csv",
     "Pasted image 20240925205443.png",
     "Python/Plan.md",
-    "Python/Pandas.md",
     "ML/Supervised learning.md",
     "Python",
     "create a link.md",

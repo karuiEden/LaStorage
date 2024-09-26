@@ -61,7 +61,7 @@ z = np.random.randit(1, 10, size=10)
 # Создание линейных графиков
 
 plt.plot(x, y, label="plot_name") # Для понимания присвоим имена нашим графикам
-plt.plot(x, z, label="lalala")
+plt.plot(x, z, color="color",label="lalala") # Также можно изменить цвет линии
 
 # Отображение имён
 
@@ -88,6 +88,15 @@ plt.grid()
 # Отрисовка графиков
 
 plt.show()
+
+```
+
+
+**Стилизация графиков:**
+
+```python
+
+plt.style.use("style_name")
 
 ```
 

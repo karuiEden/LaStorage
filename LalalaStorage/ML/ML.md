@@ -3,3 +3,6 @@
 1.  Unsupervised Learning(без учителя);
 2. Reinforcement leaning(с подкреплением);
 3. [[Supervised learning|Supervised learning(с учителем)]].
+
+Темы:
+1.  [[Анализ данных]]

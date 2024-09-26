@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd33db90c672763e",
+        "id": "2e258b3f8bdad86a",
         "type": "tabs",
         "children": [
           {
-            "id": "6981ab0bae125709",
+            "id": "e6e6f1b42bfac393",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594.5
+    "width": 864.5
   },
   "right": {
     "id": "9e8d2a4cda2b3014",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Pandas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +147,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6981ab0bae125709",
+  "active": "e6e6f1b42bfac393",
   "lastOpenFiles": [
-    "Python/Plan.md",
     "Python/Matplotlib.md",
     "Python/Pandas.md",
+    "Python/Plan.md",
     "Python/titanic.csv",
     "ML/titanic.csv",
     "Pasted image 20240925205443.png",

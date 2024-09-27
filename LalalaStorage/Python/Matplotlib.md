@@ -117,7 +117,7 @@ plt.bar(data.indexes, data.values) # Также есть метод barh, кот
 ```
 
 
-**Диаграммы:**
+**Гистаграммы:**
 
 ```python
 
@@ -131,3 +131,25 @@ plt.axvline(x=n, color='color', linestyle='.', label="name")
 plt.show()
 
 ```
+
+**Круговые диаграммы:**
+
+```python
+data = df['col_name'].value_counts()
+
+plt.pie(data.values, labels=data.index, autopct='%1.1f%%')
+
+plt.show()
+```
+
+![[Pasted image 20240927120403.png]]
+
+**Боксплоты:**
+```python
+...
+
+plt.boxplot([data1, data2])
+
+plt.show()
+```
+![[Pasted image 20240927125636.png]]

@@ -138,11 +138,15 @@ df['Column'].values_counts()
 
 ```
 
-**Нахождение моды**
+**Нахождение некоторых величин**
 
 ```python
 
-df['Column'].mode()
+np.mode(df['Column']) # Считает моду
+
+np.mean(df['Column']) # Считает среднее
+
+np.quantile(df['Column'], q=0.5)
 
 ```
 

@@ -50,3 +50,40 @@ for column in unprocessed_cat_features:
 	df[column] = encode.fit_transorm(df[column])
 
 ```
+
+
+### Scaling data
+
+**Standart Scale:**
+```python
+from sklearn.preprocessing import StandardScaler
+
+  
+
+scaler = StandardScaler()
+
+scaler.fit(X_train)
+
+# Выход pca - numpy матрица, положим ее в новую переменную со всеми фичами
+
+X_train_scaled = scaler.transform(X_train)
+
+X_test_scaled = scaler.transform(X_test)
+```
+
+**MinMaxScale:**
+```python
+from sklearn.preprocessing import MinMaxScaler
+
+  
+
+scaler = MinMaxScaler()
+
+scaler.fit(X_train)
+
+# Выход pca - numpy матрица, положим ее в новую переменную со всеми фичами
+
+X_train_scaled = scaler.transform(X_train)
+
+X_test_scaled = scaler.transform(X_test)
+```

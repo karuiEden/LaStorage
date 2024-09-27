@@ -173,3 +173,23 @@ df.drop(columns=["col1", "col2"], inplace=True)
 df['col'] = ...
 
 ```
+
+
+### One Hot Encoding
+
+```python
+# Perfom One Hot Encoding on the 'ColName' column
+one_hot_df = pd.get_dummies(df['ColName'])
+
+#Add new columns to original df
+...
+
+encode_df
+```
+
+
+### Матрица корреляции
+
+```python
+corrmat = df.corr()
+```

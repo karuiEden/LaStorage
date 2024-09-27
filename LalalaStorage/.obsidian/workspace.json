@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cc03ae64e76174ed",
+        "id": "7cff243169921e63",
         "type": "tabs",
         "children": [
           {
-            "id": "57690e7e66c7e97a",
+            "id": "8041bd9f4a4151d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c7570092154e03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Анализ данных.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Анализ данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Анализ данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Анализ данных.md"
+              }
             }
           },
           {
@@ -147,22 +168,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57690e7e66c7e97a",
+  "active": "9f70c94faec7bcac",
   "lastOpenFiles": [
+    "Python/Seaborn.md",
+    "Pasted image 20240927114737.png",
+    "Pasted image 20240927114438.png",
     "ML/Анализ данных.md",
+    "Python/Pandas.md",
+    "Pasted image 20240927113644.png",
+    "Pasted image 20240927113022.png",
+    "Python/Sklearn.md",
+    "Pasted image 20240927105625.png",
+    "Pasted image 20240927105608.png",
+    "Pasted image 20240927103210.png",
+    "Python/Python Plan.md",
+    "Pasted image 20240927100802.png",
     "ML/ML.md",
     "ML/Supervised learning.md",
-    "Python/Pandas.md",
     "Python/Matplotlib.md",
     "ML/Untitled.canvas",
-    "Python/Seaborn.md",
     "Pasted image 20240926222152.png",
     "Pasted image 20240926222146.png",
-    "Pasted image 20240926221726.png",
-    "Python/Python Plan.md",
     "Python/titanic.csv",
     "ML/titanic.csv",
-    "Pasted image 20240925205443.png",
     "Python",
     "create a link.md",
     "Welcome.md",
@@ -171,9 +199,6 @@
     "Excalidraw/Drawing 2024-09-25 16.25.18.excalidraw.md",
     "Excalidraw/Drawing 2024-09-25 16.25.59.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20240925151959.png",
-    "Pasted image 20240925152118.png",
-    "Pasted image 20240925152112.png",
     "Linear Algebra",
     "ML",
     "Calculus"

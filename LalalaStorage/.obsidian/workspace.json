@@ -23,12 +23,15 @@
             "id": "3c7570092154e03f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML/Подготовка данных для обучения модели.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Pandas.md"
+              }
             }
           },
           {
@@ -160,10 +167,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c7570092154e03f",
+  "active": "8041bd9f4a4151d0",
   "lastOpenFiles": [
-    "ML/ML.md",
     "ML/Подготовка данных для обучения модели.md",
+    "ML/ML.md",
     "ML/Supervised learning.md",
     "Python/Sklearn.md",
     "Python/Pandas.md",

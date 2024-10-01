@@ -46,7 +46,7 @@ $$y_{train} = \begin{pmatrix}y_1\cr ... \cr y_n \end{pmatrix}$$
 
 ![Why do you need to scale data in KNN - Cross Validated](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeL_NmfjjN9uBcONT1LTPUy7B4eA3iPeUyfwGeNU0tayS9NcAEwuzq8cjfzYM3sVYQiOmXeWuNJTzN6AUO2o3fkReG2zN6mQJpqaWu8gekroMG8q8dIZUNuS3RzFnpt22iLRUfqlP79HnnR4QKi_YvadJSbL9nhvKZVHyLERD1n9VgjZAjW=s2048?key=lMBvtV1TQcZWVVgv7RjHYA)
 
-
+Подробнее [[KNN|тут]]
 # Обучение с учителем
 
 Наша задача - найти функцию хорошо приближающую реальную зависимость $y(x)$.

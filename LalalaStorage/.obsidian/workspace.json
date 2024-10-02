@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/KNN.md",
+                "file": "Python/Sklearn.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Inicialization \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/KNN.md",
+                "file": "Python/Sklearn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/KNN.md",
+                "file": "Python/Sklearn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/KNN.md"
+                "file": "Python/Sklearn.md"
               }
             }
           },
@@ -180,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2770b42ba610f17",
+  "active": "757981354bc771d5",
   "lastOpenFiles": [
+    "ML/KNN.md",
     "Pasted image 20241001175157.png",
     "ML/ML.md",
     "ML/Supervised learning.md",
-    "ML/KNN.md",
     "Untitled.md",
     "Python/Pandas.md",
     "ML/Подготовка данных для обучения модели.md",
@@ -202,7 +203,6 @@
     "Pasted image 20240927114438.png",
     "Pasted image 20240927113644.png",
     "Pasted image 20240927113022.png",
-    "Pasted image 20240927105625.png",
     "Python/Python Plan.md",
     "ML/Untitled.canvas",
     "Python/titanic.csv",

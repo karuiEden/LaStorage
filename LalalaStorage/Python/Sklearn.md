@@ -87,3 +87,16 @@ X_train_scaled = scaler.transform(X_train)
 
 X_test_scaled = scaler.transform(X_test)
 ```
+
+## KNN
+
+
+```python
+# Initialization
+model = KNeighborsRegressor(n_neighbors = n) # For regression tasks
+model = KNeighborsClassifier(n_neighbors = n) # For Classification tasks
+
+model.fit(X_train, Y_train) # Learning model
+
+y_pred = model.predict(X_test) # Prediction from model
+```

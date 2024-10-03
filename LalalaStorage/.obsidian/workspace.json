@@ -23,8 +23,12 @@
             "id": "d2770b42ba610f17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Pandas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Pandas.md"
+              }
             }
           },
           {
@@ -174,27 +182,28 @@
   },
   "active": "d2770b42ba610f17",
   "lastOpenFiles": [
-    "Python/Sklearn.md",
-    "ML/Метрики.md",
-    "ML/Supervised learning.md",
-    "ML/Подготовка данных для обучения модели.md",
+    "Python/Matplotlib.md",
     "Python/Pandas.md",
+    "Python/Sklearn.md",
+    "ML/Анализ данных.md",
+    "ML/Подготовка данных для обучения модели.md",
+    "ML/Переобучение.md",
+    "Pasted image 20241003182839.png",
     "ML/ML.md",
+    "ML/Supervised learning.md",
+    "ML/Метрики.md",
     "ML/KNN.md",
     "Pasted image 20241001175157.png",
     "Untitled.md",
-    "ML/Анализ данных.md",
     "Python/Seaborn.md",
     "Pasted image 20240927130101.png",
     "Pasted image 20240927130037.png",
     "Pasted image 20240927125730.png",
-    "Python/Matplotlib.md",
     "Pasted image 20240927125636.png",
     "Pasted image 20240927120403.png",
     "Pasted image 20240927114737.png",
     "Pasted image 20240927114438.png",
     "Pasted image 20240927113644.png",
-    "Pasted image 20240927113022.png",
     "Python/Python Plan.md",
     "ML/Untitled.canvas",
     "Python/titanic.csv",

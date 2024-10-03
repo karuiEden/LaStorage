@@ -134,3 +134,49 @@ R2_test = r2_score(y_test, pred_test)
 
 MAE_test = mean_absolute_error(y_test, pred_test)
 ```
+
+### `GridSearchCV()` 
+
+```python
+model = DecisionTreeRegressor()
+
+  
+
+# опишем сетку, по которой будем искать
+
+param_grid = {
+
+'max_depth': np.arange(1, 5), # также можно указать обычный массив, [1, 2, 3, 4]
+
+'min_samples_leaf': [1,2, 3],
+
+}
+
+  
+
+# создадим объект GridSearchCV
+
+gridsearch = GridSearchCV(model, param_grid, refit=True, scoring=make_scorer(r2_score))
+
+  
+
+# запустим поиск
+
+gridsearch.fit(X_train, y_train)
+
+  
+
+# выведем наилучшие параметры
+
+print(gridsearch.best_params_)
+
+  
+
+best_model = gridsearch.best_estimator_
+
+  
+
+print(f'MSE train = {mean_squared_error(y_train, best_model.predict(X_train))}')
+
+print(f'MSE test = {mean_squared_error(y_test, best_model.predict(X_test))}')
+```

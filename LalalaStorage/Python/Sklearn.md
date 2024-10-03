@@ -100,3 +100,37 @@ model.fit(X_train, Y_train) # Learning model
 
 y_pred = model.predict(X_test) # Prediction from model
 ```
+
+### Метрики
+
+```python
+from sklearn.metrics import mean_squared_error
+
+from sklearn.metrics import r2_score, mean_absolute_error
+
+  
+
+pred_train = model.predict(X_train)
+
+pred_test = model.predict(X_test)
+
+  
+
+MSE_train = mean_squared_error(y_train, pred_train)
+
+RMSE_train = np.sqrt(MSE_train)
+
+R2_train = r2_score(y_train, pred_train)
+
+MAE_train = mean_absolute_error(y_train, pred_train)
+
+  
+
+MSE_test = mean_squared_error(y_test, pred_test)
+
+RMSE_test = np.sqrt(MSE_test)
+
+R2_test = r2_score(y_test, pred_test)
+
+MAE_test = mean_absolute_error(y_test, pred_test)
+```

@@ -23,12 +23,8 @@
             "id": "d2770b42ba610f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Метрики.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Метрики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Метрики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Метрики.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,12 +174,12 @@
   },
   "active": "d2770b42ba610f17",
   "lastOpenFiles": [
-    "ML/Supervised learning.md",
+    "Python/Sklearn.md",
     "ML/Метрики.md",
+    "ML/Supervised learning.md",
     "ML/Подготовка данных для обучения модели.md",
     "Python/Pandas.md",
     "ML/ML.md",
-    "Python/Sklearn.md",
     "ML/KNN.md",
     "Pasted image 20241001175157.png",
     "Untitled.md",

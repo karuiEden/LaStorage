@@ -1,59 +1,48 @@
 {
   "main": {
-    "id": "f18d184c728f124f",
+    "id": "51b3a47ae5e915df",
     "type": "split",
     "children": [
       {
-        "id": "7cff243169921e63",
+        "id": "e915067b8624018f",
         "type": "tabs",
         "children": [
           {
-            "id": "8041bd9f4a4151d0",
+            "id": "ec5db3c56cef49ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/ML/LogLoss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4c3b94b82a53cca",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d2770b42ba610f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Sklearn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c7570092154e03f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Подготовка данных для обучения модели.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7b778794ae7988df",
+    "id": "31de0ecf3cfcd667",
     "type": "split",
     "children": [
       {
-        "id": "eff02ed411de236e",
+        "id": "660ec04259923d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "58d48a4540919d19",
+            "id": "a81fe32355d51ca8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +52,7 @@
             }
           },
           {
-            "id": "757981354bc771d5",
+            "id": "3627e62b684d1e83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +67,7 @@
             }
           },
           {
-            "id": "835bed2920ee2e5f",
+            "id": "3bf8b8c886a1113b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "9e8d2a4cda2b3014",
+    "id": "216fbc1da5ca19f9",
     "type": "split",
     "children": [
       {
-        "id": "d321dc4ff2418fb0",
+        "id": "3063c8e0b81a7bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "16fa56c8ee0b62a6",
+            "id": "8a4581b83f012d77",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -116,7 +105,7 @@
             }
           },
           {
-            "id": "430f7ea82d0b7030",
+            "id": "6130f6a0f80e33cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -127,7 +116,7 @@
             }
           },
           {
-            "id": "1f5b11d3c6a83c94",
+            "id": "95c9b95116dfafd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,27 +127,19 @@
             }
           },
           {
-            "id": "f7930e409f59a7e4",
+            "id": "d4b1ae6a852a8a46",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "9f70c94faec7bcac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,43 +152,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8041bd9f4a4151d0",
+  "active": "a81fe32355d51ca8",
   "lastOpenFiles": [
-    "Python/Seaborn.md",
-    "Python/Pandas.md",
-    "Python/Sklearn.md",
-    "ML/Анализ данных.md",
-    "ML/Метрики.md",
-    "ML/Переобучение.md",
-    "ML/KNN.md",
-    "ML/Подготовка данных для обучения модели.md",
-    "Python/Matplotlib.md",
-    "Pasted image 20241003182839.png",
-    "ML/ML.md",
-    "ML/Supervised learning.md",
-    "Pasted image 20241001175157.png",
+    "LalalaStorage/Комбинаторика/Размещения и сочетания.md",
+    "Вероятностные распределения.md",
+    "LalalaStorage/Комбинаторика",
     "Untitled.md",
-    "Pasted image 20240927130101.png",
-    "Pasted image 20240927130037.png",
-    "Pasted image 20240927125730.png",
-    "Pasted image 20240927125636.png",
-    "Pasted image 20240927120403.png",
-    "Pasted image 20240927114737.png",
-    "Pasted image 20240927114438.png",
-    "Pasted image 20240927113644.png",
-    "Python/Python Plan.md",
-    "ML/Untitled.canvas",
-    "Python/titanic.csv",
-    "ML/titanic.csv",
-    "Python",
-    "create a link.md",
-    "Welcome.md",
-    "Excalidraw/Drawing 2024-09-25 16.22.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-25 16.25.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-25 16.25.59.excalidraw.md",
-    "Excalidraw",
-    "Linear Algebra",
-    "ML",
-    "Calculus"
+    "LalalaStorage/ML/LogLoss.md",
+    "LalalaStorage/Statistics",
+    "LalalaStorage/ML/Логистическая регрессия.md",
+    "LalalaStorage/ML/Supervised learning.md",
+    "LalalaStorage/ML/ML.md",
+    "LalalaStorage/ML/Untitled.canvas",
+    "Подготовка данных для обучения модели^.md",
+    "LalalaStorage/ML/Подготовка данных для обучения модели.md",
+    "LalalaStorage/ML/Переобучение.md",
+    "LalalaStorage/ML/Линейные модели.md",
+    "LalalaStorage/ML/Анализ данных.md",
+    "LalalaStorage/Python/Sklearn.md",
+    "LalalaStorage/Python/Seaborn.md",
+    "README.md"
   ]
 }

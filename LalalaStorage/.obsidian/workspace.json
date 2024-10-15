@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Матрицы.md",
+                "file": "Комбинаторика/Размещения и сочетания.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Матрицы.md",
+                "file": "Комбинаторика/Размещения и сочетания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Матрицы.md",
+                "file": "Комбинаторика/Размещения и сочетания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Матрицы.md"
+                "file": "Комбинаторика/Размещения и сочетания.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "8041bd9f4a4151d0",
   "lastOpenFiles": [
+    "Linear Algebra/Матрицы.md",
     "ML/LogLoss.md",
     "ML/KNN.md",
     "ML/ML.md",
@@ -190,7 +191,6 @@
     "ML/Метрики.md",
     "ML/Логистическая регрессия.md",
     "ML/Линейные модели.md",
-    "Linear Algebra/Матрицы.md",
     "Python/Seaborn.md",
     "Python/Pandas.md",
     "Python/Sklearn.md",

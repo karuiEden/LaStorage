@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "LalalaStorage/Calculus/Множества и функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Множества и функции"
             }
           }
         ],
@@ -218,17 +218,19 @@
   },
   "active": "46b1cef9e5e64ba3",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Множества и функции.md",
+    "Вероятностные распределения.md",
+    "LalalaStorage/Calculus",
+    "LalalaStorage/Statistics/Теория вероятности.md",
+    "LalalaStorage/Statistics/Условная вероятность и независимость событий.md",
+    "LalalaStorage/Statistics/Комбинаторика.md",
+    "Комбинаторика/Размещения и сочетания.md",
     "LalalaStorage/ML/Анализ данных.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/Untitled 1.md",
-    "LalalaStorage/Statistics/Условная вероятность и независимость событий.md",
-    "LalalaStorage/Statistics/Комбинаторика.md",
-    "LalalaStorage/Statistics/Классическое определение вероятности.md",
     "LalalaStorage/Statistics",
     "LalalaStorage/Pasted image 20241018201004.png",
     "LalalaStorage/Linear Algebra/Матрицы.md",
-    "Вероятностные распределения.md",
-    "Комбинаторика/Размещения и сочетания.md",
     "Комбинаторика",
     "Untitled.md",
     "LalalaStorage/ML/LogLoss.md",

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§1 Рациональные последовательности с рациональными пределами.md",
+                "file": "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "§1 Рациональные последовательности с рациональными пределами"
+              "title": "Разложение определителя по элементам строки или столбца"
             }
           }
         ],
@@ -195,11 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§1 Рациональные последовательности с рациональными пределами.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура §1 Рациональные последовательности с рациональными пределами"
+              "title": "Структура"
             }
           },
           {
@@ -213,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -230,11 +228,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4b1ae6a852a8a46",
+  "active": "0c383f390019526b",
   "lastOpenFiles": [
-    "Pasted image 20241108180010.png",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§0 Обоснования.md",
+    "LalalaStorage/Linear Algebra/Свойства определителя.md",
+    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
+    "LalalaStorage/Linear Algebra/Матрицы.md",
+    "LalalaStorage/Linear Algebra/Линейное пространство.md",
+    "LalalaStorage/ML/KNN.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§1 Рациональные последовательности с рациональными пределами.md",
+    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§0 Обоснования.md",
+    "Pasted image 20241108185608.png",
+    "Pasted image 20241108185358.png",
+    "Pasted image 20241108185033.png",
+    "Pasted image 20241108183845.png",
+    "Pasted image 20241108180010.png",
     "Pasted image 20241108174239.png",
     "Pasted image 20241108172713.png",
     "LalalaStorage/Calculus/Множества и функции.md",
@@ -252,7 +259,6 @@
     "LalalaStorage/Untitled 1.md",
     "LalalaStorage/Statistics",
     "LalalaStorage/Pasted image 20241018201004.png",
-    "LalalaStorage/Linear Algebra/Матрицы.md",
     "Комбинаторика",
     "Untitled.md",
     "LalalaStorage/ML/LogLoss.md",
@@ -263,9 +269,6 @@
     "LalalaStorage/ML/Untitled.canvas",
     "Подготовка данных для обучения модели^.md",
     "LalalaStorage/ML/Подготовка данных для обучения модели.md",
-    "LalalaStorage/ML/Переобучение.md",
-    "LalalaStorage/ML/Линейные модели.md",
-    "LalalaStorage/Python/Sklearn.md",
-    "LalalaStorage/Python/Seaborn.md"
+    "LalalaStorage/ML/Переобучение.md"
   ]
 }

@@ -41,44 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/Анализ данных.md",
+                "file": "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§2 Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анализ данных"
-            }
-          },
-          {
-            "id": "46b1cef9e5e64ba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Множества и функции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Множества и функции"
-            }
-          },
-          {
-            "id": "0c383f390019526b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разложение определителя по элементам строки или столбца"
+              "title": "§2 Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§2 Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура §2 Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду"
             }
           },
           {
@@ -228,14 +202,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c383f390019526b",
+  "active": "e47ae7f4ad659738",
   "lastOpenFiles": [
-    "LalalaStorage/Linear Algebra/Свойства определителя.md",
-    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
-    "LalalaStorage/Linear Algebra/Матрицы.md",
-    "LalalaStorage/Linear Algebra/Линейное пространство.md",
-    "LalalaStorage/ML/KNN.md",
+    "LalalaStorage/Calculus/Матан.md",
+    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности.md",
+    "LalalaStorage/Calculus/Множества и функции.md",
+    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§2 Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§1 Рациональные последовательности с рациональными пределами.md",
+    "Pasted image 20241111152401.png",
+    "Pasted image 20241111152336.png",
+    "Pasted image 20241111152316.png",
+    "LalalaStorage/Темы.md",
+    "LalalaStorage/ML/ML.md",
+    "LalalaStorage/Statistics/Статистика.md",
+    "README.md",
+    "Untitled.md",
+    "LalalaStorage/Untitled.md",
+    "LalalaStorage/Untitled 1.md",
+    "LalalaStorage/Linear Algebra/Линал.md",
+    "LalalaStorage/Linear Algebra/Линейное пространство.md",
+    "LalalaStorage/Linear Algebra/Матрицы.md",
+    "LalalaStorage/ML/Анализ данных.md",
+    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
+    "LalalaStorage/Linear Algebra/Свойства определителя.md",
+    "LalalaStorage/ML/KNN.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§0 Обоснования.md",
     "Pasted image 20241108185608.png",
     "Pasted image 20241108185358.png",
@@ -244,31 +234,17 @@
     "Pasted image 20241108180010.png",
     "Pasted image 20241108174239.png",
     "Pasted image 20241108172713.png",
-    "LalalaStorage/Calculus/Множества и функции.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности",
     "LalalaStorage/Calculus/Аксиоматика действительных чисел.md",
     "Untitled 1.md",
-    "Вероятностные распределения.md",
+    "LalalaStorage/Statistics/Вероятностные распределения.md",
     "LalalaStorage/Calculus",
     "LalalaStorage/Statistics/Теория вероятности.md",
     "LalalaStorage/Statistics/Условная вероятность и независимость событий.md",
     "LalalaStorage/Statistics/Комбинаторика.md",
-    "Комбинаторика/Размещения и сочетания.md",
-    "LalalaStorage/ML/Анализ данных.md",
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/Untitled 1.md",
     "LalalaStorage/Statistics",
-    "LalalaStorage/Pasted image 20241018201004.png",
     "Комбинаторика",
-    "Untitled.md",
-    "LalalaStorage/ML/LogLoss.md",
     "Statistics",
-    "LalalaStorage/ML/Логистическая регрессия.md",
-    "LalalaStorage/ML/Supervised learning.md",
-    "LalalaStorage/ML/ML.md",
-    "LalalaStorage/ML/Untitled.canvas",
-    "Подготовка данных для обучения модели^.md",
-    "LalalaStorage/ML/Подготовка данных для обучения модели.md",
-    "LalalaStorage/ML/Переобучение.md"
+    "LalalaStorage/ML/Untitled.canvas"
   ]
 }

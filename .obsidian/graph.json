@@ -41,18 +41,39 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:LalalaStorage/Планы  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:LalalaStorage/Расписание  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:LalalaStorage/АиСД  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 1.37604166666667,
   "lineSizeMultiplier": 1.50364583333333,
   "collapse-forces": false,
-  "centerStrength": 0.078125,
+  "centerStrength": 0.15625,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 351,
-  "scale": 0.31214753848498666,
+  "linkDistance": 346,
+  "scale": 0.46822130772748,
   "close": false
 }

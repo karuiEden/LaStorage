@@ -8,30 +8,72 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "ML",
+      "query": "path:LalalaStorage/ML  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "Python",
+      "query": "path:LalalaStorage/Python  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:\"LalalaStorage/Linear Algebra\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:LalalaStorage/Calculus  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:LalalaStorage/Statistics  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:LalalaStorage/Планы  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:LalalaStorage/Расписание  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:LalalaStorage/АиСД  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.37604166666667,
+  "lineSizeMultiplier": 1.50364583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.15625,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224423,
+  "linkDistance": 346,
+  "scale": 0.46822130772748,
   "close": false
 }

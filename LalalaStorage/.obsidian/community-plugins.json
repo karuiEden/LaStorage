@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "highlightr-plugin",
-  "code-emitter"
+  "code-emitter",
+  "quick-latex",
+  "obsidian-latex-suite"
 ]

@@ -230,8 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75c83232e4db0e79",
+  "active": "9f70c94faec7bcac",
   "lastOpenFiles": [
+    "Calculus/Глава 2. Пределы/§14 Свойства функций, имеющих пределы.md",
+    "Calculus/Глава 2. Пределы/§13 Пределы f(x) при x→∞, бесконечные пределы.md",
+    "Calculus/Глава 2. Пределы/§12 Критерий Коши существования предела функции в точке.md",
+    "Calculus/Глава 2. Пределы/§11 Односторонние пределы.md",
     "Queue_in_Data_Structure-Enqueue_Operation.avif",
     "АиСД/Структуры/Стэк.md",
     "АиСД/Структуры/Очередь.md",
@@ -262,9 +266,6 @@
     "Планы/АиСД Лабораторная 2а.md",
     "АиСД/АиСД.md",
     "Calculus/Глава 2. Пределы/§5 Критерий Коши сходимости последовательностей.md",
-    "conflict-files-obsidian-git.md",
-    "Темы.md",
-    "Расписание/Список дней.md",
     "Расписание",
     "Планы",
     "АиСД/Структуры",
@@ -275,7 +276,6 @@
     "ML/Untitled.canvas",
     "Pasted image 20241003182839.png",
     "Pasted image 20241001175157.png",
-    "Pasted image 20240927130101.png",
     "Python/titanic.csv",
     "ML/titanic.csv",
     "Python",

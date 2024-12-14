@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Расписание/Планы на досуг.md",
+                "file": "LalalaStorage/Calculus/Глава 2. Пределы/§14 Свойства функций, имеющих пределы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Планы на досуг"
+              "title": "§14 Свойства функций, имеющих пределы"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LalalaStorage/Расписание/Планы на досуг.md"
+                "file": "LalalaStorage/АиСД/Структуры/Стэк.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Планы на досуг"
+              "title": "Структура Стэк"
             }
           },
           {
@@ -252,51 +252,52 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "4d27ec7a53391bf9",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Глава 2. Пределы/§13 Пределы f(x) при x→∞, бесконечные пределы.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§14 Свойства функций, имеющих пределы.md",
+    "Pasted image 20241213230108.png",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§11 Односторонние пределы.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§12 Критерий Коши существования предела функции в точке.md",
+    "Pasted image 20241213224945.png",
+    "LalalaStorage/Calculus/Глава 2. Пределы.md",
+    "Pasted image 20241213215543.png",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§10 Предел функции в точке.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§9 Понятие функции.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§6 Частичные пределы. Верхний и нижний пределы последовательностей.md",
+    "LalalaStorage/АиСД/Структуры/Очередь.md",
+    "LalalaStorage/stack.webp",
+    "LalalaStorage/stack 1.webp",
+    "LalalaStorage/Queue_in_Data_Structure-Enqueue_Operation.avif",
+    "LalalaStorage/Pasted image 20241121181609.png",
+    "LalalaStorage/Pasted image 20241121175838.png",
+    "LalalaStorage/Pasted image 20241121173351.png",
+    "LalalaStorage/Pasted image 20241120174014.png",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§8 Абсолютно сходящиеся ряды.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§7 Определение числовых рядов.md",
+    "LalalaStorage/ML/Логистическая регрессия.md",
+    "LalalaStorage/ML/KNN.md",
+    "LalalaStorage/ML/LogLoss.md",
+    "LalalaStorage/АиСД/Структуры/Стэк.md",
+    "LalalaStorage/Планы/АиСД Лабораторная 2а.md",
+    "LalalaStorage/Linear Algebra/Матрицы.md",
+    "LalalaStorage/Расписание/Планы на досуг.md",
     "LalalaStorage/Расписание/2024-11-16.md",
     "LalalaStorage/Расписание/2024-11-15.md",
     "LalalaStorage/Расписание/2024-11-14.md",
     "LalalaStorage/Расписание/Без названия.canvas",
-    "LalalaStorage/Расписание/Планы на досуг.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§6 Частичные пределы. Верхний и нижний пределы последовательностей.md",
     "LalalaStorage/Расписание/Без названия.md",
     "LalalaStorage/Расписание/Безымянная Kanban-доска.md",
     "LalalaStorage/Расписание/Список дней.md",
     "LalalaStorage/Планы/Планы.md",
     "LalalaStorage/Calculus/Глава 2. Пределы/§4 Теорема Больцано-Вейерштрасса.md",
-    "LalalaStorage/ML/LogLoss.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§5 Критерий Коши сходимости последовательностей.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§1. Предел последовательности.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§3 Число e как предел последовательности.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы.md",
-    "Pasted image 20241115150705.png",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§2 Монотонные последовательности.md",
-    "LalalaStorage/АиСД/АиСД.md",
-    "LalalaStorage/Планы/АиСД Лабораторная 2а.md",
-    "LalalaStorage/Планы/АиСД Лабараторная №1.md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§3 Ограниченные множества. Полнота по Вейерштрассу.md",
-    "Pasted image 20241115122702.png",
-    "LalalaStorage/Расписание/2024-11-15 1.md",
-    "LalalaStorage/АиСД/Структуры/Стэк.md",
-    "LalalaStorage/АиСД/Структуры/Непрямоугольные матрицы.md",
-    "Pasted image 20241114185114.png",
-    "LalalaStorage/Темы.md",
     "LalalaStorage/АиСД/Структуры",
-    "LalalaStorage/АиСД/Без названия.md",
     "LalalaStorage/АиСД",
     "LalalaStorage/Ежедневные заметки",
     "LalalaStorage/Расписание/Недели",
     "LalalaStorage/Расписание",
     "LalalaStorage/Планы",
-    "Pasted image 20241112210856.png",
-    "Pasted image 20241112204634.png",
     "LalalaStorage/Calculus/Глава 2. Пределы",
-    "Pasted image 20241112152146.png",
-    "Pasted image 20241112151225.png",
-    "Pasted image 20241112150904.png",
-    "Pasted image 20241112150810.png",
-    "Pasted image 20241112150343.png",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности",
     "LalalaStorage/Calculus",
     "LalalaStorage/Statistics",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Совместные и несовместные события.md",
+                "file": "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Совместные и несовместные события"
+              "title": "Условная вероятность"
             }
           },
           {
@@ -231,8 +231,9 @@
   },
   "active": "8041bd9f4a4151d0",
   "lastOpenFiles": [
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
     "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Совместные и несовместные события.md",
+    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
+    "Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
     "Statistics, Probability Theory and Сombinatorics/Статистика, теория вероятности и комбинаторика.md",
     "Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическое определение вероятности.md",
@@ -266,7 +267,6 @@
     "Pasted image 20241223212849.png",
     "Pasted image 20241223212141.png",
     "Pasted image 20241223211448.png",
-    "Calculus/Глава 3. Непрерывные функции.md",
     "Pasted image 20241223192255.png",
     "Pasted image 20241222225845.png",
     "Pasted image 20241222223441.png",

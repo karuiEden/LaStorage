@@ -11,28 +11,13 @@
             "id": "ec5db3c56cef49ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/ML/LogLoss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LogLoss"
-            }
-          },
-          {
-            "id": "a4c3b94b82a53cca",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -209,26 +194,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Создать новую доску": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4c3b94b82a53cca",
+  "active": "ec5db3c56cef49ee",
   "lastOpenFiles": [
+    "LalalaStorage/ML/Supervised learning.md",
+    "LalalaStorage/ML/ML.md",
+    "LalalaStorage/ML/Анализ данных.md",
+    "LalalaStorage/ML/Подготовка данных для обучения модели.md",
+    "LalalaStorage/ML/Линейные модели.md",
+    "LalalaStorage/ML/Логистическая регрессия.md",
+    "LalalaStorage/ML/Метрики.md",
+    "LalalaStorage/ML/Переобучение.md",
+    "LalalaStorage/ML/KNN.md",
     "Условная вероятность и независимость событий.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Статистика, теория вероятности и комбинаторика.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Условная вероятность и независимость событий.md",
-    "LalalaStorage/ML/Анализ данных.md",
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/§9 Формула Тейлора для элементарных функций.md",
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/§10 Правило Лопиталя.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§1 Рациональные последовательности с рациональными пределами.md",
@@ -247,14 +240,6 @@
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/§4 Основые правила дифференцирования.md",
     "LalalaStorage/Calculus/Глава 2. Пределы/§3 Число e как предел последовательности.md",
     "LalalaStorage/Calculus/Глава 2. Пределы/§4 Теорема Больцано-Вейерштрасса.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§5 Критерий Коши сходимости последовательностей.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§6 Частичные пределы. Верхний и нижний пределы последовательностей.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§7 Определение числовых рядов.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§8 Абсолютно сходящиеся ряды.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§9 Понятие функции.md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§2 Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду.md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§3 Ограниченные множества. Полнота по Вейерштрассу.md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/§4 Принцип стягивающихся отрезков. Полнота R в смысле Г. Кантора.md",
     "Pasted image 20241225151707.png",
     "Pasted image 20241225151003.png",
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной",

@@ -57,10 +57,17 @@
       }
     },
     {
-      "query": "path:LalalaStorage/АиСД  ",
+      "query": "path:LalalaStorage/Алгосы  ",
       "color": {
         "a": 1,
         "rgb": 11621088
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.20809835898999043,
-  "close": true
+  "scale": 0.1484314532795572,
+  "close": false
 }

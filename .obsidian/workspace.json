@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/C++/Базовые конструкции/Строки и векторы.md",
+                "file": "LalalaStorage/C++/Базовые конструкции/Базовые конструкции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Строки и векторы"
+              "title": "Базовые конструкции"
             }
           }
         ]
@@ -211,10 +211,10 @@
   },
   "active": "ec5db3c56cef49ee",
   "lastOpenFiles": [
-    "LalalaStorage/C++/Базовые конструкции/Типы данных.md",
-    "LalalaStorage/C++/Базовые конструкции/Строки и векторы.md",
-    "LalalaStorage/C++/Базовые конструкции/Базовые конструкции.md",
     "LalalaStorage/C++/Базовые конструкции/Основы.md",
+    "LalalaStorage/C++/Базовые конструкции/Строки и векторы.md",
+    "LalalaStorage/C++/Базовые конструкции/Типы данных.md",
+    "LalalaStorage/C++/Базовые конструкции/Базовые конструкции.md",
     "Pasted image 20250126125615.png",
     "Pasted image 20250126125135.png",
     "Pasted image 20250126125101.png",

@@ -11,10 +11,14 @@
             "id": "ec5db3c56cef49ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/C++/Базовые конструкции/Базовые конструкции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые конструкции"
             }
           }
         ]
@@ -207,6 +211,17 @@
   },
   "active": "ec5db3c56cef49ee",
   "lastOpenFiles": [
+    "LalalaStorage/C++/Базовые конструкции/Основы.md",
+    "LalalaStorage/C++/Базовые конструкции/Строки и векторы.md",
+    "LalalaStorage/C++/Базовые конструкции/Типы данных.md",
+    "LalalaStorage/C++/Базовые конструкции/Базовые конструкции.md",
+    "Pasted image 20250126125615.png",
+    "Pasted image 20250126125135.png",
+    "Pasted image 20250126125101.png",
+    "LalalaStorage/C++/C++.md",
+    "LalalaStorage/C++/Базовые конструкции",
+    "LalalaStorage/C++",
+    "LalalaStorage/Untitled.md",
     "LalalaStorage/Python/Pandas.md",
     "LalalaStorage/Python/Matplotlib.md",
     "LalalaStorage/Python/Python Plan.md",
@@ -230,12 +245,6 @@
     "Pasted image 20250114155656.png",
     "LalalaStorage/ML/ML Plan.md",
     "LalalaStorage/ML/Supervised learning.md",
-    "LalalaStorage/ML/ML.md",
-    "LalalaStorage/ML/Анализ данных.md",
-    "LalalaStorage/ML/Подготовка данных для обучения модели.md",
-    "LalalaStorage/ML/Линейные модели.md",
-    "LalalaStorage/ML/Логистическая регрессия.md",
-    "LalalaStorage/ML/Метрики.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности",
     "Pasted image 20241226194714.png",
     "Pasted image 20241226194537.png",
@@ -243,17 +252,12 @@
     "Pasted image 20241225222354.png",
     "Pasted image 20241225205301.png",
     "Pasted image 20241225204525.png",
-    "Pasted image 20241225151707.png",
-    "Pasted image 20241225151003.png",
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной",
-    "LalalaStorage/Pasted image 20241223215403.png",
     "LalalaStorage/Calculus/Глава 3. Непрерывные функции",
     "LalalaStorage/АиСД/Структуры",
     "LalalaStorage/АиСД",
     "LalalaStorage/Ежедневные заметки",
     "LalalaStorage/Расписание/Недели",
-    "LalalaStorage/Расписание",
-    "LalalaStorage/Планы",
     "LalalaStorage/ML/Untitled.canvas"
   ]
 }

@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:ML  ",
+      "query": "path:C++  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.31110799995405414,
-  "close": false
+  "scale": 0.3566885058390387,
+  "close": true
 }

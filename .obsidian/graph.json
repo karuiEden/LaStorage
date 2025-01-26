@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:LalalaStorage/ML  ",
+      "query": "path:LalalaStorage/C++  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1484314532795572,
+  "scale": 0.29175034035924197,
   "close": false
 }

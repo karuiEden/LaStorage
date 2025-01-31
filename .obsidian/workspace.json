@@ -25,18 +25,26 @@
             "id": "12b46c472062ea24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "277911f929958525",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейная модель.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.4"
               },
-              "icon": "lucide-file",
-              "title": "Линейная модель"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейная модель.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Линейная модель"
+              "title": "Outline"
             }
           },
           {
@@ -238,7 +245,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "277911f929958525",
   "lastOpenFiles": [
     "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Линейная модель.md",

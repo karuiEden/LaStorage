@@ -64,10 +64,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:LalalaStorage/ML  ",
       "color": {
         "a": 1,
         "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"LalalaStorage/Дискретная математика(теормин)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 197379
       }
     }
   ],
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5734516453155035,
+  "scale": 0.2917503403592468,
   "close": false
 }

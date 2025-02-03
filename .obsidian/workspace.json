@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "64d852733ff2e616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "f4f73d02959299cc",
             "type": "leaf",
             "state": {
@@ -27,6 +41,20 @@
               },
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "acb2064075957c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Алгосы/Основы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы"
             }
           }
         ],
@@ -233,8 +261,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4f73d02959299cc",
+  "active": "64d852733ff2e616",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Алгосы/Основы.md",
+    "Замыкание.md",
+    "Алгебра множеств.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Теорема Байеса.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Совместные и несовместные события.md",
@@ -246,9 +280,6 @@
     "LalalaStorage/ML/Метрики/Метрики.md",
     "LalalaStorage/ML/Классическое обучение с учителем.md",
     "LalalaStorage/ML/ML Plan.md",
-    "Замыкание.md",
-    "Алгебра множеств.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/ML/Метрики/Метрики регрессии.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
     "LalalaStorage/ML/Метрики",
@@ -257,7 +288,6 @@
     "LalalaStorage/ML",
     "LalalaStorage/C++/Базовые конструкции/Ссылки, указатели, константность.md",
     "LalalaStorage/C++/Базовые конструкции/Составные типы данных.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Комбинаторика.md",
     "LalalaStorage/Pasted image 20240925152118.png",
     "LalalaStorage/Pasted image 20240927105608.png",
@@ -269,11 +299,9 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Характеристики случайной величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайная величина и её распределение.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Линейная модель.md",
-    "LalalaStorage/Дискретная математика(теормин)/матлогика/Нотация Айверсона.md",
     "Pasted image 20250130175457.png",
     "Pasted image 20250130133344.png",
     "Pasted image 20250130132939.png",
-    "LalalaStorage/Дискретная математика(теормин)/Математическая логика.md",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",
     "LalalaStorage/Дискретная математика(теормин)",
     "LalalaStorage/Расписание/Без названия.canvas",

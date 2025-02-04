@@ -32,7 +32,7 @@
       "query": "path:LalalaStorage/Calculus  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10739875
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2910245288494345,
+  "scale": 0.14806218804725468,
   "close": false
 }

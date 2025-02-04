@@ -8,39 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12b46c472062ea24",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "64d852733ff2e616",
+            "id": "f4f73d02959299cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "LalalaStorage/Поле.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "f4f73d02959299cc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Поле"
             }
           },
           {
@@ -57,8 +35,7 @@
               "title": "Основы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,13 +238,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64d852733ff2e616",
+  "active": "f4f73d02959299cc",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/Свойства определителя.md",
+    "LalalaStorage/Поле.md",
+    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
+    "LalalaStorage/Linear Algebra/Матрицы.md",
+    "LalalaStorage/Linear Algebra/Линейное пространство.md",
+    "LalalaStorage/Linear Algebra/Линал.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/Алгосы/Основы.md",
     "Замыкание.md",
     "Алгебра множеств.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Теорема Байеса.md",
@@ -286,9 +269,6 @@
     "LalalaStorage/ML/Основы.md",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/ML",
-    "LalalaStorage/C++/Базовые конструкции/Ссылки, указатели, константность.md",
-    "LalalaStorage/C++/Базовые конструкции/Составные типы данных.md",
-    "LalalaStorage/Комбинаторика.md",
     "LalalaStorage/Pasted image 20240925152118.png",
     "LalalaStorage/Pasted image 20240927105608.png",
     "LalalaStorage/Pasted image 20241222225845.png",
@@ -296,9 +276,6 @@
     "Pasted image 20250202000233.png",
     "Pasted image 20250202145544.png",
     "Pasted image 20250202131546.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Характеристики случайной величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайная величина и её распределение.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная модель.md",
     "Pasted image 20250130175457.png",
     "Pasted image 20250130133344.png",
     "Pasted image 20250130132939.png",

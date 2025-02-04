@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:\"LalalaStorage/Linear Algebra\"  ",
+      "query": "tag:#linear-algebra  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -95,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2572597157218005,
+  "scale": 0.2910245288494345,
   "close": false
 }

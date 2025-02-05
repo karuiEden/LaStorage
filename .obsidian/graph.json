@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:\"LalalaStorage/Linear Algebra\"  ",
+      "query": "tag:#linear-algebra  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -32,7 +32,7 @@
       "query": "path:LalalaStorage/Calculus  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10739875
       }
     },
     {
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 197379
       }
+    },
+    {
+      "query": "tag:#sets  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.12768601741574934,
+  "scale": 0.14806218804725502,
   "close": false
 }

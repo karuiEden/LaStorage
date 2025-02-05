@@ -39,10 +39,14 @@
             "id": "61ea92bb39c73c5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линейная регрессия"
             }
           }
         ],
@@ -251,21 +255,24 @@
   },
   "active": "61ea92bb39c73c5c",
   "lastOpenFiles": [
+    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
+    "LalalaStorage/ML/Основы.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
+    "LalalaStorage/Linear Algebra/Свойства определителя.md",
+    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
     "LalalaStorage/Linear Algebra/Перестановки.md",
+    "LalalaStorage/Linear Algebra/Определение определителя.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Поле.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
     "Алгебра множеств.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностные распределения.md",
     "Замыкание.md",
-    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/§2 Дифференцируемость и дифференциал.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Статистика, теория вероятности и комбинаторика.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
     "LalalaStorage/ML/Метрики/Метрики.md",
-    "LalalaStorage/ML/Основы.md",
     "LalalaStorage/ML/Классическое обучение с учителем.md",
     "LalalaStorage/ML/ML Plan.md",
     "LalalaStorage/Дискретная математика(теормин)/матлогика/Нотация Айверсона.md",
@@ -274,9 +281,6 @@
     "LalalaStorage/C++/Базовые конструкции/Базовые конструкции.md",
     "LalalaStorage/C++/Базовые конструкции/Основы.md",
     "LalalaStorage/C++/Базовые конструкции/Составные типы данных.md",
-    "LalalaStorage/C++/Базовые конструкции/Ссылки, указатели, константность.md",
-    "LalalaStorage/C++/Базовые конструкции/Типы данных.md",
-    "LalalaStorage/C++/Базовые конструкции/Строки и векторы.md",
     "LalalaStorage/Pasted image 20250126220912.png",
     "LalalaStorage/Pasted image 20250126225237.png",
     "Pasted image 20250114155656.png",

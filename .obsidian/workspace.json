@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e915067b8624018f",
+        "id": "be1caddacdb1de54",
         "type": "tabs",
         "children": [
           {
-            "id": "12b46c472062ea24",
+            "id": "61ea92bb39c73c5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Linear Algebra/Обратная матрица.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обратная матрица"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -180,8 +176,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -190,8 +186,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -200,8 +196,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -219,57 +215,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12b46c472062ea24",
+  "active": "61ea92bb39c73c5c",
   "lastOpenFiles": [
-    "Замыкание.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
+    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
     "LalalaStorage/Linear Algebra/Обратная матрица.md",
-    "LalalaStorage/Linear Algebra/Свойства определителя.md",
-    "LalalaStorage/Поле.md",
-    "LalalaStorage/Linear Algebra/Определитель произведения матриц.md",
-    "Pasted image 20250206135544.png",
-    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
-    "Алгебра множеств.md",
     "LalalaStorage/Linear Algebra/Перестановки.md",
     "LalalaStorage/Linear Algebra/Определение определителя.md",
-    "LalalaStorage/Linear Algebra/Линал.md",
-    "LalalaStorage/Python/Matplotlib.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Статистика, теория вероятности и комбинаторика.md",
-    "LalalaStorage/Комбинаторика.md",
-    "LalalaStorage/Pasted image 20240925152118.png",
-    "LalalaStorage/Pasted image 20240927105608.png",
-    "LalalaStorage/Pasted image 20241222225845.png",
-    "Pasted image 20241115150705.png",
-    "Pasted image 20250202000233.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностные распределения.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
-    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
+    "LalalaStorage/Linear Algebra/Определитель произведения матриц.md",
+    "LalalaStorage/Поле.md",
+    "Замыкание.md",
+    "Алгебра множеств.md",
+    "Pasted image 20250206135544.png",
     "Pasted image 20250202145544.png",
-    "LalalaStorage/ML/Метрики/Метрики.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
     "Pasted image 20250202131546.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Характеристики случайной величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайная величина и её распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Теорема Байеса.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
+    "Pasted image 20250202000233.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Совместные и несовместные события.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Теорема Байеса.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностные распределения.md",
     "LalalaStorage/ML/Классическое обучение с учителем.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Статистика, теория вероятности и комбинаторика.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Линейная модель.md",
+    "LalalaStorage/ML/ML Plan.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
+    "LalalaStorage/Linear Algebra/Линал.md",
+    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
+    "LalalaStorage/Linear Algebra/Свойства определителя.md",
+    "Untitled.canvas",
+    "LalalaStorage/Linear Algebra/Матрицы.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
+    "LalalaStorage/ML/Основы.md",
+    "LalalaStorage/Pasted image 20250126220912.png",
+    "LalalaStorage/Pasted image 20250126225237.png",
+    "Pasted image 20250114155656.png",
+    "Pasted image 20250126125135.png",
+    "Pasted image 20250126125101.png",
+    "Pasted image 20250126125615.png",
+    "LalalaStorage/Расписание/Без названия.canvas",
+    "LalalaStorage/ML/Untitled.canvas",
     "LalalaStorage/ML/Метрики",
-    "Pasted image 20250130175457.png",
-    "Pasted image 20250130133344.png",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",
     "LalalaStorage/Дискретная математика(теормин)",
-    "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/АиСД/Структуры",
     "LalalaStorage/АиСД",
-    "LalalaStorage/ML/Untitled.canvas",
     "LalalaStorage/ML",
     "LalalaStorage/C++/Базовые конструкции",
     "LalalaStorage/C++",

@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "cfb7f07ba2e59ee1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +220,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cfb7f07ba2e59ee1",
+  "active": "e47ae7f4ad659738",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
+    "Pasted image 20250207204924.png",
+    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/ML/Метрики/Метрики регрессии.md",
     "LalalaStorage/Linear Algebra/Обратная матрица.md",
@@ -263,15 +253,11 @@
     "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
     "LalalaStorage/Linear Algebra/Свойства определителя.md",
     "Untitled.canvas",
-    "LalalaStorage/Linear Algebra/Матрицы.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
-    "LalalaStorage/ML/Основы.md",
     "LalalaStorage/Pasted image 20250126220912.png",
     "LalalaStorage/Pasted image 20250126225237.png",
     "Pasted image 20250114155656.png",
     "Pasted image 20250126125135.png",
     "Pasted image 20250126125101.png",
-    "Pasted image 20250126125615.png",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas",
     "LalalaStorage/ML/Метрики",

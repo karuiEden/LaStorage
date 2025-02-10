@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "path:LalalaStorage/Statistics  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
       "query": "path:LalalaStorage/Планы  ",
       "color": {
         "a": 1,
@@ -78,7 +71,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#probability  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -95,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1307420623868785,
+  "scale": 0.18329813548638083,
   "close": false
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
+                "file": "LalalaStorage/Linear Algebra/Ранг матрицы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вероятностная модель эксперимента с конечным числом исходов"
+              "title": "Ранг матрицы"
             }
           },
           {
@@ -252,11 +252,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a81fe32355d51ca8",
+  "active": "8b6b0a316b65930e",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/Метод элементарных преобразований и его применение к вычислению обратной матрицы.md",
+    "LalalaStorage/Linear Algebra/Ранг матрицы.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Linear Algebra/Перестановки.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/Linear Algebra/Обратная матрица.md",
     "Pasted image 20250210091036.png",
@@ -289,8 +291,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностные распределения.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
     "LalalaStorage/ML/Метрики/Метрики регрессии.md",
-    "LalalaStorage/ML/Метрики/Метрики.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",

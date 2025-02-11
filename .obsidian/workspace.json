@@ -11,10 +11,14 @@
             "id": "be938296c33877b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Упорядоченные пары и кортежи"
             }
           }
         ]
@@ -222,6 +226,20 @@
   },
   "active": "be938296c33877b8",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Аксиомы множеств.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Множества.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Операции над множествами.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Парадокс Рассела.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
+    "Pasted image 20250211230602.png",
+    "Pasted image 20250211230225.png",
+    "Pasted image 20250211230220.png",
+    "Pasted image 20250211230213.png",
+    "Замыкание.md",
+    "Алгебра множеств.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Untitled.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
     "LalalaStorage/Linear Algebra/Ранг матрицы.md",
     "LalalaStorage/Linear Algebra/Метод элементарных преобразований и его применение к вычислению обратной матрицы.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
@@ -243,23 +261,10 @@
     "LalalaStorage/Дискретная математика(теормин)/Дискретная математика(теоретический минимум).md",
     "LalalaStorage/Дискретная математика(теормин)/Математическая логика.md",
     "LalalaStorage/ML/Метрики.md",
-    "LalalaStorage/ML/KNN.md",
-    "LalalaStorage/ML/LogLoss.md",
-    "LalalaStorage/ML/ML.md",
-    "LalalaStorage/ML/Supervised learning.md",
     "LalalaStorage/ML/Untitled.canvas",
-    "LalalaStorage/ML/Анализ данных.md",
-    "LalalaStorage/ML/Линейные модели.md",
-    "LalalaStorage/ML/Логистическая регрессия.md",
-    "LalalaStorage/ML/Переобучение.md",
-    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
     "Pasted image 20250207204924.png",
     "Pasted image 20250206135544.png",
-    "Pasted image 20250202145544.png",
-    "Pasted image 20250202131546.png",
-    "Pasted image 20250202000233.png",
     "Untitled.canvas",
-    "LalalaStorage/Pasted image 20250126220912.png",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
@@ -269,7 +274,6 @@
     "LalalaStorage/АиСД",
     "LalalaStorage/ML",
     "LalalaStorage/C++/Базовые конструкции",
-    "LalalaStorage/C++",
-    "LalalaStorage/Алгосы"
+    "LalalaStorage/C++"
   ]
 }

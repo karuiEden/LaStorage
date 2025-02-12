@@ -36,20 +36,6 @@
       }
     },
     {
-      "query": "path:LalalaStorage/Планы  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:LalalaStorage/Расписание  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
       "query": "path:LalalaStorage/Алгосы  ",
       "color": {
         "a": 1,
@@ -76,6 +62,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#sets  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1307420623868815,
+  "scale": 0.04744464307659084,
   "close": false
 }

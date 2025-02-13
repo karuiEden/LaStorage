@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/Ранг матрицы.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ранг матрицы"
+              "title": "Вероятностная модель эксперимента с конечным числом исходов"
+            }
+          },
+          {
+            "id": "4690c5e7ddc5a679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Комбинаторика"
             }
           },
           {
@@ -49,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,12 +266,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8b6b0a316b65930e",
+  "active": "4690c5e7ddc5a679",
   "lastOpenFiles": [
-    "LalalaStorage/Linear Algebra/Метод элементарных преобразований и его применение к вычислению обратной матрицы.md",
-    "LalalaStorage/Linear Algebra/Ранг матрицы.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
+    "LalalaStorage/Linear Algebra/Ранг матрицы.md",
+    "LalalaStorage/Linear Algebra/Метод элементарных преобразований и его применение к вычислению обратной матрицы.md",
     "LalalaStorage/Linear Algebra/Перестановки.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/Linear Algebra/Обратная матрица.md",
@@ -290,7 +305,6 @@
     "Pasted image 20241115150705.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностные распределения.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
-    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",

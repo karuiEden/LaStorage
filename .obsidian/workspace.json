@@ -11,10 +11,14 @@
             "id": "be938296c33877b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Расширенная таблица первообразных"
             }
           }
         ]
@@ -104,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейные модели.md",
+                "file": "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Линейные модели"
+              "title": "Backlinks for Расширенная таблица первообразных"
             }
           },
           {
@@ -220,8 +224,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "be938296c33877b8",
+  "active": "e47ae7f4ad659738",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
+    "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
+    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
+    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
+    "LalalaStorage/Calculus/Untitled 1.md",
+    "LalalaStorage/Calculus/Множества и функции.md",
+    "Pasted image 20250214104801.png",
+    "Pasted image 20250214102410.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Аксиомы множеств.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Множества.md",
@@ -251,15 +263,7 @@
     "Комбинаторика/Размещения и сочетания.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
-    "LalalaStorage/ML/Основы.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
-    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
-    "LalalaStorage/Дискретная математика(теормин)/Дискретная математика(теоретический минимум).md",
-    "LalalaStorage/Дискретная математика(теормин)/Математическая логика.md",
-    "LalalaStorage/ML/Метрики.md",
     "LalalaStorage/ML/Untitled.canvas",
-    "Pasted image 20250207204924.png",
-    "Pasted image 20250206135544.png",
     "Untitled.canvas",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Метрики",

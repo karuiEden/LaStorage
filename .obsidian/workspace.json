@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
+                "file": "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Расширенная таблица первообразных"
+              "title": "Интегрирование тригонометрических выражений"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "216fbc1da5ca19f9",
@@ -224,12 +225,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "be938296c33877b8",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
+    "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
+    "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
+    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
     "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
     "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
     "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
-    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
     "LalalaStorage/Calculus/Untitled 1.md",
     "LalalaStorage/Calculus/Множества и функции.md",
     "Pasted image 20250214104801.png",
@@ -259,10 +264,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
     "Pasted image 20250208205958.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
-    "Комбинаторика/Размещения и сочетания.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/ML/Untitled.canvas",
     "Untitled.canvas",
     "LalalaStorage/Расписание/Без названия.canvas",

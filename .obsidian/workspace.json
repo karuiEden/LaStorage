@@ -50,6 +50,48 @@
             }
           },
           {
+            "id": "1b3fd3ceea9f72a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Комбинаторика"
+            }
+          },
+          {
+            "id": "9be6552a030e8fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задача о беспорядках"
+            }
+          },
+          {
+            "id": "f4a921183d6a4cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Calculus/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "17325d0e64de14b9",
             "type": "leaf",
             "state": {
@@ -63,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,45 +308,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4690c5e7ddc5a679",
+  "active": "f4a921183d6a4cf6",
   "lastOpenFiles": [
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
+    "LalalaStorage/Calculus/Разбиение.md",
+    "LalalaStorage/Calculus/Untitled.md",
+    "LalalaStorage/Python/Seaborn.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
+    "LalalaStorage/Python/Matplotlib.md",
+    "LalalaStorage/Python/Sklearn.md",
+    "LalalaStorage/Python/Pandas.md",
+    "Pasted image 20250211230602.png",
+    "Pasted image 20250211230225.png",
+    "Pasted image 20250211230220.png",
+    "Pasted image 20250211230213.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Парадокс Рассела.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Операции над множествами.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Множества.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Аксиомы множеств.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Untitled.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/Linear Algebra/Ранг матрицы.md",
     "LalalaStorage/Linear Algebra/Метод элементарных преобразований и его применение к вычислению обратной матрицы.md",
     "LalalaStorage/Linear Algebra/Перестановки.md",
-    "conflict-files-obsidian-git.md",
     "LalalaStorage/Linear Algebra/Обратная матрица.md",
     "Pasted image 20250210091036.png",
     "Pasted image 20250210090943.png",
     "Pasted image 20250210090433.png",
     "Pasted image 20250208205958.png",
     "LalalaStorage/Linear Algebra/Определение определителя.md",
-    "LalalaStorage/Linear Algebra/Разложение определителя по элементам строки или столбца.md",
-    "LalalaStorage/Linear Algebra/Свойства определителя.md",
-    "LalalaStorage/Linear Algebra/Определитель произведения матриц.md",
-    "Комбинаторика/Размещения и сочетания.md",
     "Комбинаторика",
-    "Вероятностные распределения.md",
     "Pasted image 20250207204924.png",
-    "LalalaStorage/Untitled.md",
-    "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
-    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
-    "Замыкание.md",
-    "LalalaStorage/Поле.md",
     "Pasted image 20250206135544.png",
-    "Алгебра множеств.md",
-    "LalalaStorage/Linear Algebra/Линал.md",
-    "LalalaStorage/Python/Matplotlib.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Статистика, теория вероятности и комбинаторика.md",
-    "LalalaStorage/Комбинаторика.md",
-    "LalalaStorage/Pasted image 20240925152118.png",
-    "LalalaStorage/Pasted image 20240927105608.png",
-    "LalalaStorage/Pasted image 20241222225845.png",
-    "Pasted image 20241115150705.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностные распределения.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности.md",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",
@@ -314,7 +357,6 @@
     "LalalaStorage/АиСД",
     "LalalaStorage/ML/Untitled.canvas",
     "LalalaStorage/ML",
-    "LalalaStorage/C++/Базовые конструкции",
-    "LalalaStorage/C++"
+    "LalalaStorage/C++/Базовые конструкции"
   ]
 }

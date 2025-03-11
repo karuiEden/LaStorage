@@ -92,6 +92,16 @@
             }
           },
           {
+            "id": "050d2e7d83ca8cee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "17325d0e64de14b9",
             "type": "leaf",
             "state": {
@@ -105,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -308,17 +318,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4a921183d6a4cf6",
+  "active": "050d2e7d83ca8cee",
   "lastOpenFiles": [
-    "LalalaStorage/Calculus/Разбиение.md",
+    "conflict-files-obsidian-git.md",
     "LalalaStorage/Calculus/Untitled.md",
+    "Pasted image 20250214104801.png",
+    "Pasted image 20250214102410.png",
+    "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
+    "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
+    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
+    "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
+    "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
+    "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "LalalaStorage/Calculus/Untitled 1.md",
+    "LalalaStorage/Calculus/Разбиение.md",
     "LalalaStorage/Python/Seaborn.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
-    "conflict-files-obsidian-git.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Python/Matplotlib.md",
     "LalalaStorage/Python/Sklearn.md",
@@ -332,22 +351,12 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Операции над множествами.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Множества.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Аксиомы множеств.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Untitled.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
-    "LalalaStorage/Linear Algebra/Ранг матрицы.md",
-    "LalalaStorage/Linear Algebra/Метод элементарных преобразований и его применение к вычислению обратной матрицы.md",
-    "LalalaStorage/Linear Algebra/Перестановки.md",
-    "LalalaStorage/Linear Algebra/Обратная матрица.md",
     "Pasted image 20250210091036.png",
     "Pasted image 20250210090943.png",
     "Pasted image 20250210090433.png",
     "Pasted image 20250208205958.png",
-    "LalalaStorage/Linear Algebra/Определение определителя.md",
     "Комбинаторика",
-    "Pasted image 20250207204924.png",
-    "Pasted image 20250206135544.png",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",

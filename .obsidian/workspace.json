@@ -83,22 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Untitled.md",
+                "file": "LalalaStorage/Calculus/Интеграл Дарбу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "050d2e7d83ca8cee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Интеграл Дарбу"
             }
           },
           {
@@ -115,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,20 +308,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "050d2e7d83ca8cee",
+  "active": "f4a921183d6a4cf6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Calculus/Сумма Д'Арбу.md",
+    "LalalaStorage/Calculus/Интеграл Дарбу.md",
+    "LalalaStorage/Calculus/Матан.md",
+    "Pasted image 20250311111642.png",
     "LalalaStorage/Calculus/Untitled.md",
-    "Pasted image 20250214104801.png",
-    "Pasted image 20250214102410.png",
+    "LalalaStorage/Поле.md",
+    "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
+    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
+    "LalalaStorage/Calculus/Разбиение.md",
+    "LalalaStorage/Calculus/Множества и функции.md",
     "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
     "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
     "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
     "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
     "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
     "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20250214104801.png",
+    "Pasted image 20250214102410.png",
     "LalalaStorage/Calculus/Untitled 1.md",
-    "LalalaStorage/Calculus/Разбиение.md",
     "LalalaStorage/Python/Seaborn.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
@@ -341,21 +339,14 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Python/Matplotlib.md",
     "LalalaStorage/Python/Sklearn.md",
-    "LalalaStorage/Python/Pandas.md",
     "Pasted image 20250211230602.png",
     "Pasted image 20250211230225.png",
     "Pasted image 20250211230220.png",
     "Pasted image 20250211230213.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Парадокс Рассела.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Операции над множествами.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Множества.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
     "Pasted image 20250210091036.png",
     "Pasted image 20250210090943.png",
     "Pasted image 20250210090433.png",
-    "Pasted image 20250208205958.png",
     "Комбинаторика",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",

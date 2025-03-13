@@ -92,6 +92,19 @@
             }
           },
           {
+            "id": "ec7b9805baeecfb3",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Интегрирование дифференциальных биномов)"
+            }
+          },
+          {
             "id": "17325d0e64de14b9",
             "type": "leaf",
             "state": {
@@ -105,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -308,10 +321,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4a921183d6a4cf6",
+  "active": "ec7b9805baeecfb3",
   "lastOpenFiles": [
-    "LalalaStorage/Calculus/Сумма Д'Арбу.md",
+    "conflict-files-obsidian-git.md",
     "LalalaStorage/Calculus/Интеграл Дарбу.md",
+    "LalalaStorage/Calculus/Сумма Д'Арбу.md",
     "LalalaStorage/Calculus/Матан.md",
     "Pasted image 20250311111642.png",
     "LalalaStorage/Calculus/Untitled.md",
@@ -326,7 +340,6 @@
     "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
     "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
     "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20250214104801.png",
     "Pasted image 20250214102410.png",
     "LalalaStorage/Calculus/Untitled 1.md",

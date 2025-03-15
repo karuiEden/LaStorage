@@ -95,13 +95,14 @@
             "id": "ec7b9805baeecfb3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
-                "staged": false
+                "file": "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Интегрирование дифференциальных биномов)"
+              "icon": "lucide-file",
+              "title": "Критерии интегрируемости по Риману"
             }
           },
           {
@@ -323,12 +324,14 @@
   },
   "active": "ec7b9805baeecfb3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/Calculus/Интеграл Дарбу.md",
-    "LalalaStorage/Calculus/Сумма Д'Арбу.md",
+    "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
+    "LalalaStorage/Calculus/Интеграл Римана.md",
+    "Pasted image 20250313111026.png",
     "LalalaStorage/Calculus/Матан.md",
+    "LalalaStorage/Calculus/Сумма Дарбу.md",
+    "LalalaStorage/Calculus/Интеграл Дарбу.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20250311111642.png",
-    "LalalaStorage/Calculus/Untitled.md",
     "LalalaStorage/Поле.md",
     "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
     "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
@@ -342,7 +345,6 @@
     "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
     "Pasted image 20250214104801.png",
     "Pasted image 20250214102410.png",
-    "LalalaStorage/Calculus/Untitled 1.md",
     "LalalaStorage/Python/Seaborn.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
@@ -351,7 +353,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
     "LalalaStorage/Python/Matplotlib.md",
-    "LalalaStorage/Python/Sklearn.md",
     "Pasted image 20250211230602.png",
     "Pasted image 20250211230225.png",
     "Pasted image 20250211230220.png",
@@ -359,7 +360,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
     "Pasted image 20250210091036.png",
     "Pasted image 20250210090943.png",
-    "Pasted image 20250210090433.png",
     "Комбинаторика",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",

@@ -4,122 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e915067b8624018f",
+        "id": "be1caddacdb1de54",
         "type": "tabs",
         "children": [
           {
-            "id": "12b46c472062ea24",
+            "id": "be938296c33877b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/Обратная матрица.md",
+                "file": "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обратная матрица"
+              "title": "Интеграл Римана. Необходимое условие интегрирования на отрезке"
             }
           },
           {
-            "id": "8b6b0a316b65930e",
+            "id": "da58f05d721e2183",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.7"
               },
-              "icon": "lucide-file",
-              "title": "Вероятностная модель эксперимента с конечным числом исходов"
-            }
-          },
-          {
-            "id": "4690c5e7ddc5a679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Комбинаторика"
-            }
-          },
-          {
-            "id": "1b3fd3ceea9f72a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Комбинаторика"
-            }
-          },
-          {
-            "id": "9be6552a030e8fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задача о беспорядках"
-            }
-          },
-          {
-            "id": "f4a921183d6a4cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Интеграл Дарбу.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Интеграл Дарбу"
-            }
-          },
-          {
-            "id": "ec7b9805baeecfb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Критерии интегрируемости по Риману"
-            }
-          },
-          {
-            "id": "17325d0e64de14b9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/graph.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (graph.json)"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейные модели.md",
+                "file": "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Линейные модели"
+              "title": "Backlinks for Расширенная таблица первообразных"
             }
           },
           {
@@ -240,7 +154,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -322,54 +236,55 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec7b9805baeecfb3",
+  "active": "be938296c33877b8",
   "lastOpenFiles": [
-    "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
-    "LalalaStorage/Calculus/Интеграл Римана.md",
-    "Pasted image 20250313111026.png",
-    "LalalaStorage/Calculus/Матан.md",
-    "LalalaStorage/Calculus/Сумма Дарбу.md",
+    "LalalaStorage/Calculus/Разбиение.md",
+    "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
     "LalalaStorage/Calculus/Интеграл Дарбу.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20250311111642.png",
-    "LalalaStorage/Поле.md",
+    "Pasted image 20250315115936.png",
+    "LalalaStorage/Calculus/Сумма Дарбу.md",
+    "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
+    "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
+    "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
+    "LalalaStorage/Calculus/Матан.md",
+    "LalalaStorage/Calculus/Множества и функции.md",
+    "LalalaStorage/Calculus/Понятие неопределённого интеграла. Теорема о структуре множества первообразных.md",
+    "LalalaStorage/Calculus/Интегрирование по частям.md",
+    "LalalaStorage/Calculus/Свойства неопределённого интеграла.md",
+    "LalalaStorage/Calculus/Теорема о замене переменной в неопределённом интеграле.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§9 Понятие функции.md",
     "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
     "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
-    "LalalaStorage/Calculus/Разбиение.md",
-    "LalalaStorage/Calculus/Множества и функции.md",
-    "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
-    "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
-    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
     "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
     "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
     "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
+    "LalalaStorage/C++/Базовые конструкции/Ссылки, указатели, константность.md",
+    "Pasted image 20250313111026.png",
+    "Pasted image 20250311111642.png",
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/ML/Основы.md",
+    "LalalaStorage/Python/Pandas.md",
+    "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной.md",
     "Pasted image 20250214104801.png",
     "Pasted image 20250214102410.png",
-    "LalalaStorage/Python/Seaborn.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Геометрическая вероятность.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
-    "LalalaStorage/Python/Matplotlib.md",
     "Pasted image 20250211230602.png",
     "Pasted image 20250211230225.png",
     "Pasted image 20250211230220.png",
     "Pasted image 20250211230213.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
     "Pasted image 20250210091036.png",
-    "Pasted image 20250210090943.png",
-    "Комбинаторика",
+    "LalalaStorage/ML/Untitled.canvas",
+    "Untitled.canvas",
+    "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
     "LalalaStorage/Дискретная математика(теормин)/матлогика",
     "LalalaStorage/Дискретная математика(теормин)",
-    "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/АиСД/Структуры",
     "LalalaStorage/АиСД",
-    "LalalaStorage/ML/Untitled.canvas",
     "LalalaStorage/ML",
-    "LalalaStorage/C++/Базовые конструкции"
+    "LalalaStorage/C++/Базовые конструкции",
+    "LalalaStorage/C++"
   ]
 }

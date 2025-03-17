@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Понятие неопределённого интеграла. Теорема о структуре множества первообразных.md",
-                "mode": "source",
-                "source": false
+                "file": "LalalaStorage/Calculus/Формула замены переменной в определённом интеграле.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Понятие неопределённого интеграла. Теорема о структуре множества первообразных"
+              "title": "Формула замены переменной в определённом интеграле"
             }
           },
           {
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#integral  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "2024-11-14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,33 +238,33 @@
   },
   "active": "be938296c33877b8",
   "lastOpenFiles": [
-    "LalalaStorage/Calculus/Глава 2. Пределы/§9 Понятие функции.md",
-    "LalalaStorage/Calculus/Достаточное условие интегрируемости на отрезке.md",
-    "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
-    "LalalaStorage/Calculus/Интегрирование неравенства.md",
-    "LalalaStorage/Calculus/Calculus.rar",
-    "LalalaStorage/Calculus/Интеграл с переменным верхним пределом. Теорема о дифференцировании интеграла по верхнему пределу..md",
-    "LalalaStorage/Calculus/Линейность определённого интеграла.md",
-    "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/Свойства определённого интеграла.md",
-    "LalalaStorage/Calculus/Формула замены переменной в определённом интеграле.md",
     "LalalaStorage/Calculus/Формула интегрирования по частям в определённом интеграле.md",
-    "LalalaStorage/Calculus/Формула Ньютона-Лейбница.md",
+    "LalalaStorage/Calculus/Интеграл с переменным верхним пределом. Теорема о дифференцировании интеграла по верхнему пределу..md",
     "LalalaStorage/Calculus/Аддитивность.md",
-    "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной.md",
-    "LalalaStorage/Calculus/Сумма Дарбу.md",
     "LalalaStorage/Calculus/Оценка значения интеграла Римана. Теоремы о среднем.md",
-    "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
-    "LalalaStorage/Calculus/Понятие неопределённого интеграла. Теорема о структуре множества первообразных.md",
-    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
-    "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
-    "LalalaStorage/Calculus/Свойства неопределённого интеграла.md",
-    "LalalaStorage/Calculus/Теорема о замене переменной в неопределённом интеграле.md",
-    "LalalaStorage/Calculus/Множества и функции.md",
-    "LalalaStorage/Calculus/Матан.md",
     "LalalaStorage/Calculus/Колебания.md",
-    "LalalaStorage/Calculus/Интеграл Дарбу.md",
-    "LalalaStorage/Calculus/Разбиение.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/§18 Монотонные функции.md",
+    "LalalaStorage/Calculus/Линейность определённого интеграла.md",
+    "LalalaStorage/Calculus/Достаточное условие интегрируемости на отрезке.md",
+    "LalalaStorage/Calculus/Критерии интегрируемости по Риману.md",
+    "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
+    "LalalaStorage/Calculus/Сумма Дарбу.md",
+    "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
+    "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
+    "LalalaStorage/Calculus/Теорема о замене переменной в неопределённом интеграле.md",
+    "LalalaStorage/Calculus/Свойства неопределённого интеграла.md",
+    "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "LalalaStorage/Calculus/Интегрирование по частям.md",
+    "LalalaStorage/Calculus/Интегрирование неравенства.md",
+    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
+    "LalalaStorage/Calculus/Интегрирование простейших дробей I - IV типов.md",
+    "LalalaStorage/Calculus/Рациональные дроби и их интегрирование.md",
+    "LalalaStorage/Calculus/Понятие неопределённого интеграла. Теорема о структуре множества первообразных.md",
+    "LalalaStorage/Calculus/Формула замены переменной в определённом интеграле.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/§9 Понятие функции.md",
+    "LalalaStorage/Calculus/Calculus.rar",
+    "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/Свойства определённого интеграла.md",
+    "LalalaStorage/Calculus/Формула Ньютона-Лейбница.md",
+    "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной.md",
     "Pasted image 20250315115936.png",
     "Pasted image 20250313111026.png",
     "Pasted image 20250311111642.png",

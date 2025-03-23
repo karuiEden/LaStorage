@@ -128,8 +128,8 @@
                 "file": ".obsidian/graph.json",
                 "staged": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (graph.json)"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],

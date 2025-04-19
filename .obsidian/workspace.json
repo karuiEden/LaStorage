@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Выборка.md",
+                "file": "LalalaStorage/Методы оптимизации/Основы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Выборка"
+              "title": "Основы"
             }
           },
           {
@@ -350,9 +350,23 @@
   },
   "active": "7122ecee39749bb0",
   "lastOpenFiles": [
+    "LalalaStorage/Расписание/Планы на досуг.md",
+    "LalalaStorage/Методы оптимизации/Основы.md",
+    "LalalaStorage/Методы оптимизации",
+    "LalalaStorage/Планы/Планы.md",
+    "LalalaStorage/Планы/АиСД Лабораторная 2а.md",
+    "LalalaStorage/ML/Основы.md",
+    "LalalaStorage/Calculus/Аддитивность.md",
+    "LalalaStorage/Calculus/Формула Ньютона-Лейбница.md",
+    "LalalaStorage/Calculus/Формула интегрирования по частям в определённом интеграле.md",
+    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
+    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/§1 Функции, непрерывные в точке.md",
+    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/§2 Функции, непрерывные на промежутке.md",
+    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/§3 Равномерная непрерывность.md",
+    "LalalaStorage/Python/Pandas.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Выборка.md",
     "Pasted image 20250325131619.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Операции над множествами.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Выборка.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Мощность множеств.md",
     "LalalaStorage/Calculus/Множества и функции.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Множества.md",
@@ -363,19 +377,7 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Аксиомы множеств.md",
     "LalalaStorage/Calculus/Оценка значения интеграла Римана. Теоремы о среднем.md",
     "LalalaStorage/Calculus/Формула замены переменной в определённом интеграле.md",
-    "LalalaStorage/Calculus/Формула интегрирования по частям в определённом интеграле.md",
     "LalalaStorage/Calculus/Интеграл с переменным верхним пределом. Теорема о дифференцировании интеграла по верхнему пределу..md",
-    "LalalaStorage/Calculus/Критерий Лебега.md",
-    "LalalaStorage/Calculus/Формула Ньютона-Лейбница.md",
-    "LalalaStorage/Calculus/Аддитивность.md",
-    "LalalaStorage/Calculus/Сумма Дарбу.md",
-    "LalalaStorage/Calculus/Интеграл Дарбу.md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности.md",
-    "LalalaStorage/Calculus/Норма.md",
-    "LalalaStorage/Calculus/Интегрирование неравенства.md",
-    "LalalaStorage/Calculus/Линейность определённого интеграла.md",
-    "LalalaStorage/Calculus/Достаточное условие интегрируемости на отрезке.md",
-    "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
     "Pasted image 20250321133346.png",
     "LalalaStorage/Calculus/__rar_18524.38909.rartemp",
     "LaStorage.rar",
@@ -389,13 +391,11 @@
     "Pasted image 20250210090943.png",
     "Pasted image 20250210091036.png",
     "Pasted image 20250211230213.png",
-    "Pasted image 20250211230220.png",
     "Statistics",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП",
     "Комбинаторика",
     "LalalaStorage/ML/Метрики",
     "LalalaStorage/ML/Классическое обучение с учителем",
-    "LalalaStorage/Дискретная математика(теормин)/матлогика",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

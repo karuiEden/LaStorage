@@ -5,5 +5,9 @@
   "obsidian-tasks-plugin",
   "table-editor-obsidian",
   "obsidian-kanban",
-  "calendar"
+  "calendar",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-icon-folder",
+  "editing-toolbar"
 ]

@@ -150,12 +150,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
+                "file": "LalalaStorage/Calculus/Формула Тейлора.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интегрирование выражений. Подстановки Эйлера"
+              "title": "Формула Тейлора"
             }
           }
         ],
@@ -365,6 +365,7 @@
   },
   "active": "c3a845b25c8cd4c3",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
     "LalalaStorage/Calculus/Формула Тейлора.md",
     "LalalaStorage/Методы оптимизации/Основы.md",
     "conflict-files-obsidian-git.md",
@@ -392,7 +393,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Парадокс Рассела.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Аксиомы множеств.md",
     "Pasted image 20250321133346.png",
     "LalalaStorage/Calculus/__rar_18524.38909.rartemp",
     "LaStorage.rar",

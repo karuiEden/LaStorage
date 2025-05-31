@@ -9,5 +9,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-icon-folder",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-pandoc"
 ]

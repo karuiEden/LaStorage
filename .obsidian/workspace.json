@@ -164,16 +164,194 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Вопросы к сессии. Матан.md",
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы к сессии. Матан"
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "c7b9da4baa6a27b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "af121e380717e884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "430c1811d94b0752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "bb81d8bfcddbc58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "8a1b43f90b0aab7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "a0451eb782e93ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "34fb615c7e1744f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "e64594a255eb3b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "e0185f8f39af1027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "b487b2cfde542064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "8182fc80a2dfed4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "7267cedc053a86a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линал. Экзамен"
+            }
+          },
+          {
+            "id": "84485a0dfd73ddbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -205,7 +383,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "оболоч",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,34 +555,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301d87a431bd1589",
+  "active": "84485a0dfd73ddbd",
   "lastOpenFiles": [
-    "LalalaStorage/Calculus/Метод множителей Лагранжа для нахождения критических точек условного экстремума. Достаточный критерий условного локального максимума и минимума..md",
-    "LalalaStorage/Calculus/Вопросы к сессии. Матан.md",
-    "LalalaStorage/Calculus/Понятие условного локального экстремума. Метод исключения неизвестных. Необходимые условия локального условного экстремума. Достаточные условия локального условного экстремума..md",
-    "LalalaStorage/Calculus/Функции НП, задаваемые неявно и параметрическими уравнениями. Их существование и дифференцирование..md",
-    "LalalaStorage/Calculus/Инвариантность формы первого дифференциала. Производная функции по направлению. Градиент. Уравнения поверхности в пространстве..md",
+    "LalalaStorage/Linear Algebra/Лемма о скалярном произведении.md",
+    "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+    "LalalaStorage/Linear Algebra/Ортогональное разложение вектора.md",
+    "Ортогональное дополнение подпространства.md",
+    "Pasted image 20250604084519.png",
+    "LalalaStorage/Linear Algebra/Теорема о прямой сумме в евклидовом пространстве.md",
+    "Ортогональные подпространства.md",
+    "LalalaStorage/Calculus/Дифференцируемые отображения.md",
+    "Ортонормированный базис.md",
+    "Унитарная матрица.md",
+    "Ортогональная матрица.md",
+    "Теорема об ортогонализации Грама - Шмидта.md",
+    "Теорема об определителе матрицы Грама.md",
+    "LalalaStorage/Linear Algebra/Матрица Грама.md",
+    "LalalaStorage/Linear Algebra/Полуторалинейная форма.md",
+    "Неравенство треугольника.md",
+    "Неравенство Коши – Буняковского.md",
+    "Унитарное пространство.md",
+    "Евклидово пространство.md",
     "LalalaStorage/Calculus/Линейное пространство Rn и его топология. Последовательности в Rn их пределы, связь с пределами их компонент. Единственность предела..md",
-    "LalalaStorage/Calculus/Достаточный признак Абеля сходимости несобственных интегралов..md",
-    "LalalaStorage/Calculus/Достаточный признак Дирихле сходимости несобственных интегралов..md",
-    "LalalaStorage/Calculus/Признаки сравнения 1 и 2 для несобственных интегралов..md",
-    "LalalaStorage/Calculus/Понятие несобственного интеграла. Необходимые и достаточные условия его сходимости..md",
-    "LalalaStorage/Calculus/Несобственные интегралы от положительнозначных функций. Необходимое и достаточное условие их сходимости..md",
-    "LalalaStorage/Calculus/Понятие объема тела вращения. Формулы для вычисления объема тела вращения криволинейной трапеции вокруг координатных осей (доказать)..md",
-    "LalalaStorage/Calculus/Понятие длины кривой. Формулы для вычисления длины кривой, заданной графиком функции, параметрическими уравнениями, уравнением в полярной системе координат (доказать)..md",
-    "LalalaStorage/Calculus/Формулы для вычисления площади области на плоскости, граница которой задана параметрическими уравнениями, уравнениями в полярной системе координат.md",
-    "LalalaStorage/Calculus/Существование площади криволинейной трапеции. Формула для ее вычисления.md",
-    "LalalaStorage/Calculus/Приращение функции НП. Дифференцируемость функции НП в точке. Теорема о непрерывности функции в точке в случае, если она дифференцируема в этой точке..md",
-    "LalalaStorage/Calculus/Частные производные и дифференциалы высших порядков. Теорема Юнга о равенстве смешанных производных.md",
+    "LalalaStorage/Calculus/Понятие условного локального экстремума. Метод исключения неизвестных. Необходимые условия локального условного экстремума. Достаточные условия локального условного экстремума..md",
     "LalalaStorage/Calculus/Безусловный экстремум.md",
-    "LalalaStorage/Calculus/Теорема о дифференцируемости сложной функции. Формулы для частных производных сложной функции..md",
-    "LalalaStorage/Calculus/Интеграл с переменным верхним пределом. Теорема о дифференцировании интеграла по верхнему пределу..md",
-    "LalalaStorage/Calculus/Формула Ньютона-Лейбница.md",
-    "LalalaStorage/Calculus/Дифференцируемость НП.md",
-    "LalalaStorage/Calculus/Формула конечных приращений Лагранжа для функций НП.md",
-    "LalalaStorage/Calculus/Формула Тейлора.md",
-    "LalalaStorage/Calculus/Свойства определённого интеграла.md",
-    "LalalaStorage/Calculus/Оценка значения интеграла Римана. Теоремы о среднем.md",
+    "Критерий Сильвестра.md",
+    "Критерий знакоопределенности формы.md",
+    "Метод Якоби.md",
+    "LalalaStorage/Linear Algebra/Знакоопределенность квадратичной формы.md",
+    "LalalaStorage/Linear Algebra/Закон инерции квадратичных форм.md",
+    "Pasted image 20250603183427.png",
+    "Pasted image 20250603182649.png",
+    "Pasted image 20250603182458.png",
+    "Pasted image 20250603182302.png",
     "LalalaStorage/Exam Calculus.rar",
     "LalalaStorage/Exam Calculus/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной",
     "LalalaStorage/Exam Calculus/Calculus/Глава 3. Непрерывные функции",
@@ -416,11 +599,6 @@
     "LalalaStorage/Exam Calculus/Pasted image 20241223192255.png",
     "LalalaStorage/Exam Calculus/Pasted image 20241222225845.png",
     "LalalaStorage/Exam Calculus/Pasted image 20241222223441.png",
-    "LalalaStorage/Exam Calculus/Pasted image 20241222221822.png",
-    "LalalaStorage/Exam Calculus/Pasted image 20241222162204.png",
-    "LalalaStorage/Exam Calculus/Pasted image 20241214162503.png",
-    "LalalaStorage/Exam Calculus/Pasted image 20241214155925.png",
-    "LalalaStorage/Exam Calculus/Pasted image 20241121181609.png",
     "LalalaStorage/Exam Calculus",
     "Exam Calculus",
     "New folder",

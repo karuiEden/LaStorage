@@ -18,7 +18,7 @@
       "query": "tag:#linear-algebra  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431387
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "tag:#probability  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14727762
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17431716690113447,
+  "scale": 0.32133638605037373,
   "close": false
 }

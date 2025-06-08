@@ -183,20 +183,6 @@
             }
           },
           {
-            "id": "af121e380717e884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Критерий знакоопределенности формы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Критерий знакоопределенности формы"
-            }
-          },
-          {
             "id": "430c1811d94b0752",
             "type": "leaf",
             "state": {
@@ -212,40 +198,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Евклидово пространство.md",
+                "file": "LalalaStorage/Calculus/Линейное пространство Rn и его топология. Последовательности в Rn их пределы, связь с пределами их компонент. Единственность предела..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Евклидово пространство"
-            }
-          },
-          {
-            "id": "8a1b43f90b0aab7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Унитарное пространство.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Унитарное пространство"
-            }
-          },
-          {
-            "id": "a0451eb782e93ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Неравенство Коши – Буняковского.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Неравенство Коши – Буняковского"
+              "title": "Линейное пространство Rn и его топология. Последовательности в Rn их пределы, связь с пределами их компонент. Единственность предела."
             }
           },
           {
@@ -263,48 +221,6 @@
             }
           },
           {
-            "id": "e64594a255eb3b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорема об определителе матрицы Грама.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Теорема об определителе матрицы Грама"
-            }
-          },
-          {
-            "id": "e0185f8f39af1027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорема об ортогонализации Грама - Шмидта.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Теорема об ортогонализации Грама - Шмидта"
-            }
-          },
-          {
-            "id": "b487b2cfde542064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ортогональная матрица.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ортогональная матрица"
-            }
-          },
-          {
             "id": "8182fc80a2dfed4d",
             "type": "leaf",
             "state": {
@@ -312,20 +228,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "7267cedc053a86a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ортогональные подпространства.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ортогональные подпространства"
             }
           },
           {
@@ -339,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -371,7 +273,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "оболоч",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,7 +312,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "216fbc1da5ca19f9",
@@ -545,33 +447,33 @@
   },
   "active": "84485a0dfd73ddbd",
   "lastOpenFiles": [
-    "LalalaStorage/Calculus/Глава 2. Пределы/Определение числовых рядов.md",
-    "LalalaStorage/ML/Оценка качества моделей.md",
-    "LalalaStorage/Сравнение.md",
-    "LalalaStorage/Linear Algebra/Линал. Экзамен.md",
+    "LalalaStorage/Поле.md",
+    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Расположение точек относительно множеств.md",
+    "Замыкание.md",
+    "Алгебра множеств.md",
+    "Вероятностные распределения.md",
+    "LalalaStorage/Планы/АиСД Лабораторная 2а.md",
+    "Untitled Kanban.md",
+    "LalalaStorage/Linear Algebra/Ортонормированный базис.md",
+    "LalalaStorage/Linear Algebra/Ортогональные подпространства.md",
+    "LalalaStorage/Linear Algebra/Ортогональное дополнение подпространства.md",
+    "LalalaStorage/Linear Algebra/Ортогональная матрица.md",
+    "LalalaStorage/Linear Algebra/Неравенство треугольника.md",
+    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
+    "LalalaStorage/Linear Algebra/Метод Якоби.md",
+    "LalalaStorage/Linear Algebra/Критерий Сильвестра.md",
+    "LalalaStorage/Linear Algebra/Критерий знакоопределенности формы.md",
+    "LalalaStorage/Linear Algebra/Евклидово пространство.md",
+    "LalalaStorage/Linear Algebra/Унитарное пространство.md",
+    "LalalaStorage/Linear Algebra/Унитарная матрица.md",
+    "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
+    "LalalaStorage/Linear Algebra/Теорема об определителе матрицы Грама.md",
+    "LalalaStorage/Унитарное пространство.md",
+    "LalalaStorage/Унитарная матрица.md",
+    "LalalaStorage/Теорема об ортогонализации Грама - Шмидта.md",
+    "LalalaStorage/Теорема об определителе матрицы Грама.md",
+    "LalalaStorage/Ортонормированный базис.md",
     "LalalaStorage/Linear Algebra.rar",
-    "Теорема об определителе матрицы Грама.md",
-    "LalalaStorage/Linear Algebra/Образ линейного оператора.md",
-    "Ортогональное дополнение подпространства.md",
-    "Ортонормированный базис.md",
-    "Теорема об ортогонализации Грама - Шмидта.md",
-    "Евклидово пространство.md",
-    "Критерий Сильвестра.md",
-    "Метод Якоби.md",
-    "LalalaStorage/Linear Algebra/Закон инерции квадратичных форм.md",
-    "LalalaStorage/Linear Algebra/Индексы инерции квадратичной формы.md",
-    "LalalaStorage/Linear Algebra/Преобразование матрицы билинейной формы при переходе к другому базису.md",
-    "LalalaStorage/Linear Algebra/Теорема Лагранжа.md",
-    "LalalaStorage/Linear Algebra/Матрица билинейной формы.md",
-    "LalalaStorage/Linear Algebra/Билинейная форма.md",
-    "LalalaStorage/Linear Algebra/Критерий существования базиса из собственных векторов.md",
-    "LalalaStorage/Linear Algebra/Критерий диагональности матрицы оператора.md",
-    "LalalaStorage/Linear Algebra/Основное свойство собственных векторов.md",
-    "LalalaStorage/Linear Algebra/Теорема о размерности собственного подпространства.md",
-    "LalalaStorage/Linear Algebra/Критерий собственного числа.md",
-    "LalalaStorage/Linear Algebra/Кратность собственного числа алгебраическая и геометрическая.md",
-    "LalalaStorage/Linear Algebra/Теорема об инвариантности характеристического многочлена.md",
-    "LalalaStorage/Linear Algebra/Собственные числа и собственные вектора.md",
     "LalalaStorage/Linear algebra Exam.rar",
     "LalalaStorage/Linear algebra Exam/Linear Algebra",
     "LalalaStorage/Linear algebra Exam/Pasted image 20250604084519.png",

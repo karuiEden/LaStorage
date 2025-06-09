@@ -4,244 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e915067b8624018f",
+        "id": "97b2e3ebf089ce62",
         "type": "tabs",
         "children": [
           {
-            "id": "12b46c472062ea24",
+            "id": "87709c96cab1d1ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/Обратная матрица.md",
+                "file": "LalalaStorage/Алгосы/Алгосы. Экзамен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обратная матрица"
-            }
-          },
-          {
-            "id": "8b6b0a316b65930e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вероятностная модель эксперимента с конечным числом исходов"
-            }
-          },
-          {
-            "id": "4690c5e7ddc5a679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Комбинаторика"
-            }
-          },
-          {
-            "id": "1b3fd3ceea9f72a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Комбинаторика"
-            }
-          },
-          {
-            "id": "9be6552a030e8fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задача о беспорядках"
-            }
-          },
-          {
-            "id": "f4a921183d6a4cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Интеграл Дарбу.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Интеграл Дарбу"
-            }
-          },
-          {
-            "id": "ec7b9805baeecfb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Понятие неопределённого интеграла. Теорема о структуре множества первообразных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Понятие неопределённого интеграла. Теорема о структуре множества первообразных"
-            }
-          },
-          {
-            "id": "d13f13ce2c72498d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250214102410.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250214102410"
-            }
-          },
-          {
-            "id": "7122ecee39749bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Методы оптимизации/Основы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы"
-            }
-          },
-          {
-            "id": "17325d0e64de14b9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/graph.json",
-                "staged": false
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c3a845b25c8cd4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Сравнение.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Сравнение"
-            }
-          },
-          {
-            "id": "301d87a431bd1589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Linear Algebra/Знакоопределенность квадратичной формы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Знакоопределенность квадратичной формы"
-            }
-          },
-          {
-            "id": "c7b9da4baa6a27b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "430c1811d94b0752",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "bb81d8bfcddbc58c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Линейное пространство Rn и его топология. Последовательности в Rn их пределы, связь с пределами их компонент. Единственность предела..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Линейное пространство Rn и его топология. Последовательности в Rn их пределы, связь с пределами их компонент. Единственность предела."
-            }
-          },
-          {
-            "id": "34fb615c7e1744f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Linear Algebra/Матрица Грама.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Матрица Грама"
-            }
-          },
-          {
-            "id": "8182fc80a2dfed4d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "84485a0dfd73ddbd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Алгосы. Экзамен"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -445,48 +225,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84485a0dfd73ddbd",
+  "active": "87709c96cab1d1ca",
   "lastOpenFiles": [
+    "LalalaStorage/Алгосы/Таблицы.md",
+    "LalalaStorage/Алгосы/Алгосы. Экзамен.md",
+    "LalalaStorage/Алгосы/Элементарные структуры данных стек и очередь, представленные списком..md",
+    "LalalaStorage/Алгосы/Элементарные структуры данных стек и очередь, представленные вектором..md",
+    "LalalaStorage/Алгосы/Очередь.md",
+    "LalalaStorage/Алгосы/Очередь. Циклический список.md",
+    "Pasted image 20250609130611.png",
+    "Pasted image 20250609130602.png",
+    "Pasted image 20250609130540.png",
+    "Pasted image 20250609130521.png",
+    "LalalaStorage/Алгосы/Очередь. Линейный список.md",
+    "LalalaStorage/Алгосы/Очередь. Вектор.md",
+    "LalalaStorage/Алгосы/Сложность операций.md",
+    "LalalaStorage/Алгосы/Методологии программирования. Понятие алгоритма. Способы записи алгоритмов..md",
+    "LalalaStorage/Алгосы/Стек.md",
+    "LalalaStorage/Алгосы/Стек. Вектор.md",
+    "LalalaStorage/Алгосы/Стек. Списки.md",
+    "Pasted image 20250609130245.png",
+    "Pasted image 20250609130214.png",
+    "Pasted image 20250609130146.png",
+    "Pasted image 20250609130054.png",
+    "Pasted image 20250609130008.png",
+    "Pasted image 20250609125914.png",
+    "LalalaStorage/Алгосы/Списки.md",
+    "LalalaStorage/Алгосы/Сеть.md",
+    "LalalaStorage/Алгосы/Вектор.md",
+    "LalalaStorage/Алгосы/Конкретные структуры данных.md",
+    "LalalaStorage/Алгосы/Уровни представления информации. Понятие абстрактных (логических) структур данных. Основные операции..md",
+    "LalalaStorage/Алгосы/Абстрактные (логические) структуры.md",
+    "LalalaStorage/Алгосы/Локальность данных.md",
+    "LalalaStorage/Алгосы/Кэш.md",
+    "LalalaStorage/Linear Algebra/Основная лемма о линейной зависимости.md",
+    "LalalaStorage/C++/Базовые конструкции/Составные типы данных.md",
     "LalalaStorage/Поле.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Расположение точек относительно множеств.md",
     "Замыкание.md",
-    "Алгебра множеств.md",
-    "Вероятностные распределения.md",
-    "LalalaStorage/Планы/АиСД Лабораторная 2а.md",
-    "Untitled Kanban.md",
-    "LalalaStorage/Linear Algebra/Ортонормированный базис.md",
-    "LalalaStorage/Linear Algebra/Ортогональные подпространства.md",
-    "LalalaStorage/Linear Algebra/Ортогональное дополнение подпространства.md",
-    "LalalaStorage/Linear Algebra/Ортогональная матрица.md",
-    "LalalaStorage/Linear Algebra/Неравенство треугольника.md",
-    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
-    "LalalaStorage/Linear Algebra/Метод Якоби.md",
-    "LalalaStorage/Linear Algebra/Критерий Сильвестра.md",
-    "LalalaStorage/Linear Algebra/Критерий знакоопределенности формы.md",
-    "LalalaStorage/Linear Algebra/Евклидово пространство.md",
-    "LalalaStorage/Linear Algebra/Унитарное пространство.md",
-    "LalalaStorage/Linear Algebra/Унитарная матрица.md",
-    "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
-    "LalalaStorage/Linear Algebra/Теорема об определителе матрицы Грама.md",
-    "LalalaStorage/Унитарное пространство.md",
-    "LalalaStorage/Унитарная матрица.md",
-    "LalalaStorage/Теорема об ортогонализации Грама - Шмидта.md",
-    "LalalaStorage/Теорема об определителе матрицы Грама.md",
-    "LalalaStorage/Ортонормированный базис.md",
     "LalalaStorage/Linear Algebra.rar",
     "LalalaStorage/Linear algebra Exam.rar",
     "LalalaStorage/Linear algebra Exam/Linear Algebra",
-    "LalalaStorage/Linear algebra Exam/Pasted image 20250604084519.png",
-    "LalalaStorage/Linear algebra Exam/Pasted image 20250603183427.png",
-    "LalalaStorage/Linear algebra Exam/Pasted image 20250603182649.png",
-    "LalalaStorage/Linear algebra Exam/Pasted image 20250603182458.png",
-    "LalalaStorage/Linear algebra Exam/Pasted image 20250603182302.png",
     "LalalaStorage/Linear algebra Exam",
-    "LalalaStorage/Linear Algebra/Linear algebra Exam/Pasted image 20250604084519.png",
-    "LalalaStorage/Linear Algebra/Linear algebra Exam/Pasted image 20250603183427.png",
-    "LalalaStorage/Linear Algebra/Linear algebra Exam/Pasted image 20250603182458.png",
-    "LalalaStorage/Linear Algebra/Linear algebra Exam/Pasted image 20250603182649.png",
-    "LalalaStorage/Linear Algebra/Linear algebra Exam/Pasted image 20250603182302.png",
     "LalalaStorage/Linear Algebra/Linear algebra Exam",
     "Linear algebra Exam",
     "New folder",

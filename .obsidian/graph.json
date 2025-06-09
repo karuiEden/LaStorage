@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:LalalaStorage/Алгосы  ",
+      "query": "tag:#dsa  ",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941752223,
-  "close": true
+  "scale": 0.8854989543150722,
+  "close": false
 }

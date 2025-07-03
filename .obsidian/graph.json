@@ -18,7 +18,7 @@
       "query": "tag:#linear-algebra  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431387
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "tag:#probability  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14727762
       }
     },
     {
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:LalalaStorage/Алгосы  ",
+      "query": "tag:#dsa  ",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -54,6 +54,13 @@
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#theory_of_games",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6734587848973013,
+  "scale": 0.21640681209275808,
   "close": false
 }

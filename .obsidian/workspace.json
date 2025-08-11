@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Метрики качества классификации"
             }
+          },
+          {
+            "id": "4a414d4a2d00517d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,14 +242,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "87709c96cab1d1ca",
+  "active": "4a414d4a2d00517d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/ML/Метрики/Метрики качества классификации.md",
+    "LalalaStorage/Теория игр/Основные понятия.md",
+    "LalalaStorage/Теория игр/Дуополия Курно.md",
+    "LalalaStorage/Теория игр",
+    "LalalaStorage/Calculus/Понятие условного локального экстремума. Метод исключения неизвестных.md",
+    "LalalaStorage/Calculus/Понятие длины кривой. Формулы для вычисления длины кривой.md",
+    "LalalaStorage/Calculus/Непрерывность функции нескольких переменных в точке и на множестве.md",
+    "LalalaStorage/Calculus/Метод множителей Лагранжа для нахождения критических точек условного экстремума.md",
     "Pasted image 20250811093026.png",
     "Pasted image 20250811092541.png",
     "LalalaStorage/ML/Классическое обучение с учителем/Линейная классификация.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Градиентный спуск и оценивание градиента.md",
-    "LalalaStorage/ML/Метрики/Метрики качества классификации.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -253,19 +276,12 @@
     "Pasted image 20250810121543.png",
     "^.md",
     "LalalaStorage/ML/AdaGrad и RMSprop.md",
-    "LalalaStorage/ML/Оценка качества моделей.md",
-    "LalalaStorage/ML/Momentum(метод инерции).md",
-    "LalalaStorage/ML/Основы.md",
-    "LalalaStorage/Calculus/Инвариантность 1-ого дифференциала. Производная по направлению. Градиент. Уравнения поверхности..md",
-    "LalalaStorage/ML/Метрики/Метрики регрессии.md",
-    "LalalaStorage/Calculus/Аддитивность.md",
     "Pasted image 20250612205844.png",
     "Pasted image 20250612205831.png",
     "Pasted image 20250612205807.png",
     "Pasted image 20250612205625.png",
     "Pasted image 20250612203245.png",
     "Pasted image 20250612194157.png",
-    "Pasted image 20250612172422.png",
     "LalalaStorage/Linear Algebra.rar",
     "LalalaStorage/Linear algebra Exam.rar",
     "LalalaStorage/Linear algebra Exam/Linear Algebra",
@@ -274,7 +290,6 @@
     "Linear algebra Exam",
     "New folder",
     "LalalaStorage/Exam Calculus.rar",
-    "LalalaStorage/Exam Calculus/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

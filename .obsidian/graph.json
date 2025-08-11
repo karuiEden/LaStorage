@@ -25,7 +25,7 @@
       "query": "tag:#ml  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11752160
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907911,
+  "scale": 0.631604676290796,
   "close": false
 }

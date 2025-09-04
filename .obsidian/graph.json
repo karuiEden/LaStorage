@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#calculus path:LalalaStorage/Calculus  ",
+      "query": "tag:#calculus  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#linear-algebra  ",
+      "query": "tag:#ml  ",
       "color": {
         "a": 1,
-        "rgb": 5431387
+        "rgb": 14725458
       }
     },
     {
-      "query": "tag:#ml  ",
+      "query": "tag:#linear-algebra  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -32,39 +32,11 @@
       "query": "tag:#probability  ",
       "color": {
         "a": 1,
-        "rgb": 14727762
-      }
-    },
-    {
-      "query": "path:LalalaStorage/Python  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#dsa  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#sets  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#theory_of_games",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 5431378
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -74,10 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.13168724279835595,
-=======
-  "scale": 0.29831597281566585,
->>>>>>> origin/main
-  "close": false
+  "scale": 0.13622692189563038,
+  "close": true
 }

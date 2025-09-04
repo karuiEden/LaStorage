@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Комплексные числа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Комплексные числа"
             }
           }
         ],
@@ -195,8 +195,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -205,8 +205,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -215,8 +215,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -242,6 +243,13 @@
   },
   "active": "5946b2a08ee03c27",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/СГЛА/Норма вектора. Св-ва нормы.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
+    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Комплексные числа.md",
+    "LalalaStorage/Linear Algebra/Унитарное пространство.md",
+    "LalalaStorage/Linear Algebra/Евклидово пространство.md",
+    "LalalaStorage/Linear Algebra/СГЛА",
     "LalalaStorage/ML/AdaGrad и RMSprop.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20250815142940.png",
@@ -267,14 +275,8 @@
     "LalalaStorage/Теория игр/Дуополия Курно.md",
     "LalalaStorage/Теория игр",
     "LalalaStorage/Calculus/Понятие условного локального экстремума. Метод исключения неизвестных.md",
-    "LalalaStorage/Calculus/Понятие длины кривой. Формулы для вычисления длины кривой.md",
-    "LalalaStorage/Calculus/Непрерывность функции нескольких переменных в точке и на множестве.md",
-    "LalalaStorage/Calculus/Метод множителей Лагранжа для нахождения критических точек условного экстремума.md",
     "Pasted image 20250811093026.png",
     "Pasted image 20250811092541.png",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная классификация.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Градиентный спуск и оценивание градиента.md",
     "copilot-custom-prompts",
     "Pasted image 20250810133558.png",
     "Pasted image 20250810121543.png",
@@ -287,7 +289,6 @@
     "LalalaStorage/Linear algebra Exam",
     "LalalaStorage/Linear Algebra/Linear algebra Exam",
     "Linear algebra Exam",
-    "New folder",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

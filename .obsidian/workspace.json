@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2a77c1f490567a1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,6 +222,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,8 +235,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87709c96cab1d1ca",
+  "active": "2a77c1f490567a1a",
   "lastOpenFiles": [
+    "LalalaStorage/DS/Scaling.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Комбинаторика.md",
+    "Вероятностные распределения.md",
+    "LalalaStorage/DS",
+    "LalalaStorage/null.md",
+    "Алгебра множеств.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/ML/AdaGrad и RMSprop.md",
     "Pasted image 20250815142940.png",
@@ -249,13 +269,8 @@
     "LalalaStorage/Теория игр",
     "LalalaStorage/Calculus/Понятие условного локального экстремума. Метод исключения неизвестных.md",
     "LalalaStorage/Calculus/Понятие длины кривой. Формулы для вычисления длины кривой.md",
-    "LalalaStorage/Calculus/Непрерывность функции нескольких переменных в точке и на множестве.md",
-    "LalalaStorage/Calculus/Метод множителей Лагранжа для нахождения критических точек условного экстремума.md",
     "Pasted image 20250811093026.png",
     "Pasted image 20250811092541.png",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная классификация.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Линейная регрессия.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Градиентный спуск и оценивание градиента.md",
     "copilot-custom-prompts",
     "Pasted image 20250810133558.png",
     "Pasted image 20250810121543.png",
@@ -268,7 +283,6 @@
     "LalalaStorage/Linear algebra Exam",
     "LalalaStorage/Linear Algebra/Linear algebra Exam",
     "Linear algebra Exam",
-    "New folder",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

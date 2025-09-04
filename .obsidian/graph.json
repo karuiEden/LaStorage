@@ -5,8 +5,51 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#calculus  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#ml  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#linear-algebra  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#sets  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#probability  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#ds  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858122,
+  "scale": 0.272685991736008,
   "close": false
 }

@@ -34,6 +34,7 @@
         "a": 1,
         "rgb": 5431378
       }
+<<<<<<< HEAD
     },
     {
       "query": "tag:#probability  ",
@@ -48,6 +49,8 @@
         "a": 1,
         "rgb": 5419488
       }
+=======
+>>>>>>> origin/main
     }
   ],
   "collapse-display": true,
@@ -60,6 +63,11 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.272685991736008,
   "close": false
+=======
+  "scale": 0.13622692189563038,
+  "close": true
+>>>>>>> origin/main
 }

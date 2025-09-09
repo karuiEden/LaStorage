@@ -44,9 +44,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "32eec3a9bc982dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,8 +265,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f78e4c9f4810883",
+  "active": "32eec3a9bc982dfb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
     "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
     "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
@@ -279,7 +294,6 @@
     "LalalaStorage/Linear Algebra/Унитарное пространство.md",
     "LalalaStorage/Linear Algebra/Евклидово пространство.md",
     "LalalaStorage/Linear Algebra/СГЛА",
-    "LalalaStorage/ML/AdaGrad и RMSprop.md",
     "Pasted image 20250815142940.png",
     "Pasted image 20250703133317.png",
     "Pasted image 20250703132856.png",

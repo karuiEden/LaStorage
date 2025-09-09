@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/СГЛА/Комплексные числа.md",
+                "file": "LalalaStorage/Calculus/Глава 2. Пределы/Бесконечно большие и бесконечно малые функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Комплексные числа"
+              "title": "Бесконечно большие и бесконечно малые функции"
+            }
+          },
+          {
+            "id": "5f78e4c9f4810883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,40 +255,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5946b2a08ee03c27",
+  "active": "5f78e4c9f4810883",
   "lastOpenFiles": [
-    "LalalaStorage/Linear Algebra/СГЛА/Норма вектора. Св-ва нормы.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
     "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
-    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
     "LalalaStorage/Linear Algebra/СГЛА/Комплексные числа.md",
+    "LalalaStorage/Linear Algebra/СГЛА/ull.md",
+    "LalalaStorage/Calculus/Глава 2. Пределы/Абсолютно сходящиеся ряды.md",
+    "LalalaStorage/Методы оптимизации/Основы.md",
+    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/Функции, непрерывные на промежутке.md",
+    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/О-символика.md",
+    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/Важные пределы.md",
+    "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
+    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
+    "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
+    "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
+    "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "LalalaStorage/Linear Algebra/Ортогональное разложение вектора.md",
+    "LalalaStorage/Linear Algebra/Ортогональное дополнение подпространства.md",
+    "LalalaStorage/Linear Algebra/Теорема об определителе матрицы Грама.md",
+    "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
+    "LalalaStorage/Linear Algebra/Критерий диагональности матрицы оператора.md",
+    "LalalaStorage/Linear Algebra/Матрица Грама.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Норма вектора. Св-ва нормы.md",
+    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
     "LalalaStorage/Linear Algebra/Унитарное пространство.md",
     "LalalaStorage/Linear Algebra/Евклидово пространство.md",
     "LalalaStorage/Linear Algebra/СГЛА",
     "LalalaStorage/ML/AdaGrad и RMSprop.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20250815142940.png",
     "Pasted image 20250703133317.png",
     "Pasted image 20250703132856.png",
-    "LalalaStorage/Теория игр/Процедура последовательных улучшений.md",
-    "LalalaStorage/Теория игр/Дуополия Бертрана.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Логистическая регрессия.md",
-    "LalalaStorage/Calculus/Ряды/Числовые ряды.md",
-    "LalalaStorage/Calculus/Ряды/Теорема о сходимости суммы рядов.md",
-    "LalalaStorage/Calculus/Ряды/Ряды с неотрицательными членами.md",
-    "LalalaStorage/Calculus/Ряды/Принцип локализации.md",
-    "LalalaStorage/Calculus/Ряды/Признаки сравнения.md",
-    "LalalaStorage/Calculus/Ряды/Необходимое условие сходимости числового ряда.md",
-    "LalalaStorage/Calculus/Ряды/Критерий Коши для числовых рядов.md",
-    "LalalaStorage/Calculus/Ряды/Интегральный признак.md",
     "LalalaStorage/Calculus/Ряды",
-    "^.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "LalalaStorage/ML/Метрики/Метрики качества классификации.md",
-    "LalalaStorage/Теория игр/Основные понятия.md",
-    "LalalaStorage/Теория игр/Дуополия Курно.md",
     "LalalaStorage/Теория игр",
-    "LalalaStorage/Calculus/Понятие условного локального экстремума. Метод исключения неизвестных.md",
     "Pasted image 20250811093026.png",
     "Pasted image 20250811092541.png",
     "copilot-custom-prompts",

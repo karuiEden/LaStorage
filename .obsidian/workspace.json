@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Преобразование матрицы оператора при переходе к новому базису"
             }
+          },
+          {
+            "id": "15a60fa04d2ac44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,18 +269,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f78e4c9f4810883",
+  "active": "15a60fa04d2ac44c",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/Преобразование матрицы оператора при переходе к новому базису.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.base",
+    "Pasted image 20250914183739.png",
+    "Pasted image 20250914181442.png",
+    "Pasted image 20250914180816.png",
+    "Pasted image 20250914180801.png",
+    "Pasted image 20250913111353.png",
+    "LalalaStorage/ML/Автономный транспорт и RL/Статические препятствия.md",
+    "LalalaStorage/ML/Автономный транспорт и RL/Основные модули системы управления.md",
+    "LalalaStorage/ML/Автономный транспорт и RL",
+    "LalalaStorage/ML/DL/Activation functions.md",
+    "LalalaStorage/ML/DL",
+    "LalalaStorage/DS/Scaling.md",
+    "LalalaStorage/DS",
+    "LalalaStorage/Calculus/Линейное пространство Rn и его топология. Последовательности в Rn их пределы.md",
+    "LalalaStorage/Calculus/Кратные интегралы/Разбиение промежутка и база в множестве разбиений.md",
+    "LalalaStorage/Calculus/Кратные интегралы/Формула замены переменной.md",
+    "LalalaStorage/Calculus/Кратные интегралы/Промежуток в n-мерном пространстве и его мера.md",
+    "LalalaStorage/Calculus/Кратные интегралы/Носитель функции.md",
+    "LalalaStorage/Calculus/Кратные интегралы",
     "LalalaStorage/Linear Algebra/Матрица оператора в заданном базисе.md",
     "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
     "LalalaStorage/Linear Algebra/Неравенство треугольника.md",
     "LalalaStorage/Linear Algebra/Образ линейного оператора.md",
     "LalalaStorage/Linear Algebra/Определение определителя.md",
     "LalalaStorage/Linear Algebra/Нулевой оператор.md",
-    "LalalaStorage/Linear Algebra/Преобразование матрицы оператора при переходе к новому базису.md",
     "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
     "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
-    "conflict-files-obsidian-git.md",
     "Текстовый документ.txt",
     "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
     "LalalaStorage/Linear Algebra/СГЛА/Комплексные числа.md",
@@ -274,16 +307,6 @@
     "LalalaStorage/Calculus/Глава 2. Пределы/Абсолютно сходящиеся ряды.md",
     "LalalaStorage/Методы оптимизации/Основы.md",
     "LalalaStorage/Calculus/Глава 3. Непрерывные функции/Функции, непрерывные на промежутке.md",
-    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/О-символика.md",
-    "LalalaStorage/Calculus/Глава 3. Непрерывные функции/Важные пределы.md",
-    "LalalaStorage/Calculus/Интегрирование тригонометрических выражений.md",
-    "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
-    "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
-    "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
-    "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
-    "LalalaStorage/Linear Algebra/Ортогональное разложение вектора.md",
-    "LalalaStorage/Linear Algebra/Ортогональное дополнение подпространства.md",
-    "LalalaStorage/Linear Algebra/Теорема об определителе матрицы Грама.md",
     "LalalaStorage/Linear Algebra/СГЛА",
     "Pasted image 20250815142940.png",
     "Pasted image 20250703133317.png",
@@ -293,16 +316,6 @@
     "Pasted image 20250811093026.png",
     "Pasted image 20250811092541.png",
     "copilot-custom-prompts",
-    "Pasted image 20250810133558.png",
-    "Pasted image 20250810121543.png",
-    "Pasted image 20250612205844.png",
-    "Pasted image 20250612205831.png",
-    "Pasted image 20250612205807.png",
-    "LalalaStorage/Linear Algebra.rar",
-    "LalalaStorage/Linear algebra Exam.rar",
-    "LalalaStorage/Linear algebra Exam/Linear Algebra",
-    "LalalaStorage/Linear algebra Exam",
-    "LalalaStorage/Linear Algebra/Linear algebra Exam",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

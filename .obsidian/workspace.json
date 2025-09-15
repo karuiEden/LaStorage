@@ -39,28 +39,18 @@
             "id": "5f78e4c9f4810883",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "32eec3a9bc982dfb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "LalalaStorage/Linear Algebra/Преобразование матрицы оператора при переходе к новому базису.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Преобразование матрицы оператора при переходе к новому базису"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,11 +255,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32eec3a9bc982dfb",
+  "active": "5f78e4c9f4810883",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
+    "LalalaStorage/Linear Algebra/Матрица оператора в заданном базисе.md",
+    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
+    "LalalaStorage/Linear Algebra/Неравенство треугольника.md",
+    "LalalaStorage/Linear Algebra/Образ линейного оператора.md",
+    "LalalaStorage/Linear Algebra/Определение определителя.md",
+    "LalalaStorage/Linear Algebra/Нулевой оператор.md",
+    "LalalaStorage/Linear Algebra/Преобразование матрицы оператора при переходе к новому базису.md",
     "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
+    "conflict-files-obsidian-git.md",
+    "Текстовый документ.txt",
     "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
     "LalalaStorage/Linear Algebra/СГЛА/Комплексные числа.md",
     "LalalaStorage/Linear Algebra/СГЛА/ull.md",
@@ -286,13 +284,6 @@
     "LalalaStorage/Linear Algebra/Ортогональное разложение вектора.md",
     "LalalaStorage/Linear Algebra/Ортогональное дополнение подпространства.md",
     "LalalaStorage/Linear Algebra/Теорема об определителе матрицы Грама.md",
-    "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
-    "LalalaStorage/Linear Algebra/Критерий диагональности матрицы оператора.md",
-    "LalalaStorage/Linear Algebra/Матрица Грама.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Норма вектора. Св-ва нормы.md",
-    "LalalaStorage/Linear Algebra/Неравенство Коши – Буняковского.md",
-    "LalalaStorage/Linear Algebra/Унитарное пространство.md",
-    "LalalaStorage/Linear Algebra/Евклидово пространство.md",
     "LalalaStorage/Linear Algebra/СГЛА",
     "Pasted image 20250815142940.png",
     "Pasted image 20250703133317.png",
@@ -312,7 +303,6 @@
     "LalalaStorage/Linear algebra Exam/Linear Algebra",
     "LalalaStorage/Linear algebra Exam",
     "LalalaStorage/Linear Algebra/Linear algebra Exam",
-    "Linear algebra Exam",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

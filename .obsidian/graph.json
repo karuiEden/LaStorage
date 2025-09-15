@@ -1,12 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-<<<<<<< HEAD
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#calculus  ",
@@ -19,7 +18,7 @@
       "query": "tag:#ml  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431511
       }
     },
     {
@@ -30,9 +29,6 @@
       }
     }
   ],
-=======
-  "colorGroups": [],
->>>>>>> origin/main
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -43,10 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.30499280194735456,
-=======
-  "scale": 0.36288736930121246,
->>>>>>> origin/main
+  "scale": 0.7132754626224447,
   "close": false
 }

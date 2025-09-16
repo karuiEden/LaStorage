@@ -38,7 +38,7 @@ $$(x,y)=\sum_{i=1}^{k} \overline{\alpha}_{i}(x,a_{i})=0\implies x\perp y\implies
 
 **Теорема 5:** $U$ - конечномерное, $U_{1}$- подпространство $U$. Тогда $$U=U_{1}\oplus U_{1}^{\perp}$$ ^6b6dcf
 
-*Док-во:* Пусть $\dim U_{1}=k \neq 0$. Тогда по теореме 3 $\implies \exists e_{1},\dots,e_{k}$ - ОНБ
+*Док-во:* Пусть $\dim U_{1}=k \neq 0$. Тогда по [[Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы#^38a0b4|теореме 3]] $\implies \exists e_{1},\dots,e_{k}$ - ОНБ
 $$\forall x\in U \ \ \ z=x-(x,e_{1})e_{1}-\dots-(x,e_{k})e_{k}=x-(\sum_{i=1}^{k}(x,e_{i})e_{i})(=y\in U_{1})$$
 $$(z,e_{j})=\left( x- \sum_{i=1}^{k}(x,e_{i})e_{i},e_{j} \right)=(x,e_{j})-\sum_{i=1}^{k}(x,e_{i})(e_{i},e_{j})(=\delta_{ij})=$$
 $$=(x,e_{j})-(x,e_{j})\cdot1=0$$

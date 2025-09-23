@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+                "file": "LalalaStorage/ML/Классическое обучение с учителем/Решающее деревья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интегрирование выражений вида 3-4"
+              "title": "Решающее деревья"
             }
           },
           {
@@ -257,6 +257,8 @@
   },
   "active": "5946b2a08ee03c27",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Интегрирование выражений вида 3-4.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Решающее деревья.md",
     "LalalaStorage/Calculus/Интегрирование выражений. Подстановки Эйлера.md",
     "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
     "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
@@ -285,8 +287,6 @@
     "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
     "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
     "Pasted image 20250916134840.png",
-    "LalalaStorage/Linear Algebra/Ортогональное разложение вектора.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/Бесконечно большие и бесконечно малые функции.md",
     "Untitled.base",
     "Pasted image 20250914183739.png",
     "Pasted image 20250914181442.png",

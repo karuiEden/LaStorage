@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
+                "file": "LalalaStorage/ML/Классическое обучение с учителем/Решающее деревья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Свойства нормальных операторов"
+              "title": "Решающее деревья"
             }
           },
           {
@@ -257,11 +257,13 @@
   },
   "active": "5946b2a08ee03c27",
   "lastOpenFiles": [
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Методы стрижки дерева.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Критерии останова.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Критерии информативности.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
     "Pasted image 20250930135331.png",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Критерии информативности.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Решающее деревья.md",
     "LalalaStorage/Linear Algebra/Матричные разложения/Сингулярное разложение.md",
     "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
@@ -284,9 +286,7 @@
     "LalalaStorage/ML/Работа с данными/Категориальные данные.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Градиентный спуск и оценивание градиента.md",
     "LalalaStorage/ML/Обучение",
-    "LalalaStorage/ML/Классическое обучение с учителем/Классификация с пересекающимися классами.md",
     "LalalaStorage/ML/Работа с данными",
-    "LalalaStorage/ML/null.md",
     "LalalaStorage/Linear Algebra/Матричные разложения",
     "Pasted image 20250916134840.png",
     "Untitled.base",

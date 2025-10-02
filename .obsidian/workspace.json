@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Решающее деревья.md",
+                "file": "LalalaStorage/ML/Классическое обучение с учителем/Bias-Variance decomposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Решающее деревья"
+              "title": "Bias-Variance decomposition"
             }
           },
           {
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 298.5
   },
   "right": {
     "id": "216fbc1da5ca19f9",
@@ -257,14 +257,17 @@
   },
   "active": "5946b2a08ee03c27",
   "lastOpenFiles": [
+    "Pasted image 20251002103216.png",
+    "LalalaStorage/ML/Классическое обучение с учителем/Критерии информативности.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Bias-Variance decomposition.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Бутстрап.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Решающие деревья.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Методы стрижки дерева.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Критерии останова.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Критерии информативности.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
     "Pasted image 20250930135331.png",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Решающее деревья.md",
     "LalalaStorage/Linear Algebra/Матричные разложения/Сингулярное разложение.md",
     "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
     "LalalaStorage/Linear Algebra/Квадратичная форма.md",
@@ -282,9 +285,6 @@
     "LalalaStorage/Calculus/Интегрирование дифференциальных биномов.md",
     "LalalaStorage/Calculus/Интегрирование иррациональных выражений.md",
     "LalalaStorage/Calculus/Интегрирование неравенства.md",
-    "LalalaStorage/Calculus/Расширенная таблица первообразных.md",
-    "LalalaStorage/ML/Работа с данными/Категориальные данные.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Градиентный спуск и оценивание градиента.md",
     "LalalaStorage/ML/Обучение",
     "LalalaStorage/ML/Работа с данными",
     "LalalaStorage/Linear Algebra/Матричные разложения",

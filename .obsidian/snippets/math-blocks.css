@@ -1,0 +1,92 @@
+/* Сбрасываем общий счётчик на уровне документа */
+.markdown-preview-view {
+  counter-reset: theorem definition lemma corollary proof example remark;
+}
+
+/* Базовый стиль */
+.callout[data-callout="theorem"],
+.callout[data-callout="lemma"],
+.callout[data-callout="definition"],
+.callout[data-callout="corollary"],
+.callout[data-callout="proof"],
+.callout[data-callout="example"],
+.callout[data-callout="remark"] {
+  --callout-icon: none;
+  background-color: var(--background-primary);
+  border: 1px solid var(--text-muted);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 1em 0;
+  font-size: 15px;
+}
+
+/* Общий стиль заголовков */
+.callout-title {
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Автонумерация */
+
+/* Теоремы */
+.callout[data-callout="theorem"] {
+  counter-increment: theorem;
+}
+.callout[data-callout="theorem"] .callout-title::before {
+  content: "Theorem " counter(theorem) ". ";
+  color: #2e86de;
+}
+
+/* Леммы */
+.callout[data-callout="lemma"] {
+  counter-increment: lemma;
+}
+.callout[data-callout="lemma"] .callout-title::before {
+  content: "Lemma " counter(lemma) ". ";
+  color: #9b59b6;
+}
+
+/* Определения */
+.callout[data-callout="definition"] {
+  counter-increment: definition;
+}
+.callout[data-callout="definition"] .callout-title::before {
+  content: "Definition " counter(definition) ". ";
+  color: #16a085;
+}
+
+/* Следствия */
+.callout[data-callout="corollary"] {
+  counter-increment: corollary;
+}
+.callout[data-callout="corollary"] .callout-title::before {
+  content: "Corollary " counter(corollary) ". ";
+  color: #d35400;
+}
+
+/* Доказательства */
+.callout[data-callout="proof"] {
+  counter-increment: proof;
+}
+.callout[data-callout="proof"] .callout-title::before {
+  content: "Proof " counter(proof) ". ";
+  color: #27ae60;
+}
+
+/* Примеры */
+.callout[data-callout="example"] {
+  counter-increment: example;
+}
+.callout[data-callout="example"] .callout-title::before {
+  content: "Example " counter(example) ". ";
+  color: #e67e22;
+}
+
+/* Замечания */
+.callout[data-callout="remark"] {
+  counter-increment: remark;
+}
+.callout[data-callout="remark"] .callout-title::before {
+  content: "Remark " counter(remark) ". ";
+  color: #7f8c8d;
+}

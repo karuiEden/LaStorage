@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Dracula Official",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "math-blocks"
+  ]
+}

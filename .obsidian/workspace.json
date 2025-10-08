@@ -6,7 +6,7 @@
       {
         "id": "97b2e3ebf089ce62",
         "type": "tabs",
-        "dimension": 54.62610899873257,
+        "dimension": 51.457541191381495,
         "children": [
           {
             "id": "87709c96cab1d1ca",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Стекинг.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Стекинг"
+              "title": "Унитарные(ортогональные) матрицы и их свойства"
             },
             "group": "cb32c85ce838ed58"
           },
@@ -71,7 +71,7 @@
       {
         "id": "d83d5388111cd7d0",
         "type": "tabs",
-        "dimension": 45.373891001267424,
+        "dimension": 48.542458808618505,
         "children": [
           {
             "id": "2899a363cf060361",
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Стекинг.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Стекинг"
+              "title": "Унитарные(ортогональные) матрицы и их свойства"
             },
             "group": "cb32c85ce838ed58"
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Обучение",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,8 +247,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -257,8 +257,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -267,8 +267,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -276,7 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 635.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,54 +294,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6827cb43c21eeb87",
+  "active": "e47ae7f4ad659738",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства унитарных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства самосопряженных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
+    "LalalaStorage/ML/Временные ряды/Автокорреляционная функция.md",
+    "LalalaStorage/ML/Временные ряды/Стационарные временные ряды.md",
+    "ex_1_autocorr_77d8a02254_20f571b267.webp",
+    "ex_1_6fd71c0161_ef125825e0.webp",
+    "LalalaStorage/ML/Временные ряды/Временные ряды.md",
+    "cross_val2_1f5518a032_b791f27515_1e8335dd56.svg",
+    "Group_1_df539253d3_78a875d6a0.svg",
+    "stl_f3b3a92cd7_343b7feb4d.webp",
+    "ex_3_stl_c09e4ba22c_fec382cf63.webp",
+    "cluster_model_444955a517_8bd1eedf81-1.webp",
+    "hybrid_8f9dd2444d_70893afe15.webp",
+    "direct_7ff22dabcb_ba7c98a644.webp",
+    "recursive_8427cc778b_923a246e65.webp",
+    "LalalaStorage/ML/Классическое обучение с учителем/Преобразования признаков.md",
+    "LalalaStorage/ML/Временные ряды",
+    "LalalaStorage/ML/ull.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Разреженные модели.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Регуляризация.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Гиперпараметры.md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Extreme Gradient Boosting (XGBoost).md",
+    "LalalaStorage/ML/Классическое обучение с учителем/Стекинг.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Случайные леса.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Градиентный бустинг.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Бэггинг.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Стекинг.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Extreme Gradient Boosting (XGBoost).md",
     "LalalaStorage/ML/Классическое обучение с учителем/Градиентный бустинг над деревьями.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Бутстрап.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Bias-Variance decomposition.md",
-    "Pasted image 20251002103216.png",
     "LalalaStorage/ML/Классическое обучение с учителем/Критерии информативности.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Решающие деревья.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Методы стрижки дерева.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Критерии останова.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
-    "Pasted image 20250930135331.png",
-    "LalalaStorage/Linear Algebra/Матричные разложения/Сингулярное разложение.md",
-    "LalalaStorage/Linear Algebra/Теорема об ортогонализации Грама - Шмидта.md",
-    "LalalaStorage/Linear Algebra/Квадратичная форма.md",
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Свойства матрицы Грама.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Полуторалинейные формы в U.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Представление линейной формы в U(E).md",
-    "LalalaStorage/Linear Algebra/СГЛА/Представление полуторалинейной формы в U(БФ в E).md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства",
-    "LalalaStorage/Linear Algebra/Полуторалинейная форма.md",
-    "LalalaStorage/Linear Algebra/СГЛА/null.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Вид скалярного произведения в базисе.md",
     "LalalaStorage/ML/Обучение",
     "LalalaStorage/ML/Работа с данными",
     "LalalaStorage/Linear Algebra/Матричные разложения",
-    "Pasted image 20250916134840.png",
     "Untitled.base",
-    "Pasted image 20250914183739.png",
-    "Pasted image 20250914181442.png",
-    "Pasted image 20250914180816.png",
-    "Pasted image 20250914180801.png",
-    "Pasted image 20250913111353.png",
     "LalalaStorage/ML/Автономный транспорт и RL",
     "LalalaStorage/ML/DL",
     "LalalaStorage/DS",
     "LalalaStorage/Calculus/Кратные интегралы",
-    "Текстовый документ.txt",
-    "Pasted image 20250815142940.png",
-    "Pasted image 20250703133317.png",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

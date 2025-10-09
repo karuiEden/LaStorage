@@ -6,7 +6,7 @@
       {
         "id": "97b2e3ebf089ce62",
         "type": "tabs",
-        "dimension": 51.457541191381495,
+        "dimension": 47.94520547945205,
         "children": [
           {
             "id": "87709c96cab1d1ca",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства унитарных операторов.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Унитарные(ортогональные) матрицы и их свойства"
+              "title": "Свойства унитарных операторов"
             },
             "group": "cb32c85ce838ed58"
           },
@@ -71,7 +71,7 @@
       {
         "id": "d83d5388111cd7d0",
         "type": "tabs",
-        "dimension": 48.542458808618505,
+        "dimension": 52.054794520547944,
         "children": [
           {
             "id": "2899a363cf060361",
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства унитарных операторов.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Унитарные(ортогональные) матрицы и их свойства"
+              "title": "Свойства унитарных операторов"
             },
             "group": "cb32c85ce838ed58"
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Обучение",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,7 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,14 +294,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "6827cb43c21eeb87",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/КР/Алгоритмы решений.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства унитарных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства самосопряженных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Представление линейной формы в U(E).md",
+    "LalalaStorage/Linear Algebra/Матрицы.md",
+    "LalalaStorage/Linear Algebra/Билинейная форма.md",
+    "LalalaStorage/Linear Algebra/КР",
+    "LalalaStorage/Linear Algebra/Квадратичная форма.md",
+    "LalalaStorage/Сравнение.md",
+    "LalalaStorage/Linear Algebra/Преобразование матрицы билинейной формы при переходе к другому базису.md",
+    "LalalaStorage/Linear Algebra/Матрица Грама.md",
+    "LalalaStorage/Linear Algebra/Матрица билинейной формы.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства самосопряженных операторов.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
     "LalalaStorage/ML/Временные ряды/Автокорреляционная функция.md",
     "LalalaStorage/ML/Временные ряды/Стационарные временные ряды.md",
     "ex_1_autocorr_77d8a02254_20f571b267.webp",
@@ -324,15 +334,6 @@
     "LalalaStorage/ML/Классическое обучение с учителем/Extreme Gradient Boosting (XGBoost).md",
     "LalalaStorage/ML/Классическое обучение с учителем/Стекинг.md",
     "LalalaStorage/ML/Классическое обучение с учителем/Случайные леса.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Градиентный бустинг.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Бэггинг.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Градиентный бустинг над деревьями.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Бутстрап.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Bias-Variance decomposition.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Критерии информативности.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Решающие деревья.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Методы стрижки дерева.md",
-    "LalalaStorage/ML/Классическое обучение с учителем/Критерии останова.md",
     "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства",
     "LalalaStorage/ML/Обучение",
     "LalalaStorage/ML/Работа с данными",
@@ -341,7 +342,6 @@
     "LalalaStorage/ML/Автономный транспорт и RL",
     "LalalaStorage/ML/DL",
     "LalalaStorage/DS",
-    "LalalaStorage/Calculus/Кратные интегралы",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

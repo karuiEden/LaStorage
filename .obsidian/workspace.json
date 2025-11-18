@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/DL/Трансформеры.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Канонический базис корневого подпространства.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Трансформеры"
+              "title": "Канонический базис корневого подпространства"
             }
           }
         ]
@@ -229,6 +229,10 @@
   },
   "active": "d863b2d5210432fb",
   "lastOpenFiles": [
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Корневые вектора и корневые подпространства.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Канонический базис корневого подпространства.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Предусловие.md",
+    "LalalaStorage/ML/DL/Трансформеры.md",
     "LalalaStorage/ML/DL/media/Pasted image 20251118122537.png",
     "LalalaStorage/ML/DL/media/Pasted image 20251118115826.png",
     "LalalaStorage/ML/DL/media/Pasted image 20251117225713.png",
@@ -237,7 +241,6 @@
     "LalalaStorage/ML/DL/Feedforward Neural Network.md",
     "LalalaStorage/ML/DL/Нейронные сети.md",
     "LalalaStorage/ML/NLP/LLM.md",
-    "LalalaStorage/ML/DL/Трансформеры.md",
     "LalalaStorage/ML/NLP/Жадный декодинг.md",
     "LalalaStorage/ML/NLP/Слова.md",
     "LalalaStorage/ML/NLP/Токенизация.md",
@@ -256,7 +259,6 @@
     "LalalaStorage/ML/NLP/media/Pasted image 20251116183331.png",
     "LalalaStorage/ML/NLP/media/Pasted image 20251116182711.png",
     "LalalaStorage/ML/NLP/Случайное сэмплирование.md",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251116172020.png",
     "LalalaStorage/ML/NLP/media",
     "LalalaStorage/ML/Обучение/Error Backpropagation.md",
     "LalalaStorage/ML/Обучение/media",
@@ -265,8 +267,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Парадокс Рассела.md",
     "LalalaStorage/Теория игр/Процедура последовательных улучшений.md",
     "LalalaStorage/Теория игр/Основные понятия.md",
-    "LalalaStorage/Теория игр/Дуополия Курно.md",
-    "LalalaStorage/Теория игр/Дуополия Бертрана.md",
     "LalalaStorage/Теория игр/media",
     "LalalaStorage/ML/DL/media",
     "LalalaStorage/Untitled",

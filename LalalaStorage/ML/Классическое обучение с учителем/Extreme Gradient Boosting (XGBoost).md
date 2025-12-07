@@ -4,6 +4,7 @@ created: 2025-10-04
 tags:
   - ml
   - decision_tree
+  - supervised
 links:
   - "[[Градиентный бустинг над деревьями]]"
 ---

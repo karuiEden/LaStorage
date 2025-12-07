@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#deep_learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
+    },
+    {
+      "query": "tag:#nlp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14722386
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17542066365910122,
+  "scale": 0.27900455239529137,
   "close": false
 }

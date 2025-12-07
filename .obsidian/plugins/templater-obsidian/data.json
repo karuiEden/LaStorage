@@ -3,13 +3,17 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
+      "calloutCounter",
+      "module.exports = async (tp) => {\n  const counters = { theorem: 0, definition: 0, lemma: 0, proof: 0, proposition: 0, remark: 0 };\n  document.querySelectorAll(\".callout\").forEach(callout => {\n    const type = callout.dataset.callout;\n    if (!type || counters[type] === undefined) return;\n    counters[type]++;\n    const title = callout.querySelector(\".callout-title-inner\");\n    if (title && !title.dataset.numbered) {\n      title.textContent = `${type[0].toUpperCase() + type.slice(1)} ${counters[type]}. ${title.textContent}`;\n      title.dataset.numbered = \"true\";\n    }\n  });\n};\n"
+    ],
+    [
       "",
       ""
     ]
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "Templates",
   "enable_folder_templates": true,
@@ -17,6 +21,10 @@
     {
       "folder": "/",
       "template": "Templates/Test.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

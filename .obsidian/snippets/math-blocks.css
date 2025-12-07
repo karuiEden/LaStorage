@@ -1,0 +1,85 @@
+/* ------------------------
+   1) Единственный глобальный reset — ТОЛЬКО на корневой preview / editor контейнер
+   ------------------------ */
+
+/* Preview (Reader) — сброс единожды для всего рендера заметки */
+.markdown-preview-view {
+  /* единожды: задаём начальные значения счётчиков для всего файла */
+  counter-reset: thm 0 def 0 lem 0 prf 0 prop 0 rmk 0;
+}
+
+/* Live Preview / Editor (CodeMirror 6) — один раз для области редактора */
+.markdown-source-view.mod-cm6 .cm-content {
+  counter-reset: thm 0 def 0 lem 0 prf 0 prop 0 rmk 0;
+}
+
+/* Убедитесь, что НИКАКИХ других counter-reset в сниппете/других стилях нет! */
+
+/* ------------------------
+   2) Инкременты (не менял)
+   ------------------------ */
+.callout[data-callout="theorem"]     { counter-increment: thm; }
+.callout[data-callout="definition"]  { counter-increment: def; }
+.callout[data-callout="lemma"]       { counter-increment: lem; }
+.callout[data-callout="proof"]       { counter-increment: prf; }
+.callout[data-callout="proposition"] { counter-increment: prop; }
+.callout[data-callout="remark"]      { counter-increment: rmk; }
+
+/* ------------------------
+   3) Вставка префиксов в заголовки callout'ов
+   ------------------------ */
+.callout[data-callout="theorem"] > .callout-title .callout-title-inner::before      { content: "Теорема " counter(thm) ". ";  font-weight: 700; margin-right: 2px; }
+.callout[data-callout="definition"] > .callout-title .callout-title-inner::before   { content: "Определение " counter(def) ". ";  font-weight: 700; margin-right: 2px; }
+.callout[data-callout="lemma"] > .callout-title .callout-title-inner::before        { content: "Лемма " counter(lem) ". ";  font-weight: 700; margin-right: 2px; }
+.callout[data-callout="proof"] > .callout-title .callout-title-inner::before        { content: "Доказательство " counter(prf) ". ";  font-weight: 700; margin-right: 2px; }
+.callout[data-callout="proposition"] > .callout-title .callout-title-inner::before  { content: "Утверждение " counter(prop) ". ";  font-weight: 700; margin-right: 2px; }
+.callout[data-callout="remark"] > .callout-title .callout-title-inner::before       { content: "Замечание " counter(rmk) ". ";  font-weight: 700; margin-right: 2px; }
+
+/* ------------------------
+   4) Стиль (как было)
+   ------------------------ */
+.callout[data-callout="theorem"],
+.callout[data-callout="definition"],
+.callout[data-callout="lemma"],
+.callout[data-callout="proof"],
+.callout[data-callout="proposition"],
+.callout[data-callout="remark"] {
+  --callout-color: 20, 20, 20;
+  --callout-border-opacity: 0.32;
+  border: 1px solid rgba(var(--callout-color), var(--callout-border-opacity));
+  border-radius: 4px;
+  background-color: var(--background-primary);
+}
+
+.callout[data-callout="theorem"] > .callout-title,
+.callout[data-callout="definition"] > .callout-title,
+.callout[data-callout="lemma"] > .callout-title,
+.callout[data-callout="proof"] > .callout-title,
+.callout[data-callout="proposition"] > .callout-title,
+.callout[data-callout="remark"] > .callout-title {
+  align-items: baseline;
+  background: transparent;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.18);
+  padding: 6px 10px 4px 10px;
+}
+
+.callout[data-callout="theorem"] > .callout-title .callout-icon,
+.callout[data-callout="definition"] > .callout-title .callout-icon,
+.callout[data-callout="lemma"] > .callout-title .callout-icon,
+.callout[data-callout="proof"] > .callout-title .callout-icon,
+.callout[data-callout="proposition"] > .callout-title .callout-icon,
+.callout[data-callout="remark"] > .callout-title .callout-icon {
+  display: none;
+}
+
+.callout[data-callout="theorem"] > .callout-title .callout-title-inner,
+.callout[data-callout="definition"] > .callout-title .callout-title-inner,
+.callout[data-callout="lemma"] > .callout-title .callout-title-inner,
+.callout[data-callout="proof"] > .callout-title .callout-title-inner,
+.callout[data-callout="proposition"] > .callout-title .callout-title-inner,
+.callout[data-callout="remark"] > .callout-title .callout-title-inner {
+  color: #fff !important;
+  font-size: 0.95rem;
+  letter-spacing: 0.2px;
+}
+

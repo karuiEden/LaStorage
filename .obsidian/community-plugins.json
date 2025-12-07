@@ -10,5 +10,7 @@
   "dataview",
   "obsidian-icon-folder",
   "editing-toolbar",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "pseudocode-in-obs",
+  "obsidian42-brat"
 ]

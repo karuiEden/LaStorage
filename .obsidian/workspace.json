@@ -27,31 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/NLP/Сэмплирование.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Формула интерполяционного многочлена Лагранжа-Сильвестра.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сэмплирование"
-            }
-          },
-          {
-            "id": "702894e46e10d9ec",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен.md",
-                "bFile": "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен"
+              "title": "Формула интерполяционного многочлена Лагранжа-Сильвестра"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +242,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "702894e46e10d9ec",
+  "active": "5e5d2733c187ea85",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Теорема о единственности Жордановой формы.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Предусловие.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Канонический базис корневого подпространства.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Формула интерполяционного многочлена Лагранжа-Сильвестра.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/media/Pasted image 20251216132452.png",
+    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/media",
     "LalalaStorage/ML/NLP/Сэмплирование.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20250925223522.png",
     "Pasted image 20250925221750.png",
     "Pasted image 20250925221216.png",
@@ -276,7 +268,6 @@
     "LalalaStorage/ML/DL/media/Pasted image 20251209193712.png",
     "LalalaStorage/ML/DL/media/Pasted image 20251209184556.png",
     "LalalaStorage/ML/DL/media/Pasted image 20251209121452.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251208125308.png",
     "LalalaStorage/ML/DL/Feedforward Neural Network.md",
     "LalalaStorage/ML/NLP/LLM.md",
     "LalalaStorage/ML/NLP/N-gram model.md",
@@ -284,17 +275,12 @@
     "LalalaStorage/ML/NLP/Алгоритм минимального расстояния изменения между словами.md",
     "LalalaStorage/Calculus/Элементы векторного анализа и теории поля/Скалярные и векторные поля.md",
     "LalalaStorage/Calculus/Элементы векторного анализа и теории поля/Дифференциальные операторы.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Канонический базис корневого подпространства.md",
     "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Корневые вектора и корневые подпространства.md",
     "LalalaStorage/ML/DL/Двунаправленные энкодер-трансформеры.md",
     "Byte-pair encoding(BPE).md",
     "LalalaStorage/ML/DL/Трансформеры.md",
     "LalalaStorage/ML/Обучение/Error Backpropagation.md",
     "LalalaStorage/ML/NLP/Слова.md",
-    "LalalaStorage/ML/NLP/Температурная выборка.md",
-    "LalalaStorage/Теория игр/Процедура последовательных улучшений.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Предусловие.md",
     "LalalaStorage/ML/NLP/media",
     "LalalaStorage/ML/Обучение/media",
     "LalalaStorage/Теория игр/media",
@@ -304,7 +290,6 @@
     "LalalaStorage/Calculus/Элементы векторного анализа и теории поля",
     "LalalaStorage/Calculus/Криволинейные и поверхностные интегралы",
     "LalalaStorage/ML/NLP",
-    "LalalaStorage/ML/Трансформеры",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

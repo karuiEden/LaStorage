@@ -34,9 +34,24 @@
               "icon": "lucide-file",
               "title": "Сэмплирование"
             }
+          },
+          {
+            "id": "702894e46e10d9ec",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен.md",
+                "bFile": "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Многочлен от оператора(матрицы). Аннулирующий оператор(матрица) многочлен"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,8 +257,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5e5d2733c187ea85",
+  "active": "702894e46e10d9ec",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/ML/NLP/Сэмплирование.md",
+    "Pasted image 20250925223522.png",
+    "Pasted image 20250925221750.png",
+    "Pasted image 20250925221216.png",
+    "LalalaStorage/ML/NLP/Языки.md",
+    "LalalaStorage/ML/NLP/Тонкая настройка для маркировки последовательностей.md",
+    "LalalaStorage/ML/NLP/Тонкая настройка для классификации.md",
+    "LalalaStorage/ML/NLP/Сегментация текста.md",
+    "LalalaStorage/ML/NLP/Основы.md",
+    "LalalaStorage/ML/NLP/Контекстные эмбеддинги.md",
+    "LalalaStorage/ML/NLP/media/Pasted image 20251204220438.png",
+    "LalalaStorage/ML/DL/media/Pasted image 20251209200942.png",
+    "LalalaStorage/ML/DL/media/Pasted image 20251209200922.png",
+    "LalalaStorage/ML/DL/media/Pasted image 20251209193712.png",
+    "LalalaStorage/ML/DL/media/Pasted image 20251209184556.png",
+    "LalalaStorage/ML/DL/media/Pasted image 20251209121452.png",
+    "LalalaStorage/ML/DL/media/Pasted image 20251208125308.png",
     "LalalaStorage/ML/DL/Feedforward Neural Network.md",
     "LalalaStorage/ML/NLP/LLM.md",
     "LalalaStorage/ML/NLP/N-gram model.md",
@@ -255,31 +288,13 @@
     "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Канонический базис корневого подпространства.md",
     "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Корневые вектора и корневые подпространства.md",
     "LalalaStorage/ML/DL/Двунаправленные энкодер-трансформеры.md",
-    "LalalaStorage/ML/DL/media/Pasted image 20251121101714.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251121101446.png",
     "Byte-pair encoding(BPE).md",
     "LalalaStorage/ML/DL/Трансформеры.md",
     "LalalaStorage/ML/Обучение/Error Backpropagation.md",
-    "LalalaStorage/ML/DL/media/Pasted image 20251121085823.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120233138.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120225032.png",
-    "LalalaStorage/ML/NLP/Сэмплирование.md",
     "LalalaStorage/ML/NLP/Слова.md",
     "LalalaStorage/ML/NLP/Температурная выборка.md",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120134834.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120132051.png",
     "LalalaStorage/Теория игр/Процедура последовательных улучшений.md",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120111227.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120110100.png",
-    "LalalaStorage/ML/DL/media/Pasted image 20251120100314.png",
     "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Предусловие.md",
-    "LalalaStorage/ML/DL/Нейронные сети.md",
-    "LalalaStorage/ML/NLP/Жадный декодинг.md",
-    "LalalaStorage/ML/NLP/Токенизация.md",
-    "LalalaStorage/ML/NLP/Эмбеддинги.md",
-    "LalalaStorage/ML/Метрики/MLE.md",
-    "LalalaStorage/ML/Метрики/Perplexity.md",
-    "LalalaStorage/ML/Работа с данными/Категориальные данные.md",
     "LalalaStorage/ML/NLP/media",
     "LalalaStorage/ML/Обучение/media",
     "LalalaStorage/Теория игр/media",

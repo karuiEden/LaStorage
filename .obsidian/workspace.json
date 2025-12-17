@@ -48,29 +48,17 @@
             }
           },
           {
-            "id": "240b65781f8f92a6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "c95b70460b18f1dd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "LalalaStorage/Calculus/Ряды/Теорема о сходимости суммы рядов.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Теорема о сходимости суммы рядов"
             }
           },
           {
@@ -79,16 +67,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "LalalaStorage/Calculus/Элементы векторного анализа и теории поля/Дифференциальные операторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Дифференциальные операторы"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -294,8 +282,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "782306e3da133560",
+  "active": "c95b70460b18f1dd",
   "lastOpenFiles": [
+    "LalalaStorage/Calculus/Ряды/Числовые ряды.md",
+    "LalalaStorage/Calculus/Ряды/Теорема о сходимости суммы рядов.md",
+    "LalalaStorage/Calculus/Ряды/Интегральный признак.md",
+    "LalalaStorage/Calculus/Ряды/Критерий Коши для числовых рядов.md",
+    "LalalaStorage/Calculus/Ряды/Необходимое условие сходимости числового ряда.md",
+    "LalalaStorage/Calculus/Ряды/Признаки сравнения.md",
+    "LalalaStorage/Calculus/Ряды/Принцип локализации.md",
+    "LalalaStorage/Calculus/Ряды/Ряды с неотрицательными членами.md",
+    "LalalaStorage/Calculus/Элементы векторного анализа и теории поля/Дифференциальные операторы.md",
+    "LalalaStorage/Calculus/Элементы векторного анализа и теории поля/Интегральные формулы теории поля.md",
+    "LalalaStorage/Calculus/Элементы векторного анализа и теории поля/Скалярные и векторные поля.md",
+    "LalalaStorage/ML/NLP/Языки.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/Calculus/Поверхности и дифференциальные формы/Поверхность в R^n.md",
     "LalalaStorage/Calculus/Поверхности и дифференциальные формы/Площадь поверхности в евклидовом пространстве.md",
@@ -323,20 +323,8 @@
     "Pasted image 20251110135915.png",
     "LalalaStorage/ML/Обучение/media",
     "LalalaStorage/ML/Обучение/Error Backpropagation.md",
-    "LalalaStorage/ML/Метрики/Perplexity.md",
-    "LalalaStorage/ML/Метрики/MLE.md",
-    "LalalaStorage/ML/NLP/Эмбеддинги.md",
     "LalalaStorage/ML/NLP/media",
-    "LalalaStorage/ML/NLP/N-gram model.md",
-    "LalalaStorage/ML/NLP/LLM.md",
-    "LalalaStorage/ML/NLP/Byte-pair encoding.md",
-    "LalalaStorage/ML/DL/Трансформеры.md",
-    "LalalaStorage/ML/DL/Нейронные сети.md",
-    "LalalaStorage/ML/DL/Донастройка по инструкциям.md",
-    "LalalaStorage/ML/DL/Двунаправленные энкодер-трансформеры.md",
-    "LalalaStorage/ML/DL/Вычислительные графы.md",
     "LalalaStorage/ML/DL/media",
-    "LalalaStorage/ML/DL/Feedforward Neural Network.md",
     "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы",
     "LalalaStorage/Calculus/Элементы векторного анализа и теории поля",
     "LalalaStorage/ML/Временные ряды",

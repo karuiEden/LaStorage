@@ -19,7 +19,7 @@ $$f(x,y)=\overline{f(y,x)}$$
 Пусть $[a]$ - базис $U$. 
 Тогда $x=[a]x_{\downarrow};y=[a]y_{\downarrow}$
 $$f(x,y)=f\left( \sum_{i=1}^{n}x_{i}a_{i} ,\sum_{j=1}^{n}y_{j}a_{j}\right)=\sum_{i=1}^{n}\sum_{j=1}^{n}x_{i}\overline{y_{j}}f(a_{i},a_{j})=\sum_{i,j=1}^{n}f_{ij}x_{i}\overline{y_{j}}$$
-**Определение:** $F_{a}=\|f_{ij}\|_{n\times n}=\|f(a_{i},f_{j})\|_{n\times n}$ - *матрица полуторалинейной формы $f(x,y)$* в $[a]$ 
+**Определение:** $F_{a}=\|f_{ij}\|_{n\times n}=\|f(a_{i},a_{j})\|_{n\times n}$ - *матрица полуторалинейной формы $f(x,y)$* в $[a]$ 
 $$x_{i}\overline{y_{j}}=x_{\downarrow}F_{a}\overline{y}_{\downarrow}$$
 
 **Закон преобразования** $[a]\to^{T}[b]:$ $F_{a}=T^{T}F_{a}\overline{T}$ (проверить самому).

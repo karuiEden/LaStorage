@@ -62,21 +62,49 @@
             }
           },
           {
-            "id": "782306e3da133560",
+            "id": "925a1ea2e6db1c05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/Метрики/Word Error Rate.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Билеты/Нормальные операторы в унитарном и евклидовом пространствах, их свойства..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word Error Rate"
+              "title": "Нормальные операторы в унитарном и евклидовом пространствах, их свойства."
+            }
+          },
+          {
+            "id": "d8110721442b7861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Билеты/Полуторалинейная форма (ПФ) в унитарном пространстве..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полуторалинейная форма (ПФ) в унитарном пространстве."
+            }
+          },
+          {
+            "id": "6ce6bea71feff6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Билеты/Ортогональное дополнение подпространства унитарного и евклидова пространств..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ортогональное дополнение подпространства унитарного и евклидова пространств."
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,53 +310,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "782306e3da133560",
+  "active": "d8110721442b7861",
   "lastOpenFiles": [
-    "LalalaStorage/ML/NLP/Извлечение фонетических и речевых признаков.md",
-    "LalalaStorage/ML/NLP/CTC.md",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251228152444.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251228151321.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251228152141.png",
-    "LalalaStorage/ML/NLP/Encoder-Decoder архитектура для ASR.md",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251228113536.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251228113041.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251227175753.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251227174825.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251227191225.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251227182318.png",
-    "LalalaStorage/ML/NLP/media/Pasted image 20251227172447.png",
-    "LalalaStorage/ML/Метрики/Word Error Rate.md",
-    "LalalaStorage/ML/Метрики/media",
-    "LalalaStorage/ML/DL/CNN.md",
-    "LalalaStorage/ML/NLP/Задача распознавания речи.md",
-    "LalalaStorage/ML/DL/Механизм внимания в RNN Encoder-Decoder.md",
-    "LalalaStorage/Поле.md",
-    "Byte-pair encoding(BPE).md",
-    "LalalaStorage/ML/DL/Кодер-декодер с RNN.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Выборка.md",
-    "LalalaStorage/ML/NLP/Byte-pair encoding.md",
-    "LalalaStorage/ML/DL/LSTM.md",
-    "LalalaStorage/ML/NLP/RNN в других задачах NLP.md",
-    "LalalaStorage/ML/NLP/RNN как языковые модели.md",
-    "LalalaStorage/ML/DL/RNN.md",
-    "LalalaStorage/Calculus/Ряды/Теорема о сходимости суммы рядов.md",
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/media",
-    "LalalaStorage/Calculus/Ряды/Числовые ряды.md",
-    "LalalaStorage/Calculus/Ряды/Интегральный признак.md",
-    "LalalaStorage/Calculus/Ряды/Критерий Коши для числовых рядов.md",
-    "LalalaStorage/Calculus/Ряды/Необходимое условие сходимости числового ряда.md",
-    "LalalaStorage/Calculus/Ряды/Признаки сравнения.md",
-    "LalalaStorage/Calculus/Ряды/Принцип локализации.md",
-    "LalalaStorage/Calculus/Ряды/Ряды с неотрицательными членами.md",
-    "LalalaStorage/Calculus/Поверхности и дифференциальные формы",
-    "LalalaStorage/Calculus/Криволинейные и поверхностные интегралы",
-    "LalalaStorage/ML/Обучение/media",
-    "LalalaStorage/ML/NLP/media",
-    "LalalaStorage/ML/DL/media",
-    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы",
-    "LalalaStorage/Calculus/Элементы векторного анализа и теории поля",
-    "LalalaStorage/ML/Временные ряды",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Ортогональное дополнение подпространства унитарного и евклидова пространств..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Достаточное условие линейной независимости системы векторов. Ортонормированный базис (ОНБ) в унитарном и евклидовом пространствах.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Спектральные теоремы для нормальных операторов и нормальных матриц..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Билеты.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Унитарные и ортогональные матрицы, их свойства. Примеры..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Унитарные операторы в унитарном пространстве и ортогональные операторы в евклидовом пространстве, их свойства..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Самосопряженные операторы в унитарном и евклидовом пространствах, их свойства..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Нормальные операторы в унитарном и евклидовом пространствах, их свойства..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Основные классы линейных операторов в унитарном и евклидовом пространствах. Матричные критерии..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Определение сопряженного оператора. Теорема о существовании и единственности сопряженного оператора, его свойства..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Теорема о представлении полуторалинейной (билинейной) формы в унитарном (евклидовом) пространстве..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Полуторалинейная форма (ПФ) в унитарном пространстве..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260124145927.png",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/media",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Определение линейной формы. Примеры. Вид линейной формы в базисе. Теорема о представлении линейной формы в унитарном и евклидовом пространствах..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Понятие сопряженного оператора.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Основные типы ЛО в U(E) и соответствующие им типы матриц.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства самосопряженных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Спектральные теоремы для самосопряженных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Спектральные теоремы для нормальных операторов и т.д..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства унитарных операторов.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Спектральные теоремы для унитарного оператора и унитарных(ортогональных) матриц.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Унитарные(ортогональные) матрицы и их свойства.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Неравенство Коши-Буняковского. Норма в унитарном и евклидовом пространствах. Свойства нормы. Теорема Пифагора..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Матрица Грама системы векторов. Закон преобразования матрицы Грама базиса при переходе к новому базису. Свойства матрицы Грама..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Определение унитарного и евклидова пространств. Примеры. Элементарные свойства скалярного произведения. Вид скалярного произведения в базисе..md",
+    "LalalaStorage/Linear Algebra/СГЛА/Представление линейной формы в U(E).md",
+    "LalalaStorage/Linear Algebra/СГЛА/Билеты",
+    "{",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260110161510.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260110161513.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109141656.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109141149.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109145502.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109143117.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109140342.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109131546.png",
+    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109130658.png",
+    "LALALA~1/Calculus/Сессия/media",
+    "LALALA~1/Calculus/Элементы векторного анализа и теории поля",
+    "LALALA~1/Calculus/Сессия",
+    "LALALA~1/Calculus/Ряды",
+    "LALALA~1/Calculus/Поверхности и дифференциальные формы",
+    "LALALA~1/Calculus/Непрерывные отображения",
+    "LALALA~1/Calculus/Криволинейные и поверхностные интегралы",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

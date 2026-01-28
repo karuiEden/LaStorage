@@ -31,11 +31,24 @@ $A\in L(U,U), \ [e]$ - ОНБ в $U$
 2. $A$ - самосопряжённый $\Leftrightarrow$ $A_{e}$ - эрмитова
 3. $A$ - унитарный(ортогональный) $\Leftrightarrow A_{e}$ - унитарная(ортогональная)
 
-*Док-во*: 
+$\blacktriangleleft$
 1. ($\implies$)  $A^{*}A=A A^{*}\implies^{\text{свойства м-ц ЛО}}(A^{*}A)_{e}=(A A^{*})_{e}\implies$
 	$\implies(A^{*})_{e}A_{e}=A_{e}\cdot(A^{*})_{e}\implies^{\text{свойство 7 сопр. ЛО}}(A_{e})^{*}A_{e}=A_{e}(A_{e})^{*}$
 	($\Leftarrow$) $(A_{e})^{*}A_{e}=A_{e}(A)(A_{e})^{*}(B)\implies \exists A,B\in L(U,U)$
 	Свойство матриц операторов в базисе $\implies BA=AB$
 	Свойство $7$ $\implies(A_{e})^{*}=(A^{*})_{e}=B_{e}\implies B=A^{*}$
 	Исходя из свойств выше $A^{*}A=A A^{*}$
-2)и 3) самостоятельно
+2. ($\implies$) $A=A^{*}\xrightarrow{\text{с-ва матриц ЛО}} A_{e}=(A^{*})_{e}\xrightarrow{\text{св-во 7 сопр оператора}} A_{e}=(A_{e})^{*}\implies A_{e}$ - эрмитова
+	($\Longleftarrow$) $A_{e}=(A_{e})^{*}\implies \exists A,A^{*}\in L(U,U)$ по теореме о единственности матрицы ЛО $\implies A=A^{*}\implies$ $A$ - самосопряженный.
+3. ($\implies$) $A A^{*}=A^{*}A=I\xrightarrow{\text{с-ва матриц ЛО}}A_{e}(A^{*})_{e}=(A^{*})_{e}A_{e}=E\xrightarrow{\text{св-во 7 сопр оператора}}$ 
+	$A_{e}(A_{e})^{*}=(A_{e})^{*}A_{e}=E\implies A_{e}$ - унитарная в $U$
+	($\Longleftarrow$) $A_{e}(A_{e})^{*}=(A_{e})^{*}A_{e}=E\implies \exists A,B,I\in L(U,U)$
+$$
+\left.
+\begin{aligned}
+\text{св-во матриц ЛО в базисе} \implies A\cdot B=B\cdot A=I \\
+\text{св-во 7 сопр операторов} \implies (A^{*})_{e}=(A_{e})^{*}=B_{e}
+\end{aligned}
+\right\} \implies A\cdot A^{*}=A^{*}A=I
+$$
+$\blacktriangleright$

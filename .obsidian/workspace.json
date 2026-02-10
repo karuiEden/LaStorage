@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка.md",
+                "file": "LalalaStorage/Дифференциальные уравнения/Основы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные понятия ОДУ 1-ого порядка"
+              "title": "Основы"
             }
           },
           {
@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Основные понятия.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные понятия"
+              "title": "Случайные события с точки зрения теоретико-множественной трактовки"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "линейный",
+                "query": "Счетное ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,8 @@
               "title": "2024-11-14"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -310,16 +311,32 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2efc161b2c810a6a",
+  "active": "3627e62b684d1e83",
   "lastOpenFiles": [
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Теорема существования и единственности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Свойства операций над событиями.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133101.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133056.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133045.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133036.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133024.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Основы.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Основные понятия.md",
+    "LalalaStorage/Дифференциальные уравнения/Основы.md",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Теорема существования и единственности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/null.md",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260209111346.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260209110240.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка",
-    "LalalaStorage/Дифференциальные уравнения/Основы.md",
     "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
     "LalalaStorage/ull.md",
     "LalalaStorage/Дифференциальные уравнения",
@@ -335,29 +352,13 @@
     "LalalaStorage/Linear Algebra/СГЛА/Полуторалинейные формы в U.md",
     "LalalaStorage/Linear Algebra/СГЛА/Понятие функции от матрицы.md",
     "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Теорема о представлении линейного пространства (ЛП) прямой суммой подпространств, соответствующем разложению аннулирующего многочлена.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Многочлен от линейного оператора (ЛО). Многочлен, аннулирующий ЛО. Теорема Гамильтона-Кэли..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Ортогональное дополнение подпространства U(E).md",
-    "LalalaStorage/Linear Algebra/СГЛА/Определение унитарного(евклидова) пространства.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Норма вектора. Св-ва нормы.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Неравенство Коши-Буняковского. Норма в унитарном и евклидовом пространствах. Свойства нормы. Теорема Пифагора..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Минимальный аннулирующий многочлен линейного оператора и его свойства..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Матрица Грама системы векторов. Закон преобразования матрицы Грама базиса при переходе к новому базису. Свойства матрицы Грама..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Билеты/Корневые векторы и корневые подпространства линейного оператора, их свойства..md",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260126233713.png",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260126215346.png",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260124145927.png",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты",
     "{",
-    "LALALA~1/Calculus/Сессия/media/Pasted image 20260110161510.png",
-    "LALALA~1/Calculus/Сессия/media/Pasted image 20260110161513.png",
-    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109141656.png",
-    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109141149.png",
-    "LALALA~1/Calculus/Сессия/media/Pasted image 20260109145502.png",
     "LALALA~1/Calculus/Сессия/media",
-    "LALALA~1/Calculus/Элементы векторного анализа и теории поля",
-    "LALALA~1/Calculus/Сессия",
-    "LALALA~1/Calculus/Ряды",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

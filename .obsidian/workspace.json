@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Приведение эрмитовых квадратичных форм к каноническому виду.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Случайные события с точки зрения теоретико-множественной трактовки"
+              "title": "Приведение эрмитовых квадратичных форм к каноническому виду"
             }
           }
         ],
@@ -136,8 +136,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Счетное ",
-                "matchingCase": false,
+                "query": "Приве",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -311,10 +311,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3627e62b684d1e83",
+  "active": "2efc161b2c810a6a",
   "lastOpenFiles": [
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
+    "LalalaStorage/Linear Algebra/Ортонормированный базис.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Ортогональное дополнение подпространства U(E).md",
+    "LalalaStorage/Linear Algebra/СГЛА/Полуторалинейные формы в U.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Представление полуторалинейной формы в U(БФ в E).md",
+    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Расположение точек относительно множеств.md",
+    "LalalaStorage/Linear Algebra/СГЛА/Представление линейной формы в U(E).md",
+    "LalalaStorage/Linear Algebra/Квадратичная форма.md",
+    "LalalaStorage/ML/System Design/Итеративный процесс.md",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260211121213.png",
+    "LalalaStorage/ML/System Design/media",
+    "LalalaStorage/ML/System Design/Требования к системе.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
+    "LalalaStorage/ML/System Design",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Свойства операций над событиями.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
@@ -343,22 +355,10 @@
     "LalalaStorage/Linear Algebra/СГЛА/Теорема о существовании канонического базиса корневого подпространства линейного оператора..md",
     "LalalaStorage/Linear Algebra/СГЛА/Формула интерполяционного многочлена Лагранжа-Сильвестра.md",
     "LalalaStorage/Linear Algebra/СГЛА/Теорема о сингулярных базисах линейного оператора..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Теорема о сингулярном разложении матрицы. Теорема о полярном разложении линейного оператора..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Теорема о приведении к каноническому виду эрмитовой квадратичной формы (КФ) в унитарном и КФ в евклидовом пространстве..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Теорема о вычислении многочлена от матрицы с использованием жордановой нормальной формы матрицы..md",
-    "LalalaStorage/Linear Algebra/СГЛА/Свойства матрицы Грама.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Представление полуторалинейной формы в U(БФ в E).md",
-    "LalalaStorage/Linear Algebra/СГЛА/Представление линейной формы в U(E).md",
-    "LalalaStorage/Linear Algebra/СГЛА/Полуторалинейные формы в U.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Понятие функции от матрицы.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Теорема о представлении линейного пространства (ЛП) прямой суммой подпространств, соответствующем разложению аннулирующего многочлена.md",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260126233713.png",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260126215346.png",
-    "LalalaStorage/Linear Algebra/СГЛА/Билеты/media/Pasted image 20260124145927.png",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты/media",
     "LalalaStorage/Linear Algebra/СГЛА/Билеты",
-    "{",
-    "LALALA~1/Calculus/Сессия/media",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

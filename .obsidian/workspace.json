@@ -81,44 +81,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Основы.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы"
+              "title": "Ортогональность векторов. Метрические понятия В U(E). Ортонормированные системы и базисы"
             }
           },
           {
-            "id": "2efc161b2c810a6a",
+            "id": "a586a6ca47115823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
+                "file": "LalalaStorage/Calculus/Криволинейные и поверхностные интегралы/Формула Стокса в трёхмерном пространстве.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предмет теории вероятности"
+              "title": "Формула Стокса в трёхмерном пространстве"
             }
           },
           {
-            "id": "84ce6006d4568c53",
+            "id": "891a8c16d9b533f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/ОДУ 1-ого порядка не разрешенные относительно производной.md",
+                "file": "LalalaStorage/Linear Algebra/СГЛА/Канонический базис и каноническая форма матрицы ЛО Жордановы формы матрицы, Функция от матрицы/Теорема о вычислении многочлена от матрицы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОДУ 1-ого порядка не разрешенные относительно производной"
+              "title": "Теорема о вычислении многочлена от матрицы"
+            }
+          },
+          {
+            "id": "28566e41cfd262f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "73e22718627a575b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции/Степенные ряды.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Степенные ряды"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -150,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,8 +303,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -287,8 +313,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -297,8 +323,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -310,6 +336,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -320,58 +347,57 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "73e22718627a575b",
   "lastOpenFiles": [
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/ОДУ 1-ого порядка не разрешенные относительно производной.md",
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности/Вероятностная модель эксперимента с конечным числом исходом.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности",
-    "LalalaStorage/ML/System Design/Требования к ML System.md",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260208214750.png",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260208193153.png",
-    "LalalaStorage/Calculus/Функции НП, задаваемые неявно и параметрическими уравнениями. Их существование и дифференцирование..md",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216112258.png",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Теорема существования и единственности.md",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216110146.png",
+    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Условие Коши-Римана.md",
+    "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции/Степенные ряды.md",
+    "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции",
+    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Комплексная производная.md",
+    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Введение.md",
+    "LalalaStorage/ML/System Design/Форматы данных.md",
+    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП",
+    "LalalaStorage/Calculus/ТФКП",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260217103004.png",
     "LalalaStorage/ML/System Design/Итеративный процесс.md",
+    "LalalaStorage/ML/System Design/Требования к системе.md",
+    "LalalaStorage/ML/System Design/Требования к ML System.md",
+    "LalalaStorage/Теория игр/Процедура последовательных улучшений.md",
+    "Byte-pair encoding(BPE).md",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/ОДУ 1-ого порядка не разрешенные относительно производной.md",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216112258.png",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216110146.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216105613.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216104113.png",
-    "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/Теоремы Лагранжа и Коши о конечных приращениях.md",
-    "LalalaStorage/Calculus/Формула конечных приращений Лагранжа для функций НП.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216103222.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216102801.png",
+    "LalalaStorage/Python/Python Plan.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Биекция.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Упорядоченные пары и кортежи.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Реккурентная формула для 0 и 1.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Парадокс Рассела.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности/Вероятностная модель эксперимента с конечным числом исходом.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Независимость событий.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Свойства операций над событиями.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
-    "LalalaStorage/ML/System Design/Требования к системе.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Приведение эрмитовых квадратичных форм к каноническому виду.md",
-    "LalalaStorage/Linear Algebra/Ортонормированный базис.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Ортогональное дополнение подпространства U(E).md",
-    "LalalaStorage/Linear Algebra/СГЛА/Полуторалинейные формы в U.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Представление полуторалинейной формы в U(БФ в E).md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Расположение точек относительно множеств.md",
-    "LalalaStorage/Linear Algebra/СГЛА/Представление линейной формы в U(E).md",
-    "LalalaStorage/Linear Algebra/Квадратичная форма.md",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260211121213.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260208214750.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133101.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133056.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ",
     "LalalaStorage/ML/System Design/media",
     "LalalaStorage/ML/System Design",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133101.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ОКЧП/Круги Эйлера.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Основы.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Основные понятия.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка",
-    "LalalaStorage/Дифференциальные уравнения",
-    "LalalaStorage/Linear Algebra/СГЛА/Билеты/media",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

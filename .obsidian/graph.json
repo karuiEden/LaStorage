@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 14722386
       }
+    },
+    {
+      "query": "tag:#diff_eq  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#probability  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3035966453959038,
+  "scale": 0.2165480376953854,
   "close": false
 }

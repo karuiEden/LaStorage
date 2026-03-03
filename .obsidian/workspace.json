@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции/Степенные ряды.md",
+                "file": "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Конформные отображения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Степенные ряды"
+              "title": "Конформные отображения"
             }
           }
         ],
@@ -353,9 +353,10 @@
   "active": "73e22718627a575b",
   "lastOpenFiles": [
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Условие Коши-Римана.md",
+    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Конформные отображения.md",
+    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Комплексная производная.md",
     "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции/Степенные ряды.md",
     "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции",
-    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Комплексная производная.md",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Введение.md",
     "LalalaStorage/ML/System Design/Форматы данных.md",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП",
@@ -387,7 +388,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Вероятностная модель эксперимента с конечным числом исходов.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности",
     "LalalaStorage/ML/System Design/media/Pasted image 20260208214750.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260210133101.png",

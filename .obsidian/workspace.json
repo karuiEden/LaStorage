@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Особые решения ОДУ I порядка.md",
+                "file": "LalalaStorage/ML/System Design/Данные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Особые решения ОДУ I порядка"
+              "title": "Данные"
             }
           }
         ],
@@ -326,10 +326,15 @@
   },
   "active": "84ce6006d4568c53",
   "lastOpenFiles": [
+    "LalalaStorage/ML/System Design/media/Pasted image 20260304200211.png",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260304194306.png",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260304194254.png",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260303172348.png",
+    "LalalaStorage/ML/System Design/media/Pasted image 20260303164514.png",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Особые решения ОДУ I порядка.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/ОДУ 1-ого порядка не разрешенные относительно производной.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Теорема существования и единственности.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Основные понятия.md",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Особые решения ОДУ I порядка.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260302111747.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260302111047.png",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260302111039.png",
@@ -338,7 +343,7 @@
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Условие Коши-Римана.md",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Функция Жуковского.md",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Геометрический смысл.md",
-    "LalalaStorage/ML/System Design/Форматы данных.md",
+    "LalalaStorage/ML/System Design/Данные.md",
     "LalalaStorage/ML/System Design/Требования к ML System.md",
     "LalalaStorage/Linear Algebra/Теорема об общем решении НСЛАУ.md",
     "conflict-files-obsidian-git.md",
@@ -358,14 +363,9 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности/Вероятностная модель эксперимента с конечным числом исходом.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности",
     "LalalaStorage/ML/System Design/media/Pasted image 20260208214750.png",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260208193153.png",
     "LalalaStorage/Calculus/Функции НП, задаваемые неявно и параметрическими уравнениями. Их существование и дифференцирование..md",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216112258.png",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216110146.png",
     "LalalaStorage/ML/System Design/Итеративный процесс.md",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260216105613.png",
     "LalalaStorage/Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/Теоремы Лагранжа и Коши о конечных приращениях.md",
-    "LalalaStorage/Calculus/Формула конечных приращений Лагранжа для функций НП.md",
     "LalalaStorage/ML/System Design/media",
     "LalalaStorage/ML/System Design",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media",

@@ -139,6 +139,8 @@ $$
 y=x\varphi(y')+\psi(y')\quad(15)
 $$
 
+^1adb77
+
 называется *уравнением Лагранжа*.
 
 $p=p(x):p=y'\implies y=x\varphi(p)+\psi(p)$
@@ -149,9 +151,93 @@ $$
 $$
 
 
+$$
+x=x(p,C)\text{- Общее решение}\to(15): y=y(p,C)
+$$
+$\to$ Ответ в параметрической форме.
+2. Если имеются корни уравнения $p=\varphi(p)$, то есть решение $y=x\cdot\varphi(p_{0})+\psi(p_{0})$ - прямая ($p_{0}=\varphi(p_{0})$)
+
+**Замечание:** Особые решения уравнения Лагранжа [[#^1adb77|(15)]] (если они есть) являются решениями системы:
+$$
+\begin{cases}
+y=x\cdot\varphi(p)+\psi(p) \\
+p=\varphi(p)
+\end{cases}
+$$
+
+**Определение:** Уравнение вида 
+
+$$
+y=xy'+\psi(y')\ \text{(частный случай уравнения Лагранжа)} \quad(16) 
+$$
+
+называется *уравнением Клеро*.
+
+$p=y'\implies y=xp+\psi(p)$
+Дифференцируем по $x$:
+$$
+p=1\cdot p+x \frac{dp}{dx} + \psi'(p)\cdot \frac{dp}{dx}
+$$
+
+$$
+(x+\psi'(p)) \frac{dp}{dx}=0
+$$
+1) $\frac{dp}{dx}=0\implies p=C\implies$
+	$y=Cx+\psi(C)$ - семейство прямых (общее решение уравнения Клеро).
+2) $$
+\begin{cases}
+x=-\psi'(p) \\
+y=-p\cdot \psi'(p)+\psi(p)
+\end{cases} \text{- особое решение уравнения Клеро (огибающее  cемейства $y=Cx+\psi(C)$)}
+$$
+Пример: $y=xy'-(2+y')^{2}$
+$p=y'= \frac{dy}{dx}\implies dy=p\,dx$
+$y=xp-(2+p)^{2}$
+$dy=xdp+pdx-2(2+p)dp$
+$0=(x-2(2+p))\,dp$
+
+- $dp=0\implies p=C\implies y=Cx-(2+C)^{2}$ 
+- $$
+\begin{cases}
+x=2(p+2)\to \frac{x}{2}=2+p\to p= \frac{x}{2}-2 \\
+y=xp-(2+p)^{2}=x\left(  \frac{x}{2}-2  \right)-\left( \frac{x}{2} \right)^{2}= \frac{x^{2}}{4}-2x
+\end{cases}
+$$
+$$
+\begin{array} \\
+y_{1}=Cx-(2+C)^{2} \\
+y_{2}= \frac{x^{2}}{4}-2x
+\end{array}
+$$
+
+$$
+\begin{cases}
+y_{1}(x_{0})=y_{2}(x_{0}) \\
+y_{1}'(x_{0})=y_{2}'(x_{0})
+\end{cases}
+$$
+$$
+\begin{cases}
+Cx_{0}-(2+C)^{2}= \frac{x_{0}^{2}}{4}-2x_{0} \\
+C=\frac{x_{0}}{2}-2
+\end{cases}
+$$
+$$
+\left( \frac{x_{0}}{2}-2 \right)x_{0}-\left( \frac{x_{0}}{2} \right)^{2}\equiv ^{?} \frac{x_{0}^{2}}{4}
+$$
+$$
+\frac{x_{0}^{2}}{2}-2x_{0}-\frac{x_{0}^{2}}{4}\equiv \frac{x_{0}^{2}}{4}-2x_{0}
+$$
 
 
 
+```desmos-graph
+y=\frac{x^{2}}{4}-2x
+y=-4
+(4,-4)|red
+y=-2x
+(0,0)|red
+```
 
-
-
+$x_{0}=4\to c=0\to y_{1}=-4$
+$x_{0}=0\to C=-2\to y_{1}=-2x$

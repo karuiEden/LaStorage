@@ -161,14 +161,14 @@
             "id": "63044248cb5f9e2d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Дельта-функция Дирака"
             }
           }
         ],
@@ -380,13 +380,17 @@
   },
   "active": "63044248cb5f9e2d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Пространство обобщенных функций.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Различные определения вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317090749.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317073807.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Свойства операций над событиями.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Свойства операций над событиями.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Основные понятия.md",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Линейные ОДУ n-ого порядка с переменными коэффициентами.md",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка",
@@ -404,8 +408,6 @@
     "LalalaStorage/ML/System Design/media/Pasted image 20260304200211.png",
     "LalalaStorage/ML/System Design/media/Pasted image 20260304194306.png",
     "LalalaStorage/ML/System Design/media/Pasted image 20260304194254.png",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260303172348.png",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260303164514.png",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Конформные отображения.md",
     "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Особые решения ОДУ I порядка.md",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Функция Жуковского.md",
@@ -420,8 +422,6 @@
     "LalalaStorage/Calculus/ТФКП",
     "LalalaStorage/ML/System Design/Итеративный процесс.md",
     "LalalaStorage/ML/System Design/Требования к системе.md",
-    "LalalaStorage/ML/System Design/Требования к ML System.md",
-    "LalalaStorage/Теория игр/Процедура последовательных улучшений.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события",

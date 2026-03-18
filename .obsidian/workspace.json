@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дельта-функция Дирака"
+              "title": "Предельные теоремы в схеме Бернулли"
             }
           }
         ],
@@ -378,8 +378,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "63044248cb5f9e2d",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Без названия.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317130222.png",
@@ -387,7 +388,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317125955.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317125942.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Пространство обобщенных функций.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Различные определения вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317090749.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317073807.png",

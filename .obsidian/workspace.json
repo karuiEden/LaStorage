@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Производные обобщенных функций.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предельные теоремы в схеме Бернулли"
+              "title": "Производные обобщенных функций"
             }
           }
         ],
@@ -340,9 +340,11 @@
   },
   "active": "26428d999e97348b",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Производные обобщенных функций.md",
+    "LalalaStorage/ML/DL/Вычислительные графы.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Пространство обобщенных функций.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Различные определения вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
@@ -378,8 +380,6 @@
     "LalalaStorage/ML/System Design/media/Pasted image 20260310161745.png",
     "LalalaStorage/ML/System Design/Требования к ML System.md",
     "LalalaStorage/ML/System Design/media/Pasted image 20260305112440.png",
-    "LalalaStorage/ML/DL/Вычислительные графы.md",
-    "LalalaStorage/ML/System Design/Данные.md",
     "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП",
     "LalalaStorage/Calculus/ТФКП",

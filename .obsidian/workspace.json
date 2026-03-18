@@ -161,14 +161,15 @@
             "id": "63044248cb5f9e2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-latex-suite/data.json",
+                "bFile": ".obsidian/plugins/obsidian-latex-suite/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Предельные теоремы в схеме Бернулли"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -378,10 +379,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63044248cb5f9e2d",
+  "active": "e47ae7f4ad659738",
   "lastOpenFiles": [
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
+    "conflict-files-obsidian-git.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Производные обобщенных функций.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Интегралы обобщенных функций.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Дельта-функция Дирака.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Без названия.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317130222.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260317130213.png",
@@ -394,7 +398,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Случайные события с точки зрения теоретико-множественной трактовки.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
-    "conflict-files-obsidian-git.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Свойства операций над событиями.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Основные понятия.md",
@@ -418,8 +421,6 @@
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Комплексная производная.md",
     "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции/Степенные ряды.md",
     "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции",
-    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Введение.md",
-    "LalalaStorage/ML/System Design/Форматы данных.md",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП",
     "LalalaStorage/Calculus/ТФКП",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Элементарная теория вероятности",

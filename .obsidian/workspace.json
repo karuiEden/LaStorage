@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Интегралы обобщенных функций.md",
-                "mode": "source",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интегралы обобщенных функций"
+              "title": "Предельные теоремы в схеме Бернулли"
             }
           }
         ],
@@ -340,8 +340,8 @@
   },
   "active": "26428d999e97348b",
   "lastOpenFiles": [
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Производные обобщенных функций.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Интегралы обобщенных функций.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Производные обобщенных функций.md",
     "conflict-files-obsidian-git.md",
     "LalalaStorage/ML/DL/Вычислительные графы.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предельные теоремы в схеме Бернулли.md",

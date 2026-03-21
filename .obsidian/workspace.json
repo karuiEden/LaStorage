@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Аксиоматическое определение вероятности.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Формула полной вероятности.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аксиоматическое определение вероятности"
+              "title": "Формула полной вероятности"
             }
           }
         ],
@@ -380,6 +380,13 @@
   },
   "active": "63044248cb5f9e2d",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Независимость событий.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Формула полной вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Условные вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Аксиоматическое определение вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260321091019.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260321085913.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Задача о беспорядках.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Различные определения вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Пространство случайных событий.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Пространство обобщенных функций.md",
@@ -389,7 +396,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Попарно несовместные события.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Диаграммы Эйлера - Венна.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Борелевская сигма-алгебра.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Аксиоматическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Сигма алгебры в случае, если ПЭС континуален.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Алгебры и сигма-алгебры.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/media/Pasted image 20260318211706.png",
@@ -409,16 +415,10 @@
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Линейные ОДУ n-ого порядка с переменными коэффициентами.md",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Математические основания теории вероятности/media/Pasted image 20260311010135.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Математические основания теории вероятности/media/Pasted image 20260311010120.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Математические основания теории вероятности/Вероятностная модель эксперимента с бесконечным числом исходов. Аксиоматика Колмогорова.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Математические основания теории вероятности/Алгебры и сигма-алгебры. Измеримые пространства.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Математические основания теории вероятности/media",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Математические основания теории вероятности",
-    "LalalaStorage/ML/System Design/Данные.md",
-    "LalalaStorage/ML/System Design/Данные для обучения.md",
-    "LalalaStorage/ML/System Design/media/Pasted image 20260310161745.png",
-    "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП/Конформные отображения.md",
-    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Особые решения ОДУ I порядка.md",
     "LalalaStorage/Calculus/ТФКП/Степенные ряды и голоморфные функции",
     "LalalaStorage/Calculus/ТФКП/Дифференцирование ФКП",
     "LalalaStorage/Calculus/ТФКП",

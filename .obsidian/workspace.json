@@ -146,6 +146,20 @@
             }
           },
           {
+            "id": "872cda325cfd7c1e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
+          },
+          {
             "id": "4bdaf934dbaba6f9",
             "type": "leaf",
             "state": {
@@ -174,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -380,19 +394,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "661d330431eff9fe",
+  "active": "872cda325cfd7c1e",
   "lastOpenFiles": [
-    "LalalaStorage/Дифференциальные уравнения/Семинар 11.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/2D непрерывные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения 2D с.в..md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные дискретные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные случайные величины.md",
+    "LalalaStorage/CUDA/Модель памяти GPU.md",
+    "Аксиоматическое определение вероятности.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение хи квадрат(Пирсона).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421132810.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Показательное распределение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения с.в..md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Гамма-распределение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Нормальное распределение. Продолжение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 10.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421131340.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421130924.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421130505.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421125910.png",
+    "conflict-files-obsidian-git.md",
     "LalalaStorage/CUDA/Модель железа GPU.md",
+    "LalalaStorage/CUDA/media/Pasted image 20260420165602.png",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 11.md",
     "LalalaStorage/CUDA/media/Pasted image 20260420123149.png",
     "LalalaStorage/CUDA/media/Pasted image 20260420122809.png",
     "LalalaStorage/CUDA/media/Pasted image 20260420121902.png",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
-    "conflict-files-obsidian-git.md",
     "LalalaStorage/CUDA/Основы.md",
     "LalalaStorage/CUDA/media/Pasted image 20260420064600.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260419234432.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260419225218.png",
     "LalalaStorage/CUDA/media",
     "LalalaStorage/CUDA",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Неоднородные линейные ОДУ с постоянными коэффициентами.md",
@@ -403,28 +433,12 @@
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Основные понятия.md",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Линейные ОДУ n-ого порядка с переменными коэффициентами.md",
     "LalalaStorage/Дифференциальные уравнения/Семинар 10.2.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 10.md",
     "LalalaStorage/Дифференциальные уравнения/Семинар 10.md",
     "LalalaStorage/ML/CV/Цифровое изображение. Свет и цвет. Формирование изображения..md",
-    "LalalaStorage/ML/Работа с данными/Категориальные данные.md",
-    "LalalaStorage/Calculus/Семинары/Семинар 10.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дискретные случайные величины.md",
-    "LalalaStorage/Calculus/Семинары/Семинар 9.md",
     "LalalaStorage/Calculus/Семинары",
-    "LalalaStorage/Дифференциальные уравнения/Семинар 9.2.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 9.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары",
-    "LalalaStorage/Lalalal.md",
-    "LalalaStorage/ML/CV/media/Pasted image 20260408192100.png",
-    "LalalaStorage/ML/CV/media/Pasted image 20260408191521.png",
-    "LalalaStorage/ML/CV/media/Pasted image 20260408183223.png",
     "LalalaStorage/ML/CV/media",
     "LalalaStorage/ML/CV",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Расположение точек относительно множеств.md",
-    "LalalaStorage/Дифференциальные уравнения/Семинар 9.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Формула Байеса.md",
-    "LalalaStorage/Дифференциальные уравнения/Основы.md",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/media/Pasted image 20260330102854.png",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/media",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины",

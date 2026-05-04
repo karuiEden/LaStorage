@@ -18,7 +18,7 @@
       "query": "tag:#ml  ",
       "color": {
         "a": 1,
-        "rgb": 5431511
+        "rgb": 14725458
       }
     },
     {
@@ -29,21 +29,21 @@
       }
     },
     {
+      "query": "tag:#diff_eq  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
       "query": "tag:#deep_learning  ",
       "color": {
         "a": 1,
-        "rgb": 10048224
+        "rgb": 5431473
       }
     },
     {
       "query": "tag:#nlp  ",
-      "color": {
-        "a": 1,
-        "rgb": 14722386
-      }
-    },
-    {
-      "query": "tag:#diff_eq  ",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -57,7 +57,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24482872605441403,
+  "scale": 0.17139692383432203,
   "close": false
 }

@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения с.в..md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Обобщенное биномиальное распределение (GBin).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Функция распределения с.в."
+              "title": "Обобщенное биномиальное распределение (GBin)"
             }
           }
         ],
@@ -394,13 +394,20 @@
   },
   "active": "8d31f7ddfe13d164",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Биномиальное распределение (Bin).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Обобщенное биномиальное распределение (GBin).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение Бернулли (Be).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Производящая функция д.с.в. специального вида.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дисперсия дискретной случайной величины xi.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Untitled",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Математическое ожидание (м.о) д.с.в..md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения с.в..md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260504200822.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260504200421.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260504193315.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Понятие случайной величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/2D непрерывные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения с.в..md",
     "LalalaStorage/ML/NLP/Извлечение фонетических и речевых признаков.md",
     "LalalaStorage/ML/CV/Цифровое изображение. Свет и цвет. Формирование изображения..md",
     "LalalaStorage/CUDA/Модель памяти GPU.md",
@@ -423,23 +430,16 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421125910.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 9.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 11.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 10.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары",
     "LalalaStorage/ML/CV/media/Pasted image 20260408192100.png",
     "LalalaStorage/ML/CV/media/Pasted image 20260408191521.png",
-    "LalalaStorage/ML/CV/media/Pasted image 20260408183223.png",
     "LalalaStorage/ML/CV/media",
     "LalalaStorage/ML/CV",
-    "LalalaStorage/Calculus/Семинары/Семинар 12.md",
-    "LalalaStorage/Calculus/Семинары/Семинар 9.md",
-    "LalalaStorage/Calculus/Семинары/Семинар 11.md",
-    "LalalaStorage/Calculus/Семинары/Семинар 10.md",
     "LalalaStorage/Calculus/Семинары",
     "LalalaStorage/CUDA/media",
     "LalalaStorage/CUDA",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/media",
     "LalalaStorage/ML/Агенты/media",
-    "LalalaStorage/ML/Агенты",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

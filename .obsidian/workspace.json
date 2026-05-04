@@ -149,14 +149,28 @@
             "id": "872cda325cfd7c1e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Основные понятия"
+            }
+          },
+          {
+            "id": "e4bc272ca4cfca0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Системы линейных ОДУ с постоянными коэффициентами"
             }
           },
           {
@@ -188,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -220,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Колм",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -394,47 +408,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "872cda325cfd7c1e",
+  "active": "e4bc272ca4cfca0b",
   "lastOpenFiles": [
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Неоднородные системы линейных ОДУ.md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Однородные системы линейных ОДУ.md",
+    "LalalaStorage/Calculus/Семинары/Семинар 12.md",
+    "LalalaStorage/Без названия.md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 12.md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 10.2.md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 10.md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 9.md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 9.2.md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 11.md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
+    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Основные понятия.md",
+    "Без названия.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 11.md",
+    "LalalaStorage/CUDA/Модель памяти GPU.md",
+    "LalalaStorage/CUDA/Модель железа GPU.md",
+    "LalalaStorage/Calculus/Семинары/Семинар 11.md",
+    "LalalaStorage/Calculus/Формула Тейлора НП.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/2D непрерывные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения 2D с.в..md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные случайные величины.md",
-    "LalalaStorage/CUDA/Модель памяти GPU.md",
     "Аксиоматическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение хи квадрат(Пирсона).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421132810.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Показательное распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения с.в..md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Гамма-распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Нормальное распределение. Продолжение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 10.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421131340.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421130924.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421130505.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421125910.png",
-    "conflict-files-obsidian-git.md",
-    "LalalaStorage/CUDA/Модель железа GPU.md",
     "LalalaStorage/CUDA/media/Pasted image 20260420165602.png",
-    "LalalaStorage/Дифференциальные уравнения/Семинар 11.md",
     "LalalaStorage/CUDA/media/Pasted image 20260420123149.png",
     "LalalaStorage/CUDA/media/Pasted image 20260420122809.png",
     "LalalaStorage/CUDA/media/Pasted image 20260420121902.png",
-    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
-    "LalalaStorage/CUDA/Основы.md",
     "LalalaStorage/CUDA/media/Pasted image 20260420064600.png",
     "LalalaStorage/CUDA/media",
     "LalalaStorage/CUDA",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Неоднородные линейные ОДУ с постоянными коэффициентами.md",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Без названия.md",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Неоднородные линейные ОДУ n-ого порядка.md",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Однородное линейное ОДУ n-го порядка с постоянными коэффициентами.md",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Основные понятия.md",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Линейные ОДУ n-ого порядка с переменными коэффициентами.md",
-    "LalalaStorage/Дифференциальные уравнения/Семинар 10.2.md",
-    "LalalaStorage/Дифференциальные уравнения/Семинар 10.md",
-    "LalalaStorage/ML/CV/Цифровое изображение. Свет и цвет. Формирование изображения..md",
     "LalalaStorage/Calculus/Семинары",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары",
     "LalalaStorage/ML/CV/media",

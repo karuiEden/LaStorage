@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
+                "file": "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Системы линейных ОДУ с постоянными коэффициентами"
+              "title": "Cеминар 13"
             }
           },
           {
@@ -410,8 +410,21 @@
   },
   "active": "e4bc272ca4cfca0b",
   "lastOpenFiles": [
-    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Неоднородные системы линейных ОДУ.md",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504140812.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504140454.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504135006.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504134953.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504134827.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504133215.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504132041.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131930.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131810.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131731.png",
+    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131640.png",
+    "LalalaStorage/Дифференциальные уравнения/media",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Неоднородные системы линейных ОДУ.md",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Однородные системы линейных ОДУ.md",
     "LalalaStorage/Calculus/Семинары/Семинар 12.md",
     "LalalaStorage/Без названия.md",
@@ -434,18 +447,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные случайные величины.md",
     "Аксиоматическое определение вероятности.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение хи квадрат(Пирсона).md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421132810.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Показательное распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421131340.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421130924.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421130505.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260421125910.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260420165602.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260420123149.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260420122809.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260420121902.png",
-    "LalalaStorage/CUDA/media/Pasted image 20260420064600.png",
     "LalalaStorage/CUDA/media",
     "LalalaStorage/CUDA",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ",
@@ -455,7 +456,6 @@
     "LalalaStorage/ML/CV",
     "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/media",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

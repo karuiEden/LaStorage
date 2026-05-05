@@ -174,6 +174,49 @@
             }
           },
           {
+            "id": "f5343d80d706131d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение Бернулли (Be).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Распределение Бернулли (Be)"
+            }
+          },
+          {
+            "id": "469de191a7e56241",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дисперсия дискретной случайной величины xi.md",
+                "bFile": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дисперсия дискретной случайной величины xi.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Дисперсия дискретной случайной величины xi"
+            }
+          },
+          {
+            "id": "59d81958e0885db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "4bdaf934dbaba6f9",
             "type": "leaf",
             "state": {
@@ -202,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -408,22 +451,37 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e4bc272ca4cfca0b",
+  "active": "59d81958e0885db6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение Бернулли (Be).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Показательное распределение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Нормальное распределение. Продолжение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дискретные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные дискретные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Гамма-распределение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/2D непрерывные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения с.в..md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения 2D с.в..md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение хи квадрат(Пирсона).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Понятие случайной величины.md",
+    "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260504200421.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media/Pasted image 20260504193315.png",
+    "LalalaStorage/ML/Агенты/Основы.md",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406190509.png",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406190338.png",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406190229.png",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406190110.png",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406180833.png",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406185931.png",
+    "LalalaStorage/ML/Агенты/media/Pasted image 20260406180549.png",
+    "LalalaStorage/ML/Агенты/media",
+    "LalalaStorage/ML/Агенты",
     "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504140812.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504140454.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504135006.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504134953.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504134827.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504133215.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504132041.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131930.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131810.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131731.png",
-    "LalalaStorage/Дифференциальные уравнения/media/Pasted image 20260504131640.png",
     "LalalaStorage/Дифференциальные уравнения/media",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
-    "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Неоднородные системы линейных ОДУ.md",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Однородные системы линейных ОДУ.md",
     "LalalaStorage/Calculus/Семинары/Семинар 12.md",
@@ -434,19 +492,6 @@
     "LalalaStorage/Дифференциальные уравнения/Семинар 9.md",
     "LalalaStorage/Дифференциальные уравнения/Семинар 9.2.md",
     "LalalaStorage/Дифференциальные уравнения/Семинар 11.md",
-    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Основные понятия.md",
-    "Без названия.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары/Семинар 11.md",
-    "LalalaStorage/CUDA/Модель памяти GPU.md",
-    "LalalaStorage/CUDA/Модель железа GPU.md",
-    "LalalaStorage/Calculus/Семинары/Семинар 11.md",
-    "LalalaStorage/Calculus/Формула Тейлора НП.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/2D непрерывные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Функция распределения 2D с.в..md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные дискретные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Двумерные случайные величины.md",
-    "Аксиоматическое определение вероятности.md",
     "LalalaStorage/CUDA/media",
     "LalalaStorage/CUDA",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ",
@@ -454,8 +499,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Семинары",
     "LalalaStorage/ML/CV/media",
     "LalalaStorage/ML/CV",
-    "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/media",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/media",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

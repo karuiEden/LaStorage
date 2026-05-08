@@ -208,12 +208,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Коэффициент корреляции двух случайных величин.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Коэффициент корреляции двух случайных величин"
+              "title": "Семинар 13"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "последовательность",
+                "query": "\\eta=\\xi^{2}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -423,8 +423,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a81fe32355d51ca8",
+  "active": "4bdaf934dbaba6f9",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение хи квадрат(Пирсона).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 13.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Характеристические функции случайных величин.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Стандартная случайная величина.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Функции одного случайного аргумента.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Сходимости в теории вероятностей.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260507192040.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Показательное распределение.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Коэффициент корреляции двух случайных величин.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Классическое определение вероятности.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Независимость событий.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Условная вероятность.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Формула полной вероятности.md",
@@ -433,24 +443,15 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные события/Пространство случайных событий.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Гамма-распределение.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Биномиальное распределение (Bin).md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Коэффициент корреляции двух случайных величин.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Математическое ожидание (м.о) д.с.в..md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Непрерывные (абс. непрерывные) с.в. (н.с.в.) и их характеристики.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные события/Независимость событий.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Понятие случайной величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Сходимости в теории вероятностей.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Характеристические функции случайных величин.md",
     "LalalaStorage/Calculus/Глава 2. Пределы/Предел последовательности.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Обоснования.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Ограниченные множества. Полнота по Вейерштрассу.md",
     "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Расположение точек относительно множеств.md",
-    "LalalaStorage/Calculus/Глава 1. Действительные числа. Числовые последовательности/Рациональные последовательности с рациональными пределами.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные события/Пространство обобщенных функций.md",
-    "LalalaStorage/ML/NLP/Извлечение фонетических и речевых признаков.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 9.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Числовые характеристики непрерывных случайных величин.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Производящая функция д.с.в. специального вида.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260507163012.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260507163004.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260506225857.png",
@@ -460,7 +461,6 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260506125230.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260506124638.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260505131537.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260504200421.png",
     "LalalaStorage/ML/Агенты/media",
     "LalalaStorage/ML/Агенты",
     "LalalaStorage/Дифференциальные уравнения/media",

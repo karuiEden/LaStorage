@@ -208,12 +208,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№8.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение Пуассона (Pois).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ДЗ№8"
+              "title": "Распределение Пуассона (Pois)"
             }
           },
           {
@@ -222,12 +222,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Построение ФСР системы (22).md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Построение ФСР системы (22)"
+              "title": "ДЗ№9"
             }
           },
           {
@@ -236,12 +236,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
+                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дисперсия дискретной случайной величины xi"
+              "title": "ДЗ№9"
             }
           }
         ],
@@ -453,19 +453,26 @@
   },
   "active": "f0a2eab05a48e02e",
   "lastOpenFiles": [
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№8.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Геометрическое распределение (Geom).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№9.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение Пуассона (Pois).md",
+    "LalalaStorage/Дифференциальные уравнения/Семинар 15.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Непрерывные (абс. непрерывные) с.в. (н.с.в.) и их характеристики.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 9.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Построение ФСР системы (22).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение хи квадрат(Пирсона).md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Математическое ожидание (м.о) д.с.в..md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260518115623.png",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№8.md",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/media/Pasted image 20260518110422.png",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/media",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260518110143.png",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Неоднородные системы линейных ОДУ.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Геометрическое распределение (Geom).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Биномиальное распределение (Bin).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение Бернулли (Be).md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Функция распределения с.в..md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Математическое ожидание (м.о) д.с.в..md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Понятие случайной величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260517211613.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Функция распределения 2D с.в..md",
@@ -480,17 +487,11 @@
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Производящая функция д.с.в. специального вида.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Характеристические функции случайных величин.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Гамма-распределение.md",
-    "LalalaStorage/Дифференциальные уравнения/Семинар 14.md",
-    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
-    "LalalaStorage/Calculus/Глава 2. Пределы/Понятие функции.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 13.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение хи квадрат(Пирсона).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260507192040.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260507163012.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260507163004.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260506225857.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260506225409.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260506223750.png",
     "LalalaStorage/ML/Агенты/media",
     "LalalaStorage/ML/Агенты",
     "LalalaStorage/Дифференциальные уравнения/media",

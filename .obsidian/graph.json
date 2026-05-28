@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -29,28 +29,28 @@
       }
     },
     {
-      "query": "tag:#deep_learning  ",
+      "query": "tag:#diff_eq  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "tag:#probability  ",
+      "query": "tag:#deep_learning  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:#diff_eq  ",
+      "query": "tag:#nlp  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "tag:#nlp  ",
+      "query": "tag:#probability  ",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858167,
+  "scale": 0.1234987576278851,
   "close": false
 }

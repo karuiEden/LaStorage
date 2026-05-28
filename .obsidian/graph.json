@@ -29,28 +29,28 @@
       }
     },
     {
-      "query": "tag:#diff_eq  ",
+      "query": "tag:#deep_learning  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "tag:#deep_learning  ",
+      "query": "tag:#probability  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:#nlp  ",
+      "query": "tag:#diff_eq  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "tag:#probability  ",
+      "query": "tag:#nlp  ",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17139692383432278,
+  "scale": 0.18462326225858167,
   "close": false
 }

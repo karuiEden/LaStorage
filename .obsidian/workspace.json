@@ -1,256 +1,34 @@
 {
   "main": {
-    "id": "51b3a47ae5e915df",
+    "id": "9f7bc488b6324780",
     "type": "split",
     "children": [
       {
-        "id": "a0cc268e85eb8cdd",
+        "id": "3e0f3f06cd5186bd",
         "type": "tabs",
-        "dimension": 50.47095761381476,
         "children": [
           {
-            "id": "88dcf3785efb3883",
+            "id": "9d5a5f92783efe6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LalalaStorage/ML/NLP/Сегментация текста.md",
-                "mode": "source",
-                "source": false
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/19. Системы линейных ОДУ с постоянными коэффициентами.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Сегментация текста"
+              "title": "19. Системы линейных ОДУ с постоянными коэффициентами"
             }
           },
           {
-            "id": "dd61ac2daa22cc7f",
+            "id": "3d70b7b83c69d8f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Решающие деревья.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Решающие деревья"
-            }
-          },
-          {
-            "id": "ee624ada023bf0c1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "c95b70460b18f1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Calculus/Ряды/Теорема о сходимости суммы рядов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Теорема о сходимости суммы рядов"
-            }
-          },
-          {
-            "id": "925a1ea2e6db1c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Linear Algebra/СГЛА/Линейные операторы в U(E) и их свойства/Свойства нормальных операторов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Свойства нормальных операторов"
-            }
-          },
-          {
-            "id": "d8110721442b7861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Основы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы"
-            }
-          },
-          {
-            "id": "2efc161b2c810a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные события/Предмет теории вероятности.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Предмет теории вероятности"
-            }
-          },
-          {
-            "id": "84ce6006d4568c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/ОДУ n-ого порядка/Однородное линейное ОДУ n-го порядка с постоянными коэффициентами.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Однородное линейное ОДУ n-го порядка с постоянными коэффициентами"
-            }
-          },
-          {
-            "id": "cbe8a2013ffb6226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основные понятия"
-            }
-          },
-          {
-            "id": "661d330431eff9fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/CUDA/Модель железа GPU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Модель железа GPU"
-            }
-          },
-          {
-            "id": "872cda325cfd7c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основные понятия"
-            }
-          },
-          {
-            "id": "e4bc272ca4cfca0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cеминар 13"
-            }
-          },
-          {
-            "id": "f5343d80d706131d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Распределение Бернулли (Be).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Распределение Бернулли (Be)"
-            }
-          },
-          {
-            "id": "469de191a7e56241",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дисперсия дискретной случайной величины xi.md",
-                "bFile": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности МИФИ/Случайные величины/Дисперсия дискретной случайной величины xi.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Дисперсия дискретной случайной величины xi"
-            }
-          },
-          {
-            "id": "4bdaf934dbaba6f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение Пуассона (Pois).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Распределение Пуассона (Pois)"
-            }
-          },
-          {
-            "id": "397a5b308d715a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ДЗ№14"
-            }
-          }
-        ],
-        "currentTab": 15
-      },
-      {
-        "id": "4012d2c991dfa739",
-        "type": "tabs",
-        "dimension": 49.529042386185246,
-        "children": [
-          {
-            "id": "1203d84d2aa18f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Интегральная теорема Муавра-Лапласа.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Интегральная теорема Муавра-Лапласа"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -259,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "31de0ecf3cfcd667",
+    "id": "113084e2f5077486",
     "type": "split",
     "children": [
       {
-        "id": "660ec04259923d8f",
+        "id": "7948a1d13ed7a558",
         "type": "tabs",
         "children": [
           {
-            "id": "a81fe32355d51ca8",
+            "id": "5be07eff4189b8b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -276,16 +54,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
-            "id": "3627e62b684d1e83",
+            "id": "9fd31a51b53e6ed1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "сходимости по распределению",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,11 +71,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
-            "id": "3bf8b8c886a1113b",
+            "id": "e7d6f556edf6ba95",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -305,42 +83,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "24988a44f8cb789e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Расписание/2024-11-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-14"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300
   },
   "right": {
-    "id": "216fbc1da5ca19f9",
+    "id": "21b0b67192177d69",
     "type": "split",
     "children": [
       {
-        "id": "3063c8e0b81a7bd8",
+        "id": "1ffe07ea89812ada",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4581b83f012d77",
+            "id": "8ef12b5417c3bd84",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейные модели.md",
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/19. Системы линейных ОДУ с постоянными коэффициентами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Линейные модели"
+              "title": "Backlinks for 19. Системы линейных ОДУ с постоянными коэффициентами"
             }
           },
           {
-            "id": "6130f6a0f80e33cb",
+            "id": "a62de48e0d59cb36",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейные модели.md",
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/19. Системы линейных ОДУ с постоянными коэффициентами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Линейные модели"
+              "title": "Outgoing links from 19. Системы линейных ОДУ с постоянными коэффициентами"
             }
           },
           {
-            "id": "95c9b95116dfafd1",
+            "id": "cf4f80c2e75d5db3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -383,21 +147,32 @@
             }
           },
           {
-            "id": "d4b1ae6a852a8a46",
+            "id": "94642a640db101f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/19. Системы линейных ОДУ с постоянными коэффициентами.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 19. Системы линейных ОДУ с постоянными коэффициентами"
             }
           },
           {
-            "id": "e47ae7f4ad659738",
+            "id": "c28156679c75bfc3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "16d29687571adc88",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -405,39 +180,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "876dfe17f49cd020",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "acd7f10f7c009d5b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "66680c4371e33dc1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -445,13 +190,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
@@ -459,55 +204,41 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "397a5b308d715a57",
+  "active": "9d5a5f92783efe6d",
   "lastOpenFiles": [
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Интегральная теорема Муавра-Лапласа.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 14.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№14.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Нормальное распределение (N).md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение хи квадрат(Пирсона).md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Показательное распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№13.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Равномерное распределение (U).md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520173805.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 11.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 13.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№12.md",
-    "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Коэффициент корреляции двух случайных величин.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Непрерывные (абс. непрерывные) с.в. (н.с.в.) и их характеристики.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные непрерывные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520103922.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№11.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520092418.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные дискретные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Ковариация случайных величин.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520073747.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520073218.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Гамма-распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Понятие случайной величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520064853.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520063734.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Числовые характеристики непрерывных случайных величин.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№10.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260519224405.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Сходимости в теории вероятностей.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260519133853.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260519125007.png",
-    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/media",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ",
-    "LalalaStorage/ML/Агенты/media",
-    "LalalaStorage/ML/Агенты",
-    "LalalaStorage/Дифференциальные уравнения/media",
-    "LalalaStorage/CUDA/media",
-    "LalalaStorage/CUDA",
-    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ",
-    "LalalaStorage/Calculus/Семинары",
-    "LalalaStorage/Расписание/Без названия.canvas",
-    "LalalaStorage/ML/Untitled.canvas"
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/18. Системы линейных ОДУ с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/17. Системы линейных ОДУ с постоянными коэффициентами..md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/11. Линейные однородные ОДУ n – го порядка с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/12. Линейные неоднородные ОДУ n – го порядка с постоянными коэффициентами..md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/10. Линейные однородные ОДУ n – го порядка с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/9. Линейные однородные ОДУ n – го порядка с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/8. Линейные неоднородные ОДУ n – го порядка с переменными коэффициентами. Метод вариации постоянных..md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/7. Линейные однородные ОДУ n – го порядка с переменными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/6. Линейные ОДУ n – го порядка с переменными коэффициентами. ТСЕ, определитель Вронского, теорема об определителе Вронского.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/5. Основные понятия, связанные с ОДУ n – го порядка.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 1. Основные понятия. ОДУ первого порядка/1. Основные понятия, связанные с ОДУ.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 1. Основные понятия. ОДУ первого порядка/2. Теорема существования и единственности для ОДУ первого порядка (формулировка и замечания)..md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 1. Основные понятия. ОДУ первого порядка/4. Особые решения ОДУ первого порядка. Уравнения Лагранжа и Клеро..md",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Особые решения ОДУ I порядка.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/19. Системы линейных ОДУ с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Построение ФСР системы (22).md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Системы линейных ОДУ с постоянными коэффициентами.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/16. Неоднородные системы линейных ОДУ. Метод вариации постоянных..md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Неоднородные системы линейных ОДУ.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/15. Однородные системы линейных ОДУ..md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Однородные системы линейных ОДУ.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши..md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/14. Основные понятия, связанные с системами ОДУ. ТСЕ для нормальной системы ОДУ, линейные системы ОДУ, ТСЕ для линейной нормальной системы ОДУ..md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/null.md",
+    "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/Основные понятия.md",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/Основные понятия.md",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/media/Pasted image 20260601200527.png",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/media/Pasted image 20260601184650.png",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка/media",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 2. ОДУ n – го порядка",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 1. Основные понятия. ОДУ первого порядка",
+    "LalalaStorage/Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260601183100.png",
+    "LalalaStorage/Дифференциальные уравнения/Вопросы"
   ]
 }

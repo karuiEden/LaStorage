@@ -231,13 +231,6 @@ $$
 
 
 
-```desmos-graph
-y=\frac{x^{2}}{4}-2x
-y=-4
-(4,-4)|red
-y=-2x
-(0,0)|red
-```
-
+![[Pasted image 20260601183100.png]]
 $x_{0}=4\to c=0\to y_{1}=-4$
 $x_{0}=0\to C=-2\to y_{1}=-2x$

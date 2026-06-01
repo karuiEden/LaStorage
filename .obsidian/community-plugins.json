@@ -13,5 +13,6 @@
   "obsidian-pandoc",
   "pseudocode-in-obs",
   "obsidian42-brat",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-tikzjax"
 ]

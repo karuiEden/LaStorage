@@ -6,7 +6,6 @@
       {
         "id": "a0cc268e85eb8cdd",
         "type": "tabs",
-        "dimension": 50.47095761381476,
         "children": [
           {
             "id": "88dcf3785efb3883",
@@ -221,39 +220,18 @@
             "id": "397a5b308d715a57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№14.md",
-                "mode": "source",
-                "source": false
+                "aFile": "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
+                "bFile": "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ДЗ№14"
+              "icon": "diff",
+              "title": "Diff: Интеграл Римана. Необходимое условие интегрирования на отрезке"
             }
           }
         ],
         "currentTab": 15
-      },
-      {
-        "id": "4012d2c991dfa739",
-        "type": "tabs",
-        "dimension": 49.529042386185246,
-        "children": [
-          {
-            "id": "1203d84d2aa18f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Интегральная теорема Муавра-Лапласа.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Интегральная теорема Муавра-Лапласа"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -461,40 +439,40 @@
   },
   "active": "397a5b308d715a57",
   "lastOpenFiles": [
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные события/Предельные теоремы в схеме Бернулли.md",
+    "Без названия 2.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№14.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№13.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№12.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№11.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№10.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№9.md",
+    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№8.md",
+    "LalalaStorage/Calculus/Интеграл Римана. Необходимое условие интегрирования на отрезке.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Интегральная теорема Муавра-Лапласа.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 14.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№14.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Нормальное распределение (N).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Распределение хи квадрат(Пирсона).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Показательное распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№13.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Равномерное распределение (U).md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520173805.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 11.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 13.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№12.md",
     "LalalaStorage/Дифференциальные уравнения/Cеминар 13.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Коэффициент корреляции двух случайных величин.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Непрерывные (абс. непрерывные) с.в. (н.с.в.) и их характеристики.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные непрерывные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520103922.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№11.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520092418.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Ковариация случайных величин.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520073747.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520073218.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные случайные величины.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Гамма-распределение.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Понятие случайной величины.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520064853.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260520063734.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Числовые характеристики непрерывных случайных величин.md",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/ДЗ№10.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260519224405.png",
-    "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Сходимости в теории вероятностей.md",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/media/Pasted image 20260519133853.png",
     "LalalaStorage/Statistics, Probability Theory and Сombinatorics/ДЗ/media/Pasted image 20260519125007.png",
     "LalalaStorage/Дифференциальные уравнения/Системы ОДУ/media",

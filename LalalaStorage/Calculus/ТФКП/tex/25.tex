@@ -1,0 +1,30 @@
+\section{Дифференцирование оригинала, дифференцирование изображения,
+изображение
+свёртки.}\label{ux434ux438ux444ux444ux435ux440ux435ux43dux446ux438ux440ux43eux432ux430ux43dux438ux435-ux43eux440ux438ux433ux438ux43dux430ux43bux430-ux434ux438ux444ux444ux435ux440ux435ux43dux446ux438ux440ux43eux432ux430ux43dux438ux435-ux438ux437ux43eux431ux440ux430ux436ux435ux43dux438ux44f-ux438ux437ux43eux431ux440ux430ux436ux435ux43dux438ux435-ux441ux432ux451ux440ux442ux43aux438.}
+
+\textbf{Дифференцирование оригинала:} Если
+\(f(t), f'(t),\dots,f^{(n)}(t)\) - оригиналы и
+\(f(t)\risingdotseq F(p)\), то \[
+f^{(n)}(t)\risingdotseq p^{n}F(p)-\sum_{k=0}^{n-1}p^{n-1-k}f^{(k)}(0),
+\] где
+\(f^{(k)}(0)=\lim\limits_{ t \to +0 }f^{(k)}(t), \ k=\overline{0,n-1}\).
+
+\textbf{Дифференцирование изображения:} Если \(F(p)\risingdotseq f(t)\),
+то \[
+F^{(n)}(p)\risingdotseq(-t)^{n}f(t).
+\] \textbf{Определение:} Если \(f(t)\) и \(g(t)\) - оригиналы, \(F(p)\)
+и \(G(p)\) - их изображения, то
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  функция \((f*g)(t)=\int_{0}^{t}f(\tau)g(t-\tau)\,d\tau\) называется
+  \emph{свёрткой} функции \(f(t)\) и \(g(t)\);
+\item
+  \((f*g)(t)\) является оригиналом;
+\item
+  \((f*g)(t)=(g*f)(t)\) - коммутативность свёртки;
+\item
+  \((f*g)(t)\risingdotseq F(p)\cdot G(p)\).
+\end{enumerate}

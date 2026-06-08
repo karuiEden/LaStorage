@@ -1,0 +1,72 @@
+\section{Классификация (определения) изолированных особых точек
+аналитических функций. Теорема о структуре главной и правильной частей
+ряда Лорана в кольце, центр которого совпадает с изолированной особой
+точкой
+функции.}\label{ux43aux43bux430ux441ux441ux438ux444ux438ux43aux430ux446ux438ux44f-ux43eux43fux440ux435ux434ux435ux43bux435ux43dux438ux44f-ux438ux437ux43eux43bux438ux440ux43eux432ux430ux43dux43dux44bux445-ux43eux441ux43eux431ux44bux445-ux442ux43eux447ux435ux43a-ux430ux43dux430ux43bux438ux442ux438ux447ux435ux441ux43aux438ux445-ux444ux443ux43dux43aux446ux438ux439.-ux442ux435ux43eux440ux435ux43cux430-ux43e-ux441ux442ux440ux443ux43aux442ux443ux440ux435-ux433ux43bux430ux432ux43dux43eux439-ux438-ux43fux440ux430ux432ux438ux43bux44cux43dux43eux439-ux447ux430ux441ux442ux435ux439-ux440ux44fux434ux430-ux43bux43eux440ux430ux43dux430-ux432-ux43aux43eux43bux44cux446ux435-ux446ux435ux43dux442ux440-ux43aux43eux442ux43eux440ux43eux433ux43e-ux441ux43eux432ux43fux430ux434ux430ux435ux442-ux441-ux438ux437ux43eux43bux438ux440ux43eux432ux430ux43dux43dux43eux439-ux43eux441ux43eux431ux43eux439-ux442ux43eux447ux43aux43eux439-ux444ux443ux43dux43aux446ux438ux438.}
+
+\textbf{Определение:} Точка \(z=a\in \overline{\mathbb{C}}\) называется
+\emph{изолированной} особой точкой, если
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  в \(z=a\) функция не является аналитической;
+\item
+  \(\exists K_{0,\rho}=\dot{U}_{\rho}(a)\), в котором \(f(z)\) -
+  аналитическая В частности, \(a=\infty\), то 2. аналитичность в
+  \(U_{\rho}(\infty)=\{ z\in \mathbb{C}: |z|>\rho \}\) (изолированная
+  точка \(a=\infty\)).
+\end{enumerate}
+
+\textbf{Определение:} Точка \(z=a\) - \emph{устранимая} особая точка
+функции \(f(z)\), если \(\exists \lim_{ z \to a }f(z)=A<\infty\) (в
+частности, \(a=\infty \ \exists \lim_{ z \to \infty }f(z)=A<\infty\))
+
+\textbf{Определение:} Точка \(z=a\) - \emph{полюс порядка \(m\)} функции
+\(f(z)\), если
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \(\exists \lim_{ z \to a }f(z)=\infty\)
+\item
+  \(\exists \lim_{ z \to a }(z-a)^{m}\cdot f(z)=B<\infty\) (в частности,
+  \(a=\infty\), то 1. \(\exists \lim_{ z \to \infty }f(z)=\infty,\) 2.
+  \(\exists \lim_{ z \to \infty } \dfrac{f(z)}{z^{m}}=B<\infty\))
+\end{enumerate}
+
+\textbf{Определение:} Точка \(z=a\) - \emph{существенная} особая точка
+функции \(f(z)\), если у нее не существует предела(ни конечного, ни
+бесконечного).
+
+\[
+a\neq \infty: f(z)=\underbrace{\sum_{n=-\infty}^{-1}c_{n}(z-a)^{n}}_{f_{1}(z) - \text{главная часть}}+\underbrace{\sum_{n=0}^{+\infty}c_{n}(z-a)^{n}}_{f_{2}(z) - \text{правильная часть}}\quad \begin{array}{l} 
+\lim_{ z \to a }f_{2}(z)=B<\infty \\
+\lim_{ z \to a }f_{1}(z)=\infty  \end{array}
+\] \[
+a=\infty: f(z)=\underbrace{\sum_{n=-\infty}^{-1}c_{n}\cdot z^{n}}_{f_{1}(z) - \text{правильная часть}}+\underbrace{\sum_{n=0}^{+\infty}c_{n}\cdot z^{n}}_{f_{2}(z) - \text{главная часть}}\quad \begin{array}{l}  \lim_{ z \to \infty }f_{2}(z)=\infty \\
+\lim_{ z \to \infty }f_{1}(z)=0  \end{array}
+\]
+
+\textbf{Теорема:} Пусть \(z=a\in \overline{\mathbb{C}}\) - изолированная
+особая точка функций \(f(z)\)
+
+\begin{itemize}
+\tightlist
+\item
+  Точка \(z=a\) - устранимая особая точка в том и только в том случае,
+  если у ряда Лорана функции \(f(z)\) отсутствует главная часть.
+\item
+  Точка \(z=a\) - полюс порядка \(m\) функции \(f(z)\) в том и только в
+  том случае, если главная часть ряда Лорана содержит конечное число
+  членов: \[
+  c_{-n}=0 \ \forall n>m\text{ и } c_{-m}\neq 0
+  \] (для \(a=\infty\) главная часть содержит конечное число членов:
+  \(c_{n}=0, \forall n>m, c_{m}\neq 0\))
+\item
+  Точка \(z=a\) - существенно особая точка функции \(f(z)\) в том и
+  только в том случае, если главная часть ряда Лорана содержит
+  \(\infty\) число членов.
+\end{itemize}

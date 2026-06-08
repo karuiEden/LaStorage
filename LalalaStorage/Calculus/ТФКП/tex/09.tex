@@ -1,0 +1,33 @@
+\section{Понятие производной функции комплексного переменного в точке и
+её дифференцируемости. Необходимые и достаточные условия
+дифференцируемости.}\label{ux43fux43eux43dux44fux442ux438ux435-ux43fux440ux43eux438ux437ux432ux43eux434ux43dux43eux439-ux444ux443ux43dux43aux446ux438ux438-ux43aux43eux43cux43fux43bux435ux43aux441ux43dux43eux433ux43e-ux43fux435ux440ux435ux43cux435ux43dux43dux43eux433ux43e-ux432-ux442ux43eux447ux43aux435-ux438-ux435ux451-ux434ux438ux444ux444ux435ux440ux435ux43dux446ux438ux440ux443ux435ux43cux43eux441ux442ux438.-ux43dux435ux43eux431ux445ux43eux434ux438ux43cux44bux435-ux438-ux434ux43eux441ux442ux430ux442ux43eux447ux43dux44bux435-ux443ux441ux43bux43eux432ux438ux44f-ux434ux438ux444ux444ux435ux440ux435ux43dux446ux438ux440ux443ux435ux43cux43eux441ux442ux438.}
+
+\textbf{Определение:} \[
+\lim_{ \Delta z \to 0 } \frac{\Delta f}{\Delta z}=\lim_{ z \to z_{0} }  \frac{f(z)-f(z_{0})}{z-z_{0}}=\lim_{ \Delta z \to 0} \frac{f(z_{0}+\Delta z)-f(z_{0})}{\Delta z}=f'(z_{0}),
+\] \(f(z)=u(x,y)+i\cdot v(x,y), \ z=x+iy, \ z_{0}=x_{0}+iy_{0}\)
+
+\textbf{Определение:} \(f(z)\) дифференцируема в точке \(z=z_{0}\), если
+её приращение можно представить в виде: \[
+\Delta f=A\cdot\Delta z+o(\Delta z)=\underbrace{A\cdot\Delta z}_{df}+ \underbrace{\alpha_{1}(\Delta z)+i\alpha_{2}(\Delta z)}_{\alpha(\Delta z)}
+\]
+
+\textbf{Утверждение:} Если \(f(z)\) - дифференцируема в точке
+\(z=z_{0}\), то \(A=f'(z_{0})\)
+
+\textbf{Утверждение:} Если \(\exists f'(z_{0})\), то \(f(z)\)
+дифференцируемая.
+
+\textbf{Теорема:} (Необходимые и достаточные условия дифференцируемости)
+Функция \(f(z)\) дифференцируема в точке \(z=z_{0}\) в том и только в
+том случае, если:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \(u(x,y)=\mathrm{Re} f(z)\) и \(v(x,y)=\mathrm{Im}f(z)\) -
+  дифференцируемы в точке \((x_{0},y_{0})\)
+\item
+  \(\begin{cases} \dfrac{\partial u}{\partial x}(x_{0},y_{0})= \dfrac{\partial v}{\partial y}(x_{0},y_{0})  \\ \dfrac{\partial u}{\partial y}(x_{0},y_{0})=-\dfrac{\partial v}{\partial x}(x_{0},y_{0})\end{cases}\)
+  - условия Коши-Римана
+\end{enumerate}

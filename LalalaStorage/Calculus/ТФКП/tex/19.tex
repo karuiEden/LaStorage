@@ -20,8 +20,9 @@
 \end{enumerate}
 
 \textbf{Определение:} Точка \(z=a\) - \emph{устранимая} особая точка
-функции \(f(z)\), если \(\exists \lim_{ z \to a }f(z)=A<\infty\) (в
-частности, \(a=\infty \ \exists \lim_{ z \to \infty }f(z)=A<\infty\))
+функции \(f(z)\), если \(\exists \lim_{ z \to a }f(z)=A\in \mathbb{C}\)
+(в частности,
+\(a=\infty \ \exists \lim_{ z \to \infty }f(z)=A\in \mathbb{C}\))
 
 \textbf{Определение:} Точка \(z=a\) - \emph{полюс порядка \(m\)} функции
 \(f(z)\), если
@@ -32,9 +33,10 @@
 \item
   \(\exists \lim_{ z \to a }f(z)=\infty\)
 \item
-  \(\exists \lim_{ z \to a }(z-a)^{m}\cdot f(z)=B<\infty\) (в частности,
-  \(a=\infty\), то 1. \(\exists \lim_{ z \to \infty }f(z)=\infty,\) 2.
-  \(\exists \lim_{ z \to \infty } \dfrac{f(z)}{z^{m}}=B<\infty\))
+  \(\exists \lim_{ z \to a }(z-a)^{m}\cdot f(z)=B\in \mathbb{C}\) (в
+  частности, \(a=\infty\), то 1.
+  \(\exists \lim_{ z \to \infty }f(z)=\infty,\) 2.
+  \(\exists \lim_{ z \to \infty } \dfrac{f(z)}{z^{m}}=B\in \mathbb{C}\))
 \end{enumerate}
 
 \textbf{Определение:} Точка \(z=a\) - \emph{существенная} особая точка
@@ -43,7 +45,7 @@
 
 \[
 a\neq \infty: f(z)=\underbrace{\sum_{n=-\infty}^{-1}c_{n}(z-a)^{n}}_{f_{1}(z) - \text{главная часть}}+\underbrace{\sum_{n=0}^{+\infty}c_{n}(z-a)^{n}}_{f_{2}(z) - \text{правильная часть}}\quad \begin{array}{l} 
-\lim_{ z \to a }f_{2}(z)=B<\infty \\
+\lim_{ z \to a }f_{2}(z)=B\in \mathbb{C} \\
 \lim_{ z \to a }f_{1}(z)=\infty  \end{array}
 \] \[
 a=\infty: f(z)=\underbrace{\sum_{n=-\infty}^{-1}c_{n}\cdot z^{n}}_{f_{1}(z) - \text{правильная часть}}+\underbrace{\sum_{n=0}^{+\infty}c_{n}\cdot z^{n}}_{f_{2}(z) - \text{главная часть}}\quad \begin{array}{l}  \lim_{ z \to \infty }f_{2}(z)=\infty \\

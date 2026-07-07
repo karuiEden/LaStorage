@@ -11,7 +11,7 @@ links:
 
 **Замечание:** Если $\xi\thicksim\mathrm{GBin}(n,p_{1},\dots,p_{n})$, то $\xi$ - число "успехов" в независимых опытах и вероятностью "успеха" в $i$-ом опыте ($i=\overline{1,n}$) (Обобщенная схема Бернулли)
 
-**Следствие:** $M\xi=M\left( \sum_{i=1}^{n}\xi_{i} \right)=\sum_{i=1}^{n}M\xi_{i}=\sum_{i=1}^{n}p_{i}$, $\mathcal{D}\xi=\mathcal{D}\left( \sum_{i=1}^{n} \right)=\sum_{i=1}^{n}\mathcal{D}\xi_{i}=\sum_{i=1}^{n}p_{i}q_{i}$
+**Следствие:** $M\xi=M\left( \sum_{i=1}^{n}\xi_{i} \right)=\sum_{i=1}^{n}M\xi_{i}=\sum_{i=1}^{n}p_{i}$, $\mathcal{D}\xi=\mathcal{D}\left( \sum_{i=1}^{n} \xi_{i}\right)=\sum_{i=1}^{n}\mathcal{D}\xi_{i}=\sum_{i=1}^{n}p_{i}q_{i}$
 
 **Утверждение:** Пусть $\mathcal{X}_{\xi_{i}}\subset \mathbb{N}\cup \{ 0 \}, \ i=\overline{1,n}$, д.с.в., $\xi_{1},\dots,\xi_{n}$, независимы в совокупности, $\xi=\sum_{i=1}^{n}\xi_{i}$. Тогда
 $$

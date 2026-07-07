@@ -12,7 +12,7 @@ links:
 
 **Контроль:**
 $$
-\int_{-\infty}^{+\infty}f(x)\,dx=\int_{a}^{a}f(x)\,dx= \frac{1}{b-a}\int_{a}^{b}dx= \frac{b-a}{b-a}=1
+\int_{-\infty}^{+\infty}f(x)\,dx=\int_{a}^{b}f(x)\,dx= \frac{1}{b-a}\int_{a}^{b}dx= \frac{b-a}{b-a}=1
 $$
 
 

@@ -5,7 +5,7 @@ tags:
   - probability
 links:
   - "[[Понятие случайной величины]]"
-  - "[[Геометрическая вероятность]]"
+  - "[[Различные определения вероятности]]"
 ---
 **Определение:** $\xi\thicksim \mathrm{U}[a,b], \ a,b\in \mathbb{R}$, если $\mathcal{X}_{\xi}=[a,b]$ и $f_{\xi}(x)\equiv f(x)=\begin{cases} \frac{1}{b-a},&x \in[a,b] \\ 0,&x\not\in[a,b] \end{cases}$
 ![[Pasted image 20260506124638.png]]

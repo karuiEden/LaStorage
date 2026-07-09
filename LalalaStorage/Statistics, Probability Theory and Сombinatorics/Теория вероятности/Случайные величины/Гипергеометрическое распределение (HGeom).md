@@ -5,6 +5,8 @@ tags:
   - probability
 links:
   - "[[Геометрическое распределение (Geom)]]"
+  - "[[Комбинаторика]]"
+  - "[[Дискретные случайные величины]]"
 ---
 **Определение:** $\xi\thicksim\mathrm{HGeom}(N,M,n)$, где $N,M\in \mathbb{N}:$ $M\leq N,n\leq N,$ если $\mathcal{X}_{\xi}=\{ 0;1;2;\dots;k;\dots;\min(n,M) \},$ $p_{k}=P(\xi=k)= \frac{C_{M}^{k}\cdot C_{N-M}^{n-k}}{C_{N}^{n}}, \ k=\overline{0,\min(n,M)}$ .
 

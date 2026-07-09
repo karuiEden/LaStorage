@@ -5,6 +5,7 @@ tags:
   - probability
 links:
   - "[[Понятие случайной величины]]"
+  - "[[Непрерывные (абс. непрерывные) с.в. (н.с.в.) и их характеристики]]"
 ---
 **Определение:** $\xi\thicksim\mathrm{N}(\mu,\sigma^{2}), \ \mu \in \mathbb{R}, \sigma>0$, если $\mathcal{X}_{\xi}=\mathbb{R}$ и 
 $$

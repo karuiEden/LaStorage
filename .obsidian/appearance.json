@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Minimal",
   "accentColor": "",
   "enabledCssSnippets": [
     "math-blocks"
-  ]
+  ],
+  "theme": "obsidian"
 }

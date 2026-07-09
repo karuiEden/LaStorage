@@ -20,7 +20,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Templates/Test.md"
+      "template": "Templates/main.md"
     },
     {
       "folder": "",

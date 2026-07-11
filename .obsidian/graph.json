@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -68,6 +68,13 @@
       "color": {
         "a": 1,
         "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#information  ",
+      "color": {
+        "a": 1,
+        "rgb": 7667712
       }
     }
   ],

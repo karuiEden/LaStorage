@@ -11,10 +11,14 @@
             "id": "0f8df386052e108c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CNN"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "почти наверное",
+                "query": "риск",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,6 +229,8 @@
   },
   "active": "0f8df386052e108c",
   "lastOpenFiles": [
+    "ML/DL/Feedforward Neural Network.md",
+    "ML/Классическое обучение с учителем/Bias-Variance decomposition.md",
     "ML/Классическое обучение с учителем/Логистическая регрессия.md",
     "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Математическое ожидание (м.о) д.с.в..md",
     "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Закон больших чисел (ЗБЧ).md",
@@ -253,8 +259,6 @@
     "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Понятие случайной величины.md",
     "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
     "README.md",
-    "ML/Классическое обучение с учителем/Метод опорных векторов.md",
-    "ML/Классическое обучение с учителем/Методы стрижки дерева.md",
     "LalalaStorage/14.png",
     "LalalaStorage/13.png",
     "LalalaStorage/12.png",

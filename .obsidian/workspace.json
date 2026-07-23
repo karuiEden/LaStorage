@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "51b3a47ae5e915df",
+    "id": "9f7bc488b6324780",
     "type": "split",
     "children": [
       {
-        "id": "fd81873a042c4219",
+        "id": "3e0f3f06cd5186bd",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8df386052e108c",
+            "id": "9d5a5f92783efe6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши."
+            }
+          },
+          {
+            "id": "3d70b7b83c69d8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/Функции активации/Rectified linear unit (ReLU).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rectified linear unit (ReLU)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "31de0ecf3cfcd667",
+    "id": "113084e2f5077486",
     "type": "split",
     "children": [
       {
-        "id": "660ec04259923d8f",
+        "id": "7948a1d13ed7a558",
         "type": "tabs",
         "children": [
           {
-            "id": "a81fe32355d51ca8",
+            "id": "5be07eff4189b8b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,13 +63,13 @@
             }
           },
           {
-            "id": "3627e62b684d1e83",
+            "id": "9fd31a51b53e6ed1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "почти наверное",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +80,7 @@
             }
           },
           {
-            "id": "3bf8b8c886a1113b",
+            "id": "e7d6f556edf6ba95",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,42 +88,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "24988a44f8cb789e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LalalaStorage/Расписание/2024-11-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-14"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 300
   },
   "right": {
-    "id": "216fbc1da5ca19f9",
+    "id": "21b0b67192177d69",
     "type": "split",
     "children": [
       {
-        "id": "3063c8e0b81a7bd8",
+        "id": "1ffe07ea89812ada",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4581b83f012d77",
+            "id": "8ef12b5417c3bd84",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейные модели.md",
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Линейные модели"
+              "title": "Backlinks for 13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши."
             }
           },
           {
-            "id": "6130f6a0f80e33cb",
+            "id": "a62de48e0d59cb36",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LalalaStorage/ML/Классическое обучение с учителем/Линейные модели.md",
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Линейные модели"
+              "title": "Outgoing links from 13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши."
             }
           },
           {
-            "id": "95c9b95116dfafd1",
+            "id": "cf4f80c2e75d5db3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,21 +152,32 @@
             }
           },
           {
-            "id": "d4b1ae6a852a8a46",
+            "id": "94642a640db101f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "LalalaStorage/Дифференциальные уравнения/Вопросы/Глава 3. Системы ОДУ/13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 13. Основные понятия, связанные с системами ОДУ. нормальные системы, частное и общее решения, интегральная кривая, постановка задачи Коши."
             }
           },
           {
-            "id": "e47ae7f4ad659738",
+            "id": "c28156679c75bfc3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "16d29687571adc88",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -169,39 +185,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "876dfe17f49cd020",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "acd7f10f7c009d5b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "66680c4371e33dc1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -223,55 +209,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0f8df386052e108c",
+  "active": "3d70b7b83c69d8f6",
   "lastOpenFiles": [
-    "ML/Классическое обучение с учителем/Логистическая регрессия.md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Математическое ожидание (м.о) д.с.в..md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Закон больших чисел (ЗБЧ).md",
-    "ML/Классическое обучение с учителем/Бутстрап.md",
-    "ML/Классическое обучение с учителем/null.md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Основы математической статистики/Метод максимального правдоподобия (ММП).md",
-    "Теория информации/Энтропия/Энтропия.md",
+    "ML/DL/Искусственные нейронные сети/Полностью связная прямая нейронная сеть.md",
+    "ML/DL/Функции активации/Rectified linear unit (ReLU).md",
+    "ML/DL/Искусственные нейронные сети/media/Pasted image 20260718181157.png",
+    "ML/DL/Искусственные нейронные сети/media/Pasted image 20260718181103.png",
+    "ML/DL/Искусственные нейронные сети/media",
+    "ML/DL/Функции активации/Функция активации.md",
+    "ML/DL/Activation functions.md",
+    "Calculus/Глава 6. Анализ функций нескольких переменных/Покоординатное продолжение функции.md",
+    "Calculus/Глава 6. Анализ функций нескольких переменных/Функции нескольких переменных и их пределы в точке. Критерий Коши существования предела функции в точке..md",
+    "ML/DL/Функции активации",
+    "Linear Algebra/Линейное пространство/Аффинные преобразования.md",
+    "ML/DL/Feedforward Neural Network.md",
+    "ML/DL/Нейронные сети.md",
+    "ML/DL/Трансформеры.md",
+    "ML/DL/Тестовые вычисления.md",
+    "ML/DL/Искусственные нейронные сети",
     "roadmap.md",
-    "Теория информации/Энтропия/Неравенство Йенсена и его следствия.md",
-    "Теория информации/Энтропия/Цепные правила для энтропии, относительной энтропии и взаимной информации.md",
-    "Теория информации/Энтропия/Относительная энтропия и взаимная информация.md",
-    "Теория информации/Энтропия/Связь между энтропией и взаимной информацией.md",
-    "Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/Выпуклые функции.md",
-    "Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/Правило Лопиталя.md",
-    "Calculus/Глава 4. Дифференцальное исчисление функций одной переменной/media/Pasted image 20260710124048.png",
-    "Теория информации/Энтропия/Совместная энтропия и условная энтропия.md",
+    "Linear Algebra/Линейные формы/Матрица билинейной формы.md",
+    "Linear Algebra/Линейные формы/Метод Якоби.md",
+    "ML/DL/Основы глубокого обучения.md",
+    "ML/DL/Механизм внимания в RNN Encoder-Decoder.md",
+    "ML/DL/Обучение на основе предпочтений.md",
+    "LalalaStorage/Calculus/Криволинейные и поверхностные интегралы/Формула Грина.md",
     "Теория информации/Энтропия/media/Pasted image 20260710115226.png",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Двумерные дискретные случайные величины.md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Условные двумерные случайные величины.md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 11.md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Семинары/Семинар 10.md",
     "Теория информации/Энтропия/media/Pasted image 20260710095940.png",
+    "Теория информации/Энтропия/Цепные правила для энтропии, относительной энтропии и взаимной информации.md",
+    "Теория информации/Энтропия/Энтропия.md",
+    "Теория информации/Энтропия/Совместная энтропия и условная энтропия.md",
+    "Теория информации/Энтропия/Связь между энтропией и взаимной информацией.md",
+    "Теория информации/Энтропия/Относительная энтропия и взаимная информация.md",
+    "Теория информации/Энтропия/Неравенство Йенсена и его следствия.md",
     "Теория информации/Энтропия/media",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Функция распределения с.в..md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Плотность вероятности д.с.в..md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Понятие случайной величины.md",
-    "Statistics, Probability Theory and Сombinatorics/Теория вероятности/Случайные величины/Дискретные случайные величины.md",
-    "README.md",
-    "ML/Классическое обучение с учителем/Метод опорных векторов.md",
-    "ML/Классическое обучение с учителем/Методы стрижки дерева.md",
-    "LalalaStorage/14.png",
-    "LalalaStorage/13.png",
-    "LalalaStorage/12.png",
-    "LalalaStorage/11.png",
-    "LalalaStorage/9.png",
-    "LalalaStorage/8.png",
-    "LalalaStorage/7.png",
+    "Теория информации/Энтропия",
+    "Теория информации",
+    "Теория игр/media/Pasted image 20250703133317.png",
+    "Теория игр/Процедура последовательных улучшений.md",
+    "Теория игр/Основные понятия.md",
     "Теория игр/media",
-    "ML/Автономный транспорт и RL/media",
-    "ML/Временные ряды/media",
-    "ML/Классическое обучение с учителем/media",
-    "Python/media",
-    "Statistics, Probability Theory and Сombinatorics/ОКЧП/media",
-    "Linear Algebra/Ортогональные преобразования/media",
-    "Linear Algebra/Линейный оператор/media",
-    "Linear Algebra/Евклидово пространство",
-    "LalalaStorage/Расписание/Без названия.canvas",
-    "LalalaStorage/ML/Untitled.canvas"
+    "Теория игр",
+    "Методы оптимизации",
+    "Дифференциальные уравнения/Системы ОДУ/media/Pasted image 20260518110422.png",
+    "Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260601183100.png",
+    "Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260302111747.png",
+    "Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260302111047.png",
+    "Дифференциальные уравнения/Основные понятия ОДУ 1-ого порядка/media/Pasted image 20260302111039.png",
+    "Дифференциальные уравнения/Системы ОДУ/media"
   ]
 }

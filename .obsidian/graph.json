@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "tag:#topology  ",
+      "color": {
+        "a": 1,
+        "rgb": 4532826
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1749071591694953,
+  "scale": 0.13575334800761574,
   "close": false
 }

@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 4532826
       }
+    },
+    {
+      "query": "tag:#algebra  ",
+      "color": {
+        "a": 1,
+        "rgb": 7823671
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13575334800761574,
+  "scale": 0.1903238722225247,
   "close": false
 }

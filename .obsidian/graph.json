@@ -60,7 +60,7 @@
       "query": "tag:#statistics  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 10959838
       }
     },
     {
@@ -74,7 +74,7 @@
       "query": "tag:#topology  ",
       "color": {
         "a": 1,
-        "rgb": 4532826
+        "rgb": 13405182
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1903238722225247,
+  "scale": 0.13575334800761743,
   "close": false
 }

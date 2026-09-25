@@ -81,14 +81,14 @@
             "id": "562c0ce621933ee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -267,7 +267,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "562c0ce621933ee7",
+  "active": "16d29687571adc88",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Топология/Фактор топология.md",

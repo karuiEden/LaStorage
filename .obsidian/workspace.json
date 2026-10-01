@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "ReAct"
             }
+          },
+          {
+            "id": "194d4f289631e02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,11 +253,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f65f38339fb82548",
+  "active": "194d4f289631e02d",
   "lastOpenFiles": [
-    "Топология/Компакты.md",
     "ML/Агенты/ReAct.md",
     "conflict-files-obsidian-git.md",
+    "ML/Структурный вывод.md",
+    "ML/Агенты/Структура агента.md",
+    "ML/Агенты/Использование инструментов.md",
+    "ML/Агенты/media/Pasted image 20261001160909.png",
+    "ML/Агенты/Self-Refine.md",
+    "ML/NLP/TF-IDF.md",
+    "Топология/Компакты.md",
     "Топология/Фактор топология.md",
     "Топология/Вторые счетные и сепарабельные пространства.md",
     "Схемотехника/Основные понятия.md",
@@ -273,18 +293,12 @@
     "Дифференциальная геометрия/media/Pasted image 20260908155142.png",
     "Дифференциальная геометрия/Многообразия.md",
     "Дифференциальная геометрия/Линейные группы Ли.md",
-    "Дифференциальная геометрия/Гомоморфизмы линейных групп Ли и алгебр Ли.md",
     "Дифференциальная геометрия/media",
     "Дифференциальная геометрия",
-    "ML/Агенты/Агент.md",
     "ML/Агенты/media/Pasted image 20260925174433.png",
     "ML/Агенты/media/Pasted image 20260925173835.png",
     "ML/Агенты/media/Pasted image 20260925171121.png",
     "ML/Агенты/media/Pasted image 20260925170428.png",
-    "ML/Агенты/media/Pasted image 20260925164914.png",
-    "ML/DL/Функции активации/Softsign активация.md",
-    "ML/DL/Функции активации/Softplus activation.md",
-    "ML/DL/Функции активации/Softmax.md",
     "Untitled",
     "Абстрактная алгебра"
   ]

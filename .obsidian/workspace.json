@@ -55,44 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Топология/Компакты.md",
+                "file": "ML/Агенты/ReAct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Компакты"
-            }
-          },
-          {
-            "id": "d4637993798120a6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
-                "bFile": "Теория вероятности/Случайные величины/Дисперсия дискретной случайной величины xi.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Дисперсия дискретной случайной величины xi  (Working Tree)"
-            }
-          },
-          {
-            "id": "562c0ce621933ee7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "ReAct"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,8 +239,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "16d29687571adc88",
+  "active": "f65f38339fb82548",
   "lastOpenFiles": [
+    "Топология/Компакты.md",
+    "ML/Агенты/ReAct.md",
     "conflict-files-obsidian-git.md",
     "Топология/Фактор топология.md",
     "Топология/Вторые счетные и сепарабельные пространства.md",
@@ -311,8 +285,6 @@
     "ML/DL/Функции активации/Softsign активация.md",
     "ML/DL/Функции активации/Softplus activation.md",
     "ML/DL/Функции активации/Softmax.md",
-    "ML/DL/Функции активации/Sine activation.md",
-    "ML/DL/Функции активации/Rectified power unit (RePU) activation.md",
     "Untitled",
     "Абстрактная алгебра"
   ]

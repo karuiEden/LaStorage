@@ -44,7 +44,7 @@ $$
 =\begin{vmatrix}
 t=  \frac{x-\mu}{\sigma}, \ x-\mu=\sigma t \\
 dx=\sigma\,dt
-\end{vmatrix}= \frac{1}{\sigma \sqrt{ 2\pi }}\sigma \int_{-\infty}^{+\infty}\sigma^{2}t^{2}e^{  -\frac{t^{2}}{2} }\,dt= \frac{\sigma^{2}}{\sqrt{ 2\pi }}\underbrace{\int_{-\infty}^{+\infty}t^{2} e^{ - \frac{t^{2}}{2} }\,dt}_{\begin{array}
+\end{vmatrix}= \frac{1}{\sigma \sqrt{ 2\pi }}\sigma \int_{-\infty}^{+\infty}\sigma^{2}t^{2}e^{  -\frac{t^{2}}{2} }\,dt= \frac{\sigma^{2}}{\sqrt{ 2\pi }}\underbrace{\int_{-\infty}^{+\infty}t^{2} e^{ - \frac{t^{2}}{2} }\,dt}_{\begin{array}{l}
  \\
 \text{четная функция} \\
 \text{в симметричных пределах}

@@ -32,7 +32,7 @@ x^{n}=\varphi^{n}(t^{1},\dots,t^{k})
 $$
 около точки $(t_{0},x_{0})=(0,\varphi(0))$ эквивалентны соотношениям
 $$
-\begin{array} \\
+\begin{array}{l} \\
 t^{1}=f^{1}(x^{1},\dots,x^{k}), \\
 \dots\dots\dots\dots\dots\dots \\
 t^{k}=f^{k}(x^{1},\dots,x^{k}), \\
@@ -43,7 +43,7 @@ x^{n}=f^{n}(x^{1},\dots,x^{k}).
 $$
 В таком случае отображение
 $$
-\begin{array} \\
+\begin{array}{l} \\
 t^{1}=f^{1}(x^{1},\dots,x^{k}), \\
 \dots\dots\dots\dots\dots\dots \\
 t^{k}=f^{k}(x^{1},\dots,x^{k}), \\

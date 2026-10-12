@@ -20,7 +20,7 @@ $$\frac{Ax+B}{(x^{2}+px+q)^{r}}=\frac{ \frac{A}{2}(2x+p)+B-\frac{Ap}{2} }{(x^{2}
 1) Степенной интеграл
 2) $J_{n}=\int \frac{dx}{(x^{2}+a^{2})^{n}}$
 ### Доказательство реккурентной формулы для $J_{n}$
-$$J_{n-1}=\int \frac{dx}{(x^{2}+a^{2})_{n-1}}=\bigg|\begin{array} \\
+$$J_{n-1}=\int \frac{dx}{(x^{2}+a^{2})_{n-1}}=\bigg|\begin{array}{l} \\
 u= \frac{1}{(x^{2}+a^{2})^{n-1}} \ \ \ du=-(n-1) \frac{2x}{(x^{2}+a^{2})^{n}}dx \\
 dv=dx \ \ \ v=x
 \end{array}\bigg|= \frac{x}{(x^{2}+a^{2})^{n-1}}+$$

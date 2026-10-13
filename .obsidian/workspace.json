@@ -246,9 +246,9 @@
   },
   "active": "b11fa473b30235c0",
   "lastOpenFiles": [
-    "ML/DL/Attention/Multi-Query Attention.md",
-    "ML/DL/Attention/Group Query Attention.md",
     "ML/DL/Attention/Multi-head Attention.md",
+    "ML/DL/Attention/Group Query Attention.md",
+    "ML/DL/Attention/Multi-Query Attention.md",
     "ML/DL/Attention/media/ModalNet-20.png",
     "ML/DL/Attention/Масштабированный attention через скалярное произведение.md",
     "ML/DL/Attention/media/ModalNet-19.png",

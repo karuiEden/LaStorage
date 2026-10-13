@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дифференциальные уравнения/Семинар 9.md",
+                "file": "ML/DL/Attention/Group Query Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Семинар 9"
+              "title": "Group Query Attention"
             }
           }
         ],
@@ -244,11 +244,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e47ae7f4ad659738",
+  "active": "b11fa473b30235c0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Дифференциальные уравнения/Семинар 9.md",
+    "ML/DL/Attention/Multi-Query Attention.md",
+    "ML/DL/Attention/Group Query Attention.md",
+    "ML/DL/Attention/Multi-head Attention.md",
+    "ML/DL/Attention/media/ModalNet-20.png",
+    "ML/DL/Attention/Масштабированный attention через скалярное произведение.md",
+    "ML/DL/Attention/media/ModalNet-19.png",
+    "ML/DL/Attention/media",
+    "ML/DL/Вычислительные графы.md",
+    "ML/DL/Функции активации/Softmax.md",
+    "ML/DL/Attention/Attention.md",
+    "ML/DL/Transformer.md",
+    "ML/DL/Attention",
+    "ML/DL/media/ModalNet-21.png",
+    "Математический анализ/Глава 2. Пределы/Абсолютно сходящиеся ряды.md",
+    "Математический анализ/Глава 2. Пределы/Бесконечно большие и бесконечно малые функции.md",
+    "Математический анализ/Глава 2. Пределы/Второй замечательный предел.md",
+    "Математический анализ/Глава 1. Действительные числа. Числовые последовательности/Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду.md",
+    "Математический анализ/Глава 1. Действительные числа. Числовые последовательности/Обоснования.md",
     "ML/DL/Трансформеры.md",
+    "Дифференциальные уравнения/Семинар 9.md",
+    "conflict-files-obsidian-git.md",
     "ML/NLP/LLM.md",
     "ТЗ.md",
     "Теория вероятности/Случайные величины/Показательное распределение.md",
@@ -263,25 +281,9 @@
     "Топология/Компакты.md",
     "ML/Агенты/media/Pasted image 20261001160909.png",
     "ML/Агенты/media/Pasted image 20260925151936.png",
-    "ML/NLP/Byte-pair encoding.md",
-    "ML/NLP/Жадный декодинг.md",
-    "ML/Агенты/Использование инструментов.md",
-    "ML/Структурный вывод.md",
-    "ML/Агенты/Агент.md",
-    "ML/NLP/word2vec.md",
-    "ML/NLP/Эмбеддинги.md",
-    "ML/NLP/Языки.md",
-    "ML/NLP/Основы.md",
-    "ML/NLP/Сегментация текста.md",
-    "ML/NLP/Слова.md",
-    "ML/NLP/Сэмплирование.md",
-    "ML/NLP/Токенизация.md",
     "ML/Агенты/media/Pasted image 20260925174433.png",
     "ML/Агенты/media/Pasted image 20260925173835.png",
     "ML/Агенты/media/Pasted image 20260925171121.png",
-    "ML/Агенты/media/Pasted image 20260925170428.png",
-    "ML/Агенты/media/Pasted image 20260925164914.png",
-    "ML/Агенты/media/Pasted image 20260925164838.png",
     "Моделирование систем/media",
     "Дифференциальная геометрия/media",
     "Моделирование систем",
@@ -290,8 +292,6 @@
     "ОТИиК/Кодирование",
     "Дифференциальная геометрия",
     "Топология",
-    "Теория вероятности/Случайные величины/media",
-    "Теория вероятности/Случайные события/media",
     "LalalaStorage/Расписание/Без названия.canvas",
     "LalalaStorage/ML/Untitled.canvas"
   ]

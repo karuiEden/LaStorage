@@ -41,7 +41,7 @@ L(y)\equiv y^{(n)}+p_{1}(x)y^{(n-1)}+\dots+p_{n}(x)y\quad(6)
 $$
 Очевидно, что оператор $L$ линейный: 
 $$
-\begin{array} \\
+\begin{array}{l} \\
 L(Cy)=C\cdot L(y) \\
 L(y_{1}+y_{2})=L(y_{1})+L(y_{2}),
 \end{array}

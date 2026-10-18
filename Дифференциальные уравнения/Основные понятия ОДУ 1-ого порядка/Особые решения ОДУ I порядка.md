@@ -208,7 +208,7 @@ y=xp-(2+p)^{2}=x\left(  \frac{x}{2}-2  \right)-\left( \frac{x}{2} \right)^{2}= \
 \end{cases}
 $$
 $$
-\begin{array} \\
+\begin{array}{l} \\
 y_{1}=Cx-(2+C)^{2} \\
 y_{2}= \frac{x^{2}}{4}-2x
 \end{array}

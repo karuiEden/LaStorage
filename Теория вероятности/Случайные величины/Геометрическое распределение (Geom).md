@@ -22,7 +22,7 @@ $$
 \varphi_{\xi}(z)\equiv\varphi(z)=\sum_{k=0}^{\infty}p_{k}z^{k}=\sum_{k=1}^{\infty}pq^{k-1}z^{k}=pz\sum_{k=1}^{\infty}(qz)^{k-1}=pz\sum_{k=0}^{\infty}(qz)^{k}=
 $$
 $$
-\underset{\left(\begin{array} \\ |z|\leq 1\text{ и }q\in(0;1)\implies \\
+\underset{\left(\begin{array}{l} \\ |z|\leq 1\text{ и }q\in(0;1)\implies \\
 |qz|<1\implies \\
 \text{ряд сходится}\end{array}\right)}{=}  pz\cdot \frac{1}{1-qz}= \frac{pz}{1-qz},
 $$

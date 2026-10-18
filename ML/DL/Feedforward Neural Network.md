@@ -25,7 +25,7 @@ $$
 $$
 Слои нейронной сети на рисунке выше:
 $$
-\begin{array} \\
+\begin{array}{l} \\
 h&=&\sigma(Wx+b) \\
 z & = & Uh \\
 y &=&\text{softmax}(z)

@@ -157,7 +157,7 @@ $$
 
 Пусть $k_{1},\dots,k_{p}\in \mathbb{R}$ - корни характеристического многочлена $\ell(k)$, $m_{1},\dots,m_{p}$ кратности, $m_{1}+\dots+m_{p}=n$. Тогда имеем систему $n$ частных решений уравнения (21):
 $$
-\begin{array} \\
+\begin{array}{l} \\
 e^{ k_{1}x },xe^{ k_{1}x },\dots,x^{m_{1}-1}e^{ k_{1}x }, \\
 \dots\dots\dots\dots\dots\dots\dots\dots, \\
 e^{ k_{p}x },\ xe^{ k_{p}x },\dots,x^{m_{p}-1}e^{ k_{p}x }
@@ -175,14 +175,14 @@ $$
 	Кратность $\ell$ корня $\alpha+i\beta$ совпадает с кратностью корня $\alpha-i\beta$ в силу вещественности коэффициентов уравнения. 
 Поэтому такой паре $\alpha\pm i\beta$ соответствуют комплексные решения 
 $$
-\begin{array} \\
+\begin{array}{l} \\
 e^{ (\alpha+i\beta)x }, xe^{ (\alpha+i\beta)x },\dots,x^{\ell-1}e^{ (\alpha+i\beta)x } \\
 e^{ (\alpha-i\beta) }, xe^{ (\alpha-i\beta)x },\dots,x^{\ell-1}e^{ (\alpha-i\beta)x }
 \end{array}
 $$
 Вместо них рассматривают вещественные решения, представляющие собой действительную и мнимую части комплексных решений:
 $$
-\begin{array} \\
+\begin{array}{l} \\
 e^{ \alpha x }\cos\beta x, xe^{ \alpha x }\cos\beta \mathbf{x}\dots,x^{\ell-1}e^{ \alpha x }\cos\beta x \\
 e^{ \alpha x }\sin\beta x,xe^{ \alpha x }\sin\beta x, \dots,x^{\ell-1}e^{ \alpha x }\sin\beta x
 \end{array}
@@ -197,7 +197,7 @@ $$
 m_{1}+\dots+m_{p}+2\ell_{1}+\dots+2\ell_{g}=n.
 $$
 $$
-\begin{array} \\
+\begin{array}{l} \\
 e^{ k_{1}x }, \ xe^{ k_{1}x },\dots, x^{m_{1}-1}e^{ k_{1}x } \\
 \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots \\
 e^{ k_{p}x },\ xe^{ k_{p}x },\dots, x^{m_{p}-1}e^{ k_{p}x } \\

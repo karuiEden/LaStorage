@@ -74,9 +74,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.14.4"
             }
+          },
+          {
+            "id": "d8a857392f8b67f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Агенты/Agentless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentless"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,10 +265,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a13b11f51ccace2e",
+  "active": "d8a857392f8b67f7",
   "lastOpenFiles": [
-    "ML/Агенты/ReAct.md",
+    "ML/Агенты/Agentless.md",
     "conflict-files-obsidian-git.md",
+    "ТЗ.md",
+    "ML/DL/media/ModalNet-21.png",
+    "ML/DL/Transformer.md",
+    "ML/DL/Attention/media/ModalNet-20.png",
+    "ML/DL/Attention/media/ModalNet-19.png",
+    "ML/DL/Attention/Масштабированный attention через скалярное произведение.md",
+    "ML/DL/Attention/Multi-Query Attention.md",
+    "ML/DL/Attention/Multi-head Attention.md",
+    "ML/DL/Attention/media",
+    "ML/DL/Attention/Group Query Attention.md",
+    "ML/DL/Attention/Attention.md",
+    "ML/DL/Attention",
+    "ML/Агенты/ReAct.md",
     "ML/Структурный вывод.md",
     "ML/Агенты/Структура агента.md",
     "ML/Агенты/Использование инструментов.md",
@@ -278,26 +305,13 @@
     "ОТИиК/Энтропия",
     "ОТИиК",
     "ОКЧП/Основы теории множеств/Отношения на множестве.md",
-    "ОКЧП/Основы теории множеств/Операции над множествами.md",
-    "ОКЧП/Основы теории множеств/Мощность множеств.md",
-    "ОКЧП/Основы теории множеств/Множества.md",
-    "ОКЧП/Основы теории множеств/Круги Эйлера.md",
-    "ОКЧП/Основы теории множеств/Аксиомы множеств.md",
     "ОКЧП/Основы теории множеств",
-    "Моделирование систем/Введение.md",
     "Моделирование систем/Pasted image 20260905132504.png",
     "Моделирование систем/Pasted image 20260905132245.png",
     "Моделирование систем",
     "Дифференциальная геометрия/media/Pasted image 20260908155142.png",
-    "Дифференциальная геометрия/Многообразия.md",
-    "Дифференциальная геометрия/Линейные группы Ли.md",
     "Дифференциальная геометрия/media",
     "Дифференциальная геометрия",
-    "ML/Агенты/media/Pasted image 20260925174433.png",
-    "ML/Агенты/media/Pasted image 20260925173835.png",
-    "ML/Агенты/media/Pasted image 20260925171121.png",
-    "ML/Агенты/media/Pasted image 20260925170428.png",
-    "Untitled",
-    "Абстрактная алгебра"
+    "ML/Агенты/media/Pasted image 20260925174433.png"
   ]
 }

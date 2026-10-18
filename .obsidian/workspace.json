@@ -64,17 +64,15 @@
             }
           },
           {
-            "id": "194d4f289631e02d",
+            "id": "a13b11f51ccace2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.14.4"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
             }
           }
         ],
@@ -253,7 +251,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "194d4f289631e02d",
+  "active": "a13b11f51ccace2e",
   "lastOpenFiles": [
     "ML/Агенты/ReAct.md",
     "conflict-files-obsidian-git.md",

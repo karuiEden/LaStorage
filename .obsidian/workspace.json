@@ -41,26 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/DL/RoPE (Rotary Position Embedding).md",
+                "file": "ТЗ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoPE (Rotary Position Embedding)"
+              "title": "ТЗ"
             }
           },
           {
-            "id": "4be149e8884ba11e",
+            "id": "64ee7f51e756b5a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "file:C:/Users/retro/Downloads/GPSS_World_алгоритмы_тестов_Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "GPSS_World_алгоритмы_тестов_Obsidian"
             }
           }
         ],
@@ -272,14 +272,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4be149e8884ba11e",
+  "active": "64ee7f51e756b5a0",
   "lastOpenFiles": [
+    "file:C:/Users/retro/Downloads/GPSS_классы_задач_по_двум_тестам (1).md",
+    "Без названия.md",
+    "ТЗ.md",
+    "курсовая.md",
+    "CUDA/Модель памяти GPU.md",
+    "CUDA/Модель железа GPU.md",
+    "CUDA/Основы.md",
     "ML/DL/RoPE (Rotary Position Embedding).md",
     "conflict-files-obsidian-git.md",
     "ML/Агенты/Agentless.md",
     "ML/DL/Функции активации/Exponential linear unit (ELU) activation.md",
-    "ТЗ.md",
-    "курсовая.md",
     "ML/DL/Нормализация/QKNorm.md",
     "ML/DL/Нормализация/RMSNorm.md",
     "ML/DL/Нормализация/LayerNorm.md",
@@ -301,11 +306,6 @@
     "Математический анализ/Глава 2. Пределы/Бесконечно большие и бесконечно малые функции.md",
     "Математический анализ/Глава 2. Пределы/Второй замечательный предел.md",
     "Математический анализ/Глава 1. Действительные числа. Числовые последовательности/Дедекиндово сечение. Действительные числа, действия над ними. Полнота по дедекинду.md",
-    "Математический анализ/Глава 1. Действительные числа. Числовые последовательности/Обоснования.md",
-    "ML/DL/Трансформеры.md",
-    "Дифференциальные уравнения/Семинар 9.md",
-    "ML/NLP/LLM.md",
-    "Теория вероятности/Случайные величины/Показательное распределение.md",
     "ML/Агенты/media/Pasted image 20261005152619.png",
     "ML/Агенты/media/Pasted image 20261005150526.png",
     "ML/Агенты/media/Pasted image 20261001160909.png",
